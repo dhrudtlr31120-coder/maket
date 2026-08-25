@@ -47,7 +47,18 @@ jobs:
           git add data/
           if git diff --staged --quiet; then
             echo "바뀐 내용 없음"
-          else
-            git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+          git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # 수집이 도는 동안 누가 파일을 올리면 push 가 거절된다.
+          # 남의 커밋 위로 얹은 뒤 다시 시도한다.
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "푸시 완료 (시도 $i)"
+              exit 0
+            fi
+            echo "충돌 - 재시도 $i"
+            sleep 5
+          done
+          echo "3번 시도했지만 푸시하지 못했습니다"
+          exit 1
