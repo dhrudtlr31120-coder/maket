@@ -224,13 +224,36 @@ function card(label, icon, value, changeHtml, subHtml, extraHtml){
 
 var LAST = {};
 
+/* 업비트는 없는 마켓이 하나라도 섞이면 요청 전체를 404로 거절한다.
+   그래서 실제로 존재하는 KRW 마켓 목록을 먼저 받아 걸러낸다. 최초 1회만 조회. */
+var UPBIT_OK = null;
+
+function upbitMarkets(){
+  if(UPBIT_OK) return Promise.resolve(UPBIT_OK);
+  return getJSON("https://api.upbit.com/v1/market/all").then(function(all){
+    var set = {};
+    all.forEach(function(m){
+      if(String(m.market).indexOf("KRW-") === 0) set[String(m.market).slice(4)] = true;
+    });
+    UPBIT_OK = set;
+    return set;
+  }).catch(function(){
+    return null;              // 실패하면 다음 주기에 다시 시도
+  });
+}
+
 function loadLive(){
   var bSyms = COINS.map(function(c){ return c+"USDT"; });
   var bUrl = BINANCE + "?symbols=" + encodeURIComponent(JSON.stringify(bSyms));
-  var uMkts = ["KRW-USDT"].concat(COINS.map(function(c){ return "KRW-"+c; })).join(",");
-  var uUrl = UPBIT + "?markets=" + encodeURIComponent(uMkts);
 
-  return Promise.allSettled([
+  return upbitMarkets().then(function(ok){
+    // 목록을 못 받았으면 확실히 존재하는 것만 최소한으로 요청
+    var want = ok ? ["USDT"].concat(COINS).filter(function(c){ return ok[c]; })
+                  : ["USDT", "BTC"];
+    var uUrl = UPBIT + "?markets=" +
+      encodeURIComponent(want.map(function(c){ return "KRW-" + c; }).join(","));
+
+    return Promise.allSettled([
     getJSON(bUrl),
     getJSON(uUrl),
     getJSON("https://api.alternative.me/fng/"),
@@ -255,11 +278,12 @@ function loadLive(){
     renderPrem(B, U, fx);
     renderCoins(B, U, fx);
 
-    var ok = !!(bin && upb);
-    $("dot").className = "dot" + (ok?"":" stale");
+    var good = !!(bin && upb);
+    $("dot").className = "dot" + (good?"":" stale");
     var t = new Date().toLocaleTimeString("ko-KR",{hour12:false});
-    $("stamp").textContent = ok ? (t + " 갱신")
+    $("stamp").textContent = good ? (t + " 갱신")
       : (bin || upb) ? (t + " 일부 실패") : "시세 연결 실패";
+  });
   });
 }
 
