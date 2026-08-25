@@ -1,0 +1,473 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Overview</title>
+<meta name="description" content="크립토 · 반도체 · 원자재 시장 한눈에 보기">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  --bg:#0C0F12; --panel:#13171B; --panel-2:#1A1F25; --line:#242B33;
+  --ink:#E6E9EC; --ink-2:#A8B0B9; --muted:#6B747E;
+  --up:#4ADE80; --up-bg:#122A1D;
+  --down:#F87171; --down-bg:#2C1618;
+  --flat:#C3A46A; --flat-bg:#2A2317;
+  --accent:#4ADE80;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:"IBM Plex Sans KR","Apple SD Gothic Neo",system-ui,sans-serif;
+  font-size:15px; line-height:1.7; -webkit-font-smoothing:antialiased;
+}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace;}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 18px 80px;}
+
+/* header */
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px;margin-bottom:8px;}
+h1{
+  font-family:"IBM Plex Mono",monospace;font-weight:600;
+  font-size:clamp(22px,4vw,32px);margin:0;letter-spacing:-.01em;color:var(--ink);
+}
+.by{color:var(--muted);font-size:14px;}
+.status{margin-left:auto;font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--muted);}
+.status .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--up);margin-right:6px;vertical-align:middle;}
+.status .dot.stale{background:var(--flat);}
+
+.eyebrow{
+  font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--muted);margin:36px 0 12px;
+}
+.eyebrow:first-of-type{margin-top:24px;}
+
+/* grids */
+.grid{display:grid;gap:12px;}
+.g4{grid-template-columns:repeat(auto-fit,minmax(210px,1fr));}
+.g3{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));}
+
+.card{
+  background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px;
+}
+.card .lbl{display:flex;align-items:center;justify-content:space-between;gap:8px;color:var(--ink-2);font-size:13.5px;font-weight:500;}
+.card .val{font-family:"IBM Plex Mono",monospace;font-size:27px;font-weight:600;margin-top:10px;letter-spacing:-.02em;font-variant-numeric:tabular-nums;}
+.card .sub{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted);margin-top:4px;font-variant-numeric:tabular-nums;}
+.chg{
+  display:inline-block;font-family:"IBM Plex Mono",monospace;font-size:12.5px;font-weight:500;
+  padding:2px 8px;border-radius:5px;margin-top:9px;font-variant-numeric:tabular-nums;
+}
+.chg.up{color:var(--up);background:var(--up-bg);}
+.chg.down{color:var(--down);background:var(--down-bg);}
+.chg.flat{color:var(--flat);background:var(--flat-bg);}
+
+/* fear&greed meter */
+.meter{height:5px;border-radius:3px;margin-top:12px;background:linear-gradient(90deg,#F87171,#C3A46A,#4ADE80);position:relative;}
+.meter i{position:absolute;top:-3px;width:3px;height:11px;background:var(--ink);border-radius:2px;transform:translateX(-50%);}
+
+/* table */
+.tablewrap{border:1px solid var(--line);border-radius:10px;background:var(--panel);overflow-x:auto;}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:14px;}
+th,td{padding:11px 14px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap;}
+th:first-child,td:first-child{text-align:left;}
+th{
+  font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--muted);font-weight:500;background:var(--panel-2);
+}
+tbody tr:last-child td{border-bottom:none;}
+td.n{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;}
+td .sym{font-weight:600;}
+.pos{color:var(--up);} .neg{color:var(--down);} .neu{color:var(--flat);}
+
+/* news cards */
+.news{display:flex;flex-direction:column;gap:8px;max-height:560px;overflow-y:auto;padding-right:4px;}
+.nitem{
+  display:flex;gap:11px;align-items:flex-start;
+  background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:11px 13px;
+}
+.nitem:hover{border-color:#333C46;}
+.tone{
+  flex:0 0 auto;font-family:"IBM Plex Mono",monospace;font-size:10.5px;font-weight:600;
+  padding:2px 7px;border-radius:4px;margin-top:2px;
+}
+.tone.up{color:var(--up);background:var(--up-bg);}
+.tone.down{color:var(--down);background:var(--down-bg);}
+.tone.mid{color:var(--flat);background:var(--flat-bg);}
+.nbody{min-width:0;}
+.nbody a{color:var(--ink);text-decoration:none;font-size:14px;line-height:1.55;display:block;}
+.nbody a:hover{text-decoration:underline;}
+.nmeta{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--muted);margin-top:4px;}
+
+/* digest */
+.digest{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px;max-height:560px;overflow-y:auto;}
+.digest h3{margin:0 0 2px;font-size:15.5px;font-weight:600;}
+.digest .dt{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);margin-bottom:12px;}
+.digest h4{margin:16px 0 6px;font-size:13px;font-weight:600;color:var(--ink-2);}
+.digest ul{margin:0;padding-left:16px;}
+.digest li{font-size:13.5px;line-height:1.65;margin-bottom:5px;color:var(--ink-2);}
+.digest .one{margin-top:16px;padding-top:12px;border-top:1px solid var(--line);font-size:13.5px;color:var(--ink);}
+
+.split{display:grid;gap:18px;grid-template-columns:1fr;margin-top:36px;}
+@media (min-width:900px){ .split{grid-template-columns:1.15fr .85fr;} }
+.tgitem{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:11px 13px;}
+.tghead{display:flex;justify-content:space-between;gap:8px;font-family:"IBM Plex Mono",monospace;font-size:10.5px;margin-bottom:5px;}
+.tghead .who{color:var(--accent);}
+.tghead .when{color:var(--muted);}
+.tgtext{font-size:13.5px;line-height:1.6;color:var(--ink-2);white-space:pre-wrap;word-break:break-word;}
+.tgtext a{color:var(--muted);font-size:11px;font-family:"IBM Plex Mono",monospace;text-decoration:none;}
+.empty{color:var(--muted);font-size:13.5px;padding:18px;text-align:center;
+  border:1px dashed var(--line);border-radius:8px;font-family:"IBM Plex Mono",monospace;}
+.err{color:var(--down);font-size:12px;font-family:"IBM Plex Mono",monospace;}
+footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--line);color:var(--muted);font-size:12px;}
+a{color:var(--accent);}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+@media (prefers-reduced-motion:no-preference){.card,.nitem{transition:border-color .15s ease;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Market Overview</h1>
+  <span class="by mono">by @<span id="handle">simon</span></span>
+  <span class="status"><span class="dot" id="dot"></span><span id="stamp">불러오는 중…</span></span>
+</header>
+
+<div class="eyebrow">Crypto</div>
+<div class="grid g4" id="top"></div>
+
+<div class="eyebrow">Premium · 김치 프리미엄</div>
+<div class="grid g4" id="prem"></div>
+
+<div class="eyebrow">거래소별 가격</div>
+<div class="tablewrap">
+  <table>
+    <thead><tr>
+      <th>코인</th><th>바이낸스 (USDT)</th><th>업비트 (KRW)</th>
+      <th>업비트 환산 (USDT)</th><th>김프</th><th>24h</th>
+    </tr></thead>
+    <tbody id="coins"><tr><td colspan="6" style="text-align:center;color:var(--muted);">불러오는 중…</td></tr></tbody>
+  </table>
+</div>
+
+<div class="eyebrow">지수 · 원자재</div>
+<div class="grid g4" id="macro"></div>
+
+<div class="eyebrow">Latest Digest · AI 일일 요약</div>
+<div class="grid g3" id="digests"></div>
+
+<div class="split">
+  <div>
+    <div class="eyebrow" style="margin-top:0;">News · 호재 / 악재</div>
+    <div class="news" id="news"></div>
+  </div>
+  <div>
+    <div class="eyebrow" style="margin-top:0;">Live Feed · 텔레그램</div>
+    <div class="news" id="tg"></div>
+  </div>
+</div>
+
+<footer>
+  시세는 브라우저가 업비트 · 바이낸스 · CoinPaprika · alternative.me 에서 직접 가져옵니다 (60초마다 갱신).
+  뉴스와 지수는 GitHub Actions 로봇이 주기적으로 수집합니다.
+  <br>투자 판단의 근거로 삼기 전에 반드시 원본 출처를 확인하세요.
+</footer>
+
+</div>
+
+<script>
+"use strict";
+
+var COINS = ["BTC","ETH","XRP","SOL","BNB","DOGE","ADA","LINK","SUI","AVAX"];
+var BINANCE = "https://data-api.binance.vision/api/v3/ticker/24hr";
+var UPBIT   = "https://api.upbit.com/v1/ticker";
+
+function $(id){ return document.getElementById(id); }
+function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
+  return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }
+
+function num(v, d){
+  if(v==null || !isFinite(v)) return "—";
+  return Number(v).toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});
+}
+function usd(v){
+  if(v==null || !isFinite(v)) return "—";
+  var d = v>=1000?0 : v>=1?2 : v>=0.01?4 : 6;
+  return "$"+num(v,d);
+}
+function krw(v){ return v==null||!isFinite(v) ? "—" : "₩"+num(v,0); }
+function pct(v){
+  if(v==null || !isFinite(v)) return "—";
+  return (v>0?"+":"")+v.toFixed(2)+"%";
+}
+function cls(v){ return v==null||!isFinite(v) ? "flat" : v>0.02 ? "up" : v<-0.02 ? "down" : "flat"; }
+function tcls(v){ return v==null||!isFinite(v) ? "neu" : v>0 ? "pos" : v<0 ? "neg" : "neu"; }
+
+function getJSON(url){
+  return fetch(url, {cache:"no-store"}).then(function(r){
+    if(!r.ok) throw new Error(r.status+" "+url);
+    return r.json();
+  });
+}
+
+function card(label, icon, value, changeHtml, subHtml, extraHtml){
+  return '<div class="card">'
+    + '<div class="lbl"><span>'+esc(label)+'</span><span>'+(icon||"")+'</span></div>'
+    + '<div class="val">'+value+'</div>'
+    + (changeHtml||"") + (subHtml?'<div class="sub">'+subHtml+'</div>':"") + (extraHtml||"")
+    + '</div>';
+}
+
+/* ---------------- live market ---------------- */
+
+var LAST = {};
+
+/* 업비트 주의사항 두 가지.
+   1) 없는 마켓이 하나라도 섞이면 요청 전체를 404로 거절한다 (예: KRW-BNB 없음).
+   2) 짧은 간격으로 두 번 부르면 두 번째를 거부한다.
+   그래서 마켓 목록은 브라우저에 하루치 캐시해 두고,
+   목록을 새로 받은 주기에는 시세 호출을 건너뛴다. 한 주기에 업비트 호출은 항상 1회. */
+var UPBIT_OK = null;
+var MKT_KEY = "upbit_krw_markets_v1";
+var MKT_TTL = 24 * 60 * 60 * 1000;
+
+function upbitMarkets(){
+  if(UPBIT_OK) return Promise.resolve({set:UPBIT_OK, fetched:false});
+  try{
+    var raw = localStorage.getItem(MKT_KEY);
+    if(raw){
+      var o = JSON.parse(raw);
+      if(o && o.m && (Date.now() - o.t) < MKT_TTL){
+        UPBIT_OK = o.m;
+        return Promise.resolve({set:UPBIT_OK, fetched:false});
+      }
+    }
+  }catch(e){}
+  return getJSON("https://api.upbit.com/v1/market/all").then(function(all){
+    var set = {};
+    all.forEach(function(m){
+      if(String(m.market).indexOf("KRW-") === 0) set[String(m.market).slice(4)] = true;
+    });
+    UPBIT_OK = set;
+    try{ localStorage.setItem(MKT_KEY, JSON.stringify({t:Date.now(), m:set})); }catch(e){}
+    return {set:set, fetched:true};
+  }).catch(function(){
+    return {set:null, fetched:true};
+  });
+}
+
+var LASTU = {}, LASTFX = null;   // 일시적 실패 때 직전 값을 유지해 화면이 비지 않게
+
+function loadLive(){
+  var bSyms = COINS.map(function(c){ return c+"USDT"; });
+  var bUrl = BINANCE + "?symbols=" + encodeURIComponent(JSON.stringify(bSyms));
+
+  return upbitMarkets().then(function(mk){
+    var ok = mk.set;
+    var calls = [
+      getJSON(bUrl),
+      getJSON("https://api.alternative.me/fng/"),
+      getJSON("https://api.coinpaprika.com/v1/global")
+    ];
+
+    if(mk.fetched){
+      // 방금 마켓 목록을 받았다 -> 이번엔 시세를 건너뛰고 잠시 뒤 다시 시도
+      setTimeout(function(){ loadLive().catch(function(){}); }, 6000);
+      calls.push(Promise.reject(new Error("skip")));
+    } else {
+      var want = ok ? ["USDT"].concat(COINS).filter(function(c){ return ok[c]; })
+                    : ["USDT", "BTC"];
+      calls.push(getJSON(UPBIT + "?markets=" +
+        encodeURIComponent(want.map(function(c){ return "KRW-" + c; }).join(","))));
+    }
+
+    return Promise.allSettled(calls).then(function(res){
+      var bin = res[0].status==="fulfilled" ? res[0].value : null;
+      var fng = res[1].status==="fulfilled" ? res[1].value : null;
+      var glb = res[2].status==="fulfilled" ? res[2].value : null;
+      var upb = res[3].status==="fulfilled" ? res[3].value : null;
+
+      var B = {}, U = {};
+      if(bin) bin.forEach(function(t){ B[t.symbol.replace("USDT","")] = {
+        p:parseFloat(t.lastPrice), c:parseFloat(t.priceChangePercent) }; });
+      if(upb){
+        upb.forEach(function(t){ U[t.market.replace("KRW-","")] = {
+          p:t.trade_price, c:t.signed_change_rate*100 }; });
+        LASTU = U;
+      } else {
+        U = LASTU;
+      }
+
+      var fx = U.USDT ? U.USDT.p : LASTFX;
+      if(U.USDT) LASTFX = fx;
+      LAST = {B:B, U:U, fx:fx};
+
+      renderTop(B, U, fx, fng, glb);
+      renderPrem(B, U, fx);
+      renderCoins(B, U, fx);
+
+      var haveU = !!(U && U.USDT);
+      var good = !!bin && haveU;
+      $("dot").className = "dot" + (good?"":" stale");
+      var t = new Date().toLocaleTimeString("ko-KR",{hour12:false});
+      $("stamp").textContent = mk.fetched ? "마켓 목록 확인 중…"
+        : good ? (t + " 갱신")
+        : (bin || haveU) ? (t + " 일부 실패") : "시세 연결 실패";
+    });
+  });
+}
+
+function kimchi(sym, B, U, fx){
+  if(!fx || !B[sym] || !U[sym]) return null;
+  var upbitInUsdt = U[sym].p / fx;
+  return (upbitInUsdt / B[sym].p - 1) * 100;
+}
+
+function renderTop(B,U,fx,fng,glb){
+  var h = "";
+  ["BTC","ETH"].forEach(function(s){
+    var d = B[s];
+    h += card(s==="BTC"?"Bitcoin":"Ethereum", s==="BTC"?"₿":"Ξ",
+      d?usd(d.p):"—",
+      d?'<div class="chg '+cls(d.c)+'">'+pct(d.c)+'</div>':"",
+      U[s]?krw(U[s].p)+" · 업비트":"");
+  });
+
+  var dom = glb ? glb.bitcoin_dominance_percentage : null;
+  h += card("BTC Dominance","◑", dom!=null?dom.toFixed(1)+"%":"—", "",
+    glb?"전체 시총 $"+num(glb.market_cap_usd/1e9,0)+"B":"");
+
+  var v = fng && fng.data && fng.data[0] ? parseInt(fng.data[0].value,10) : null;
+  var lab = fng && fng.data && fng.data[0] ? fng.data[0].value_classification : "";
+  var KO = {"Extreme Fear":"극단적 공포","Fear":"공포","Neutral":"중립","Greed":"탐욕","Extreme Greed":"극단적 탐욕"};
+  h += card("Fear & Greed","●",
+    '<span class="'+(v==null?"":v>=55?"pos":v<=45?"neg":"neu")+'">'+(v==null?"—":v)+'</span>',
+    "", KO[lab]||lab,
+    v==null?"":'<div class="meter"><i style="left:'+v+'%"></i></div>');
+
+  $("top").innerHTML = h;
+}
+
+function renderPrem(B,U,fx){
+  var kBTC = kimchi("BTC",B,U,fx), kETH = kimchi("ETH",B,U,fx);
+  var h = "";
+  h += card("김프 (BTC)","🇰🇷",
+    '<span class="'+tcls(kBTC)+'">'+(kBTC==null?"—":pct(kBTC))+'</span>', "",
+    "업비트 USDT 환산 기준");
+  h += card("김프 (ETH)","🇰🇷",
+    '<span class="'+tcls(kETH)+'">'+(kETH==null?"—":pct(kETH))+'</span>', "", "");
+  h += card("USDT/KRW","💱", fx?krw(fx):"—",
+    U.USDT?'<div class="chg '+cls(U.USDT.c)+'">'+pct(U.USDT.c)+'</div>':"",
+    "업비트 실거래 환율");
+  h += card("BTC (KRW)","₿", U.BTC?krw(U.BTC.p):"—",
+    U.BTC?'<div class="chg '+cls(U.BTC.c)+'">'+pct(U.BTC.c)+'</div>':"", "업비트");
+  $("prem").innerHTML = h;
+}
+
+function renderCoins(B,U,fx){
+  var rows = COINS.map(function(s){
+    var b=B[s], u=U[s], k=kimchi(s,B,U,fx);
+    var conv = (u&&fx) ? u.p/fx : null;
+    return '<tr>'
+      + '<td><span class="sym">'+s+'</span></td>'
+      + '<td class="n">'+(b?usd(b.p):"—")+'</td>'
+      + '<td class="n">'+(u?krw(u.p):"—")+'</td>'
+      + '<td class="n">'+(conv?usd(conv):"—")+'</td>'
+      + '<td class="n '+tcls(k)+'">'+(k==null?"—":pct(k))+'</td>'
+      + '<td class="n '+tcls(b?b.c:null)+'">'+(b?pct(b.c):"—")+'</td>'
+      + '</tr>';
+  }).join("");
+  $("coins").innerHTML = rows;
+}
+
+/* ---------------- robot-collected data ---------------- */
+
+function loadMacro(){
+  return getJSON("data/market.json").then(function(m){
+    if(!m || !m.items || !m.items.length){ $("macro").innerHTML = '<div class="empty">로봇이 아직 지수를 수집하지 않았습니다</div>'; return; }
+    $("macro").innerHTML = m.items.map(function(it){
+      return card(it.name, it.icon||"", it.display||num(it.price,2),
+        '<div class="chg '+cls(it.changePct)+'">'+pct(it.changePct)+'</div>', it.note||"");
+    }).join("");
+  }).catch(function(){
+    $("macro").innerHTML = '<div class="empty">data/market.json 없음 — 로봇 첫 실행 대기 중</div>';
+  });
+}
+
+function loadNews(){
+  return getJSON("data/news.json").then(function(n){
+    var T = {"호재":"up","악재":"down","모호":"mid"};
+    var A = {"호재":"▲","악재":"▼","모호":"◆"};
+    if(n.cards && n.cards.length){
+      $("news").innerHTML = n.cards.map(function(c){
+        var t = T[c.tone]||"mid";
+        return '<div class="nitem">'
+          + '<span class="tone '+t+'">'+(A[c.tone]||"")+' '+esc(c.tone)+'</span>'
+          + '<div class="nbody"><a href="'+esc(c.url)+'" target="_blank" rel="noopener noreferrer">'
+          + esc(c.title)+'</a><div class="nmeta">'+esc(c.source)+' · '+esc(c.ago||"")+'</div></div>'
+          + '</div>';
+      }).join("");
+    } else {
+      $("news").innerHTML = '<div class="empty">로봇이 아직 뉴스를 수집하지 않았습니다</div>';
+    }
+
+    if(n.digests && n.digests.length){
+      $("digests").innerHTML = n.digests.map(function(d){
+        var secs = (d.sections||[]).map(function(s){
+          return '<h4>'+esc(s.h)+'</h4><ul>'+(s.items||[]).map(function(i){
+            return '<li>'+esc(i)+'</li>'; }).join("")+'</ul>';
+        }).join("");
+        return '<div class="digest"><h3>'+esc(d.title)+'</h3>'
+          + '<div class="dt">'+esc(d.date||"")+'</div>'+secs
+          + (d.oneLine?'<div class="one"><b>한 줄 요약</b> — '+esc(d.oneLine)+'</div>':"")
+          + '</div>';
+      }).join("");
+    } else {
+      $("digests").innerHTML = '<div class="empty">로봇이 아직 요약을 만들지 않았습니다</div>';
+    }
+
+    if(n.handle) $("handle").textContent = n.handle;
+  }).catch(function(){
+    $("news").innerHTML = '<div class="empty">data/news.json 없음 — 로봇 첫 실행 대기 중</div>';
+    $("digests").innerHTML = '<div class="empty">data/news.json 없음</div>';
+  });
+}
+
+function loadTg(){
+  return getJSON("data/telegram.json").then(function(t){
+    if(!t.items || !t.items.length){
+      $("tg").innerHTML = '<div class="empty">로봇이 아직 텔레그램을 읽지 않았습니다</div>'; return;
+    }
+    $("tg").innerHTML = t.items.slice(0,40).map(function(m){
+      var txt = m.text.length>320 ? m.text.slice(0,320)+"…" : m.text;
+      return '<div class="tgitem">'
+        + '<div class="tghead"><span class="who">'+esc(m.source)+'</span>'
+        + '<span class="when">'+esc(m.ago||"")+'</span></div>'
+        + '<div class="tgtext">'+esc(txt)
+        + ' <a href="'+esc(m.url)+'" target="_blank" rel="noopener noreferrer">원문 →</a></div>'
+        + '</div>';
+    }).join("");
+  }).catch(function(){
+    $("tg").innerHTML = '<div class="empty">data/telegram.json 없음 — 로봇 첫 실행 대기 중</div>';
+  });
+}
+
+function boot(){
+  loadLive().catch(function(e){
+    $("dot").className = "dot stale";
+    $("stamp").textContent = "시세 불러오기 실패";
+    console.error(e);
+  });
+  loadMacro();
+  loadNews();
+  loadTg();
+}
+boot();
+setInterval(function(){ loadLive().catch(function(){}); }, 60000);
+setInterval(function(){ loadNews(); loadMacro(); }, 600000);
+setInterval(function(){ loadTg(); }, 180000);
+</script>
+</body>
+</html>
