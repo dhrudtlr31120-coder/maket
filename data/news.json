@@ -1,7 +1,493 @@
 {
- "updated": "아직 수집 전",
- "handle": "simon",
- "counts": {},
- "cards": [],
+ "updated": "2026-08-25 10:03:50 KST",
+ "handle": "",
+ "counts": {
+  "호재": 0,
+  "악재": 0,
+  "모호": 60,
+  "제외": 0
+ },
+ "cards": [
+  {
+   "tone": "모호",
+   "title": "절삭조건 추천 AI CAM '퓨전 AI' 베타테스터 모집",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=61301",
+   "source": "더일렉",
+   "ago": "방금",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "[비트 옵션 데일리] 미결제약정 396억8449만 달러…콜옵션 거래량 우위",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397081",
+   "source": "토큰포스트",
+   "ago": "1분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "펌프펀 본딩커브 거래량 94% 늘었다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397080",
+   "source": "토큰포스트",
+   "ago": "2분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "공포·탐욕지수 74, 탐욕 구간 유지했다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397079",
+   "source": "토큰포스트",
+   "ago": "3분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "알리바바 AI 클라우드·컴퓨트 45% 성장, 연산 수요 근거",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397077",
+   "source": "토큰포스트",
+   "ago": "3분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "294억달러 가이던스, 브로드컴 AI 매출 시험대",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397076",
+   "source": "토큰포스트",
+   "ago": "4분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "900만달러 수익, 하이퍼리퀴드 롱 2건서 나왔다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397075",
+   "source": "토큰포스트",
+   "ago": "4분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "2040년 최대전력 158.4기가와트로 재산정",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397074",
+   "source": "토큰포스트",
+   "ago": "6분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "16.6조엔 이자비용 검토, 일본 국채 압박 커졌다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397073",
+   "source": "토큰포스트",
+   "ago": "8분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "40~50% AI 조정론, 전력·신용 부담 겨눴다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397071",
+   "source": "토큰포스트",
+   "ago": "8분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "해치텍 상장 첫날 장 초반 16% 하락, 공모가 밑돌아",
+   "url": "https://www.tokenpost.kr/news/market/397070",
+   "source": "토큰포스트",
+   "ago": "8분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "이더리움 3000달러 가능성 거론, 과매수 신호도 동반",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397069",
+   "source": "토큰포스트",
+   "ago": "8분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "슈퍼폼, 토큰화 주식 수익화 상품 ‘슈퍼스톡스’ 출시",
+   "url": "https://www.blockmedia.co.kr/archives/1131658?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "8분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[개장시황] 코스피 6500선 회복했지만 2%대 약세…외국인 1조원 ‘팔자’",
+   "url": "https://www.blockmedia.co.kr/archives/1131673?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "10분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "제트유 분기 누적 39% 상승, 제트블루 구조조정론 나왔다",
+   "url": "https://www.tokenpost.kr/news/market/397068",
+   "source": "토큰포스트",
+   "ago": "10분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "코인베이스 공시 소송, 증거개시 절차로 넘어갔다",
+   "url": "https://www.tokenpost.kr/news/policy/397067",
+   "source": "토큰포스트",
+   "ago": "11분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "GS25, 역대 인기 도시락 '넘버원' 시리즈로 재출시",
+   "url": "https://www.etnews.com/20260825000072",
+   "source": "전자신문",
+   "ago": "11분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "LG이노텍, 美 채용연계형 행사서 '피지컬 AI' 글로벌 인재 영입戰",
+   "url": "https://www.etnews.com/20260825000071",
+   "source": "전자신문",
+   "ago": "12분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "금 4677달러, 미 장기채 바이백 확대와 맞물렸다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397066",
+   "source": "토큰포스트",
+   "ago": "12분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "대웅제약, 인니 할랄 의무화 대응…아세안 생산 허브 구축",
+   "url": "https://www.etnews.com/20260825000070",
+   "source": "전자신문",
+   "ago": "12분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "SK하이닉스 임단협 합의안 부결, 반대 50.1%",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/397065",
+   "source": "토큰포스트",
+   "ago": "12분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "코레일, 미래 철도포럼 개최…AI·모빌리티·지역균형발전 해법 모색",
+   "url": "https://www.etnews.com/20260825000069",
+   "source": "전자신문",
+   "ago": "13분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "대한전선, 佛 전시회서 포설선 등 해저케이블 턴키 경쟁력 선봬",
+   "url": "https://www.etnews.com/20260825000068",
+   "source": "전자신문",
+   "ago": "13분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "카카오 '단골가게', 강원 12곳 선정…최대 1억원 상당 혜택",
+   "url": "https://www.etnews.com/20260825000067",
+   "source": "전자신문",
+   "ago": "13분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "플리토, 전국 26개 초·중·고·특수학교에 AI 통번역 지원",
+   "url": "https://www.etnews.com/20260825000066",
+   "source": "전자신문",
+   "ago": "13분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "SK케미칼, 센스맘 사업협력…스카이펠 적용 침구 시장 확대",
+   "url": "https://www.etnews.com/20260825000065",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "전남대, 불에 타지 않는 차세대 나트륨 배터리 전해질 개발…ESS·유연 전자기기 상용화 기여",
+   "url": "https://www.etnews.com/20260824000367",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "전남대 등 국내 컨소시엄, 세계 최초 'All-다이아몬드 CMOS' 개발 추진",
+   "url": "https://www.etnews.com/20260824000365",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "[2026 전남광주미래산업박람회] LH, 빛그린국가산단·순천도시첨단산단 등 주요 산단 홍보",
+   "url": "https://www.etnews.com/20260824000160",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "[2026 ACE Fair] 몬들, '로보트 태권브이' 50주년 기념 다양한 굿즈·상품 선봬",
+   "url": "https://www.etnews.com/20260821000146",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "[2026 ACE Fair] 뷰티풀 띵스, 대표 캐릭터 IP '파티스크루' 등 부스 운영",
+   "url": "https://www.etnews.com/20260820000340",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "세븐일레븐, '올 뉴 간편식' 마끼 신제품 3종 출시",
+   "url": "https://www.etnews.com/20260825000063",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "GTA6 출시 앞두고 가짜 사이트 212개 등장…4곳 중 1곳은 사기 정황",
+   "url": "https://www.etnews.com/20260825000062",
+   "source": "전자신문",
+   "ago": "14분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "Dell’s stock is up 235% this year, and earnings could propel it even higher",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=827f3b39-8911-4c42-bdd9-a69b5de9c890&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "29분 전",
+   "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "AI scammers no longer need to hack your wallet if they can convince you to use it for them",
+   "url": "https://cryptoslate.com/ai-scammers-no-longer-need-to-hack-your-wallet-if-they-can-convince-you-to-use-it-for-them/",
+   "source": "CryptoSlate",
+   "ago": "59분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Make these 7 money moves before taking out a private student loan",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=4df11454-4b25-4412-970e-ddce42a442f9&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "1시간 전",
+   "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed",
+   "url": "https://www.fxstreet.com/news/australian-dollar-falls-as-iran-sanctions-sour-risk-appetite-rba-minutes-eyed-202608242258",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Chinese Yuan: Targeting 6.7200 against US Dollar – UOB",
+   "url": "https://www.fxstreet.com/news/chinese-yuan-targeting-67200-against-us-dollar-uob-202608242233",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Fidelity grants ETFs power to stake 100% of crypto while outlining exit delay risks",
+   "url": "https://cryptoslate.com/fidelity-grants-etfs-power-to-stake-100-of-crypto-while-outlining-exit-delay-risks/",
+   "source": "CryptoSlate",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
+   "url": "https://www.fxstreet.com/news/eur-jpy-price-forecast-bulls-struggle-at-187-amid-intervention-fears-202608242229",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+   "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+   "source": "Decrypt",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
+   "url": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-21700-caps-bulls-as-rsi-stalls-202608242207",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "US widens sanctions on Iran but withholds more punishing options",
+   "url": "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522",
+   "source": "Investing 원자재",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Visa and Mastercard hit fresh records, underscoring a resilient U.S. consumer",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=50f15a8b-e8de-45ed-835d-b61170b8eeec&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "2시간 전",
+   "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "미 CBO “미 재정적자 2.1조 달러”…베선트, GDP 대비 적자비율 반토막 목표",
+   "url": "https://www.blockmedia.co.kr/archives/1131642?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "South Korean Won: Rally faces consolidation risk on policy week – OCBC",
+   "url": "https://www.fxstreet.com/news/south-korean-won-rally-faces-consolidation-risk-on-policy-week-ocbc-202608242151",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "[뉴욕 금·채권·달러] 미 TGA 활용 바이백설에 10년물 금리 4.69%로 하락",
+   "url": "https://www.blockmedia.co.kr/archives/1131635?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Record intervention bought the Japanese Yen three weeks",
+   "url": "https://www.fxstreet.com/news/record-intervention-bought-the-japanese-yen-three-weeks-202608242148",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
+   "url": "https://www.fxstreet.com/news/eur-usd-price-forecast-11700-caps-bulls-as-rsi-overheats-202608242146",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "New Zealand Dollar muted near multi-month highs as it outweighs soft retail sales",
+   "url": "https://www.fxstreet.com/news/new-zealand-dollar-muted-near-multi-month-highs-as-it-outweighs-soft-retail-sales-202608242141",
+   "source": "FXStreet",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+   "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+   "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+   "source": "Decrypt",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "British Pound Sterling climbs on a problem it has worse",
+   "url": "https://www.fxstreet.com/news/british-pound-sterling-climbs-on-a-problem-it-has-worse-202608242124",
+   "source": "FXStreet",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Users warned to pull funds immediately as EU sanctions force crypto platform into withdrawal-only mode",
+   "url": "https://cryptoslate.com/users-warned-to-pull-funds-immediately-as-eu-sanctions-force-crypto-platform-into-withdrawal-only-mode/",
+   "source": "CryptoSlate",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 8만달러 눈앞…6개월 수익률 美증시·금 제쳤다",
+   "url": "https://www.blockmedia.co.kr/archives/1131633?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Japanese Yen lower as US Dollar firms on heavier Iran sanctions",
+   "url": "https://www.fxstreet.com/news/japanese-yen-lower-as-us-dollar-firms-on-heavier-iran-sanctions-202608242115",
+   "source": "FXStreet",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Singapore: National Day Rally focus – DBS",
+   "url": "https://www.fxstreet.com/news/singapore-national-day-rally-focus-dbs-202608242114",
+   "source": "FXStreet",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "As US border reopens to Mexican cattle, concerns persist over screwworm spread",
+   "url": "https://www.investing.com/news/commodities-news/mexico-boosts-sterile-fly-dispersal-as-us-reopens-cattle-trade-4873810",
+   "source": "Investing 원자재",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Hot Chips 2026: Intel Xeon 7 'Diamond Rapids' comes with up to 256 P-cores, 1.28 GB of last-level cache — next-gen 18A-P CPU also brings AVX 10.2 and uses UCIe-S instead of EMIB",
+   "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib",
+   "source": "Tom's Hardware",
+   "ago": "3시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "Oil slips as improved Hormuz shipping traffic offsets U.S. economic escalation",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-nearly-1-as-us-prepares-more-iran-sanctions-4872509",
+   "source": "Investing 원자재",
+   "ago": "3시간 전",
+   "group": "metal"
+  }
+ ],
  "digests": []
 }

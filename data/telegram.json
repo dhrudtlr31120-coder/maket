@@ -1,5 +1,512 @@
 {
- "updated": "아직 수집 전",
- "channels": [],
- "items": []
+ "updated": "2026-08-25 09:44:13 KST",
+ "channels": [
+  {
+   "name": "Tree News",
+   "id": "treenewsfeed",
+   "note": "초속보 헤드라인"
+  },
+  {
+   "name": "BWEnews",
+   "id": "BWEnews",
+   "note": "거래소 상장 공지"
+  },
+  {
+   "name": "FinancialJuice",
+   "id": "financialjuice",
+   "note": "거시 지표 속보"
+  },
+  {
+   "name": "Wu Blockchain",
+   "id": "wublockchainenglish",
+   "note": "아시아 크립토"
+  },
+  {
+   "name": "블록미디어",
+   "id": "blockmedia",
+   "note": "국내 크립토"
+  }
+ ],
+ "items": [
+  {
+   "text": "슈퍼폼, 토큰화 주식 수익화 상품 ‘슈퍼스톡스’ 출시\n\n온체인 자산 운용 프로토콜 슈퍼폼(Superform·UP2)이 토큰화 주식을 활용해 수익 전략을 운용하는 ‘슈퍼스톡스(SuperStocks)’를 출시한다. 코인베이스의 토큰화 주식이 베이스(Base)에서 출시된 가운데 엔비디아(NVDA)를 시작으로…\n\n#UP2\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131658?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-25T00:36:04+00:00",
+   "url": "https://t.me/blockmedia/113826",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "8분 전"
+  },
+  {
+   "text": "Poll: Bank of Korea likely to increase base rate to 3.00% on August 27, 18 of 35 economists say, others expect steady 2.75%|FJ",
+   "dt": "2026-08-25T00:35:43+00:00",
+   "url": "https://t.me/FinancialJuice/129751",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "[개장시황] 코스피 6500선 회복했지만 2%대 약세…외국인 1조원 ‘팔자’\n\n코스피가 장 초반 6400선까지 밀린 뒤 낙폭을 줄이며 6500선을 회복했다. 미국 반도체주 약세와 엔비디아 실적 발표를 앞둔 경계감이 삼성전자와 SK하이닉스 등…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131673?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-25T00:34:10+00:00",
+   "url": "https://t.me/blockmedia/113825",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "10분 전"
+  },
+  {
+   "text": "China PBOC expected to set yuan mid-point at 6.7219 per dollar: estimate|FJ",
+   "dt": "2026-08-25T00:14:15+00:00",
+   "url": "https://t.me/FinancialJuice/129750",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "29분 전"
+  },
+  {
+   "text": "Cosmos Labs Urges EVM Chains to Halt as Security Incident Spreads\n\nCosmos Labs said an ongoing security incident involving the Cosmos EVM module has affected users, with its security and engineering teams advising contacted Cosmos EVM chains to have validators halt their networks while the issue is addressed. The firm has not yet disclosed the vulnerability, affected chains or losses and plans to publish a post-mortem after resolution.\n\nRecent incidents tied to Cosmos EVM have already hit MANTRA, which halted its mainnet for roughly 30 hours, and KiiChain, which said an attacker exploited a Co",
+   "dt": "2026-08-25T00:12:47+00:00",
+   "url": "https://t.me/wublockchainenglish/25724",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "31분 전"
+  },
+  {
+   "text": "Ministers Champagne, Joly, Hajdu and Solomon to unveil Canadian reply to U.S. tariffs Tuesday at 3 p.m. GMT - statement (corrects time)|FJ",
+   "dt": "2026-08-24T23:11:31+00:00",
+   "url": "https://t.me/FinancialJuice/129749",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "UK PM Burnham plans US trip next month to lobby Trump on Ukraine requirements|FJ",
+   "dt": "2026-08-24T23:09:04+00:00",
+   "url": "https://t.me/FinancialJuice/129748",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Burnham plans US trip next month to lobby Trump on Ukraine aid|FJ",
+   "dt": "2026-08-24T23:08:25+00:00",
+   "url": "https://t.me/FinancialJuice/129747",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Ministers Champagne, Joly, Hajdu and Solomon to unveil Canadian response to U.S. tariffs Tuesday at 1 p.m. GMT: statement|FJ",
+   "dt": "2026-08-24T23:07:45+00:00",
+   "url": "https://t.me/FinancialJuice/129746",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Meta to unveil 'Hatch' AI agent platform in coming weeks: The Information|FJ",
+   "dt": "2026-08-24T22:42:06+00:00",
+   "url": "https://t.me/FinancialJuice/129745",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "미 CBO “미 재정적자 2.1조 달러”…베선트, GDP 대비 적자비율 반토막 목표\n\n미국의 국가부채가 약 40조달러에 이른 가운데 스콧 베선트 미국 재무장관이 조만간 재정적자 감축안을 내놓을 예정이다. 그러나 공화당이 장악한 의회에서 올해 순지출 삭감이…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131642?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T21:53:09+00:00",
+   "url": "https://t.me/blockmedia/113824",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "[뉴욕 금·채권·달러] 미 TGA 활용 바이백설에 10년물 금리 4.69%로 하락\n\n뉴욕 금융시장에서 미국 장기 국채 금리가 하락하고 금값이 1% 넘게 상승했다. 미 재무부가 장기 국채 바이백 확대에 재무부 일반계정(TGA)을 활용할 수 있다는…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131635?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T21:49:29+00:00",
+   "url": "https://t.me/blockmedia/113823",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "For fiscal 2027 budget, Japan's ministry plans to back acquisition of three to five ships: Nikkei|FJ",
+   "dt": "2026-08-24T21:47:15+00:00",
+   "url": "https://t.me/FinancialJuice/129744",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "Japan’s Ministry of Internal Affairs and Communications to incorporate related expenditures in fiscal 2027 budget request, due end of August - Nikkei|FJ",
+   "dt": "2026-08-24T21:46:27+00:00",
+   "url": "https://t.me/FinancialJuice/129743",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "Japan seeks $630 million to support purchase of undersea cable ships as risks increase: Nikkei|FJ",
+   "dt": "2026-08-24T21:45:52+00:00",
+   "url": "https://t.me/FinancialJuice/129742",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "US considers 7.5% China overcapacity tariffs ahead of Xi-Trump meeting|FJ",
+   "dt": "2026-08-24T21:33:31+00:00",
+   "url": "https://t.me/FinancialJuice/129741",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "비트코인 8만달러 눈앞…6개월 수익률 美증시·금 제쳤다\n\n비트코인이 8만달러 선에 다시 접근하면서 최근 6개월 기준 미국 증시와 금을 웃도는 성과를 기록하고 있다. 미국 재무부의 장기 국채 바이백 확대…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131633?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T21:17:06+00:00",
+   "url": "https://t.me/blockmedia/113822",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "[뉴욕 코인시황/마감] 비트코인 8만달러 직전 숨고르기…ETF 자금 유입·국채 바이백 기대에 7.8만달러 회복\n\n비트코인이 8만달러에 육박한 뒤 차익실현 매물을 소화하며 7만8700달러선에서 거래되고 있다. 미국 재무부의 국채 바이백 확대 기대와 현물 상장지수펀드(ETF)를 통한 기관 자금 유입이…\n\n#BNB #BTC #DOGE #ETH #HYPE #SOL #TRX #XRP #ZEC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131629?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T20:57:06+00:00",
+   "url": "https://t.me/blockmedia/113821",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "The Pakistani mediator left Tehran, carrying with him was goodwill to resolve the Iranian-American dispute, and on paper - Al Jazeera reporter on X|FJ",
+   "dt": "2026-08-24T20:29:09+00:00",
+   "url": "https://t.me/FinancialJuice/129740",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "[뉴욕증시 마감] 반도체주 급락에 증시 혼조…나스닥 0.76%↓·다우 0.26%↑\n\n뉴욕증시가 반도체와 기술주 약세 속에 혼조세로 마감됐다. 미 국채 금리가 하락하며 증시에 우호적인 환경을 조성했지만 마이크론테크놀로지와 AMD 브로드컴 등 주요 반도체주가 일제히…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131618?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T20:14:42+00:00",
+   "url": "https://t.me/blockmedia/113820",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "하이퍼리퀴드 HPC “무기한 선물, 경제적 구조로 규제 일원화를”\n\n하이퍼리퀴드 정책센터(Hyperliquid Policy Center·HPC)가 미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)에 무기한 선물(perpetual contract)을 위한 통일된 규제 체계를 마련해달라고 요청했다. 비트코인이나 원유, 주식처럼 무엇을 기초자산으로 삼는지보다…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131612?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T19:18:26+00:00",
+   "url": "https://t.me/blockmedia/113819",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "비트코인·이더리움 급등에 CEX 거래량 2배 껑충…고점 대비엔 ‘3분의 1\n\n디지털자산(가상자산) 시장이 급반등하면서 중앙화 거래소(CEX) 거래량이 닷새 만에 두 배로 증가했다. 비트코인과 이더리움이 지난주 각각 23%, 30% 이상 급등하면서 거래가 되살아났지만 거래량은…\n\n#BTC #ETH\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131610?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T18:57:36+00:00",
+   "url": "https://t.me/blockmedia/113818",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "트럼프, 스페이스X 주식 매입…방산 계약·우주 정책 이해충돌 논란\n\n도널드 트럼프 미국 대통령이 일론 머스크가 이끄는 스페이스X 주식을 최대 5만달러어치 매입한 것으로 나타났다. 미국 정부의 주요 계약업체인 스페이스X에 현직 대통령이 직접적인…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131606?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T18:39:03+00:00",
+   "url": "https://t.me/blockmedia/113817",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "6시간 전"
+  },
+  {
+   "text": "베선트, 이란 전면 봉쇄 발표 속 장기물 감축엔 침묵\n\n미국이 이란을 세계경제에서 고립시키기 위한 전면적인 경제 압박에 나섰다. 스콧 베선트 미국 재무장관은 디지털자산(가상자산)과 기술, 금, 항공, 해운을 이란의 5대 핵심 생명선으로…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131604?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T18:24:41+00:00",
+   "url": "https://t.me/blockmedia/113816",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "6시간 전"
+  },
+  {
+   "text": "월가 “미 국채 바이백으로 장기금리 못 잡는다…재정적자·물가가 문제”\n\n미국 재무부가 장기 국채 바이백을 확대했지만 월가 주요 투자은행들은 장기금리를 지속적으로 낮추기에는 역부족이라고 평가했다. 골드만삭스와 웰스파고는 최근 10년물과 30년물 금리 상승의 핵심…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1131600?utm_source=telegram&utm_medium=social",
+   "dt": "2026-08-24T18:02:07+00:00",
+   "url": "https://t.me/blockmedia/113815",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "6시간 전"
+  },
+  {
+   "text": "Base Launches Coinbase Tokenized Stocks, Bringing Apple and NVIDIA Shares Onchain\n\nBase announced that Coinbase-issued tokenized stocks are now live on the Base network under the B20 standard. The tokens represent real shares held 1:1 by regulated custodians, allowing eligible users to hold tokenized stocks such as Apple and NVIDIA in self-custody wallets and use them across Base’s DeFi ecosystem. The assets are managed through Alpaca, a regulated broker and custodian, enabling onchain trading, lending, and other financial applications. — link",
+   "dt": "2026-08-24T17:40:08+00:00",
+   "url": "https://t.me/wublockchainenglish/25723",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "7시간 전"
+  },
+  {
+   "text": "Standard Chartered Becomes First Bank to Distribute Hong Kong-Regulated HKDAP Stablecoin\n\nStandard Chartered has become the first bank to distribute one of Hong Kong’s two regulated stablecoins, offering HKDAP, issued by Anchorpoint Financial, to eligible institutional clients and partners. The bank plans to launch tokenized money market fund subscription and settlement services with asset managers in Q4, while also testing HKDAP for intragroup settlement and exploring cross-border payment and treasury-management use cases. — link",
+   "dt": "2026-08-24T16:54:04+00:00",
+   "url": "https://t.me/wublockchainenglish/25722",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "7시간 전"
+  },
+  {
+   "text": "Bitcoin Returns Above $80,000 After 113 Days, $179 Million in Futures Liquidated\n\nAccording to Binance market data, BTC has broken above the $80,000 level, reaching a nearly three-month high, and is currently trading at around $79,174. BTC last broke above $80,000 on May 4, 2026, marking a return to the level after 113 days. According to CoinGlass data, total crypto liquidations over the past four hours reached approximately $179.19 million, including $78.99 million in long positions and $100.20 million in short positions. — link",
+   "dt": "2026-08-24T16:15:33+00:00",
+   "url": "https://t.me/wublockchainenglish/25721",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "8시간 전"
+  },
+  {
+   "text": "CleanCore Exits Dogecoin Treasury Strategy With $33.4M DOGE Sale to Fund AI Pivot\n\nAccording to CryptoSlate, citing SEC filings, CleanCore sold substantially all of its 463 million DOGE holdings on July 20 for about $33.4 million and redirected the proceeds toward its AI infrastructure business. The company also completed a $100 million stock offering, increasing shares outstanding by about 122% to 502.1 million, while additional warrants could create further dilution. — link",
+   "dt": "2026-08-24T13:58:25+00:00",
+   "url": "https://t.me/wublockchainenglish/25720",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "10시간 전"
+  },
+  {
+   "text": "DWF Labs: Crypto Breakout Driven by Treasury Buyback Signal, Regulatory Tailwinds and ETF Inflows\n\nDWF Labs said Bitcoin posted its strongest weekly gain since March 2023, rising 23.6% to $77.7K, while ETH gained 31.3% to $2.46K. The firm pointed to several catalysts, including the U.S. Treasury’s decision to double long-end bond buybacks to at least $4 billion per operation, the SEC’s Regulation Crypto proposal, and $2.6 billion in combined BTC and ETH ETF inflows. Crypto volatility also rebounded sharply, with August 19 seeing about $2.99 billion in liquidations, mostly shorts, while aggrega",
+   "dt": "2026-08-24T13:38:18+00:00",
+   "url": "https://t.me/wublockchainenglish/25719",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "11시간 전"
+  },
+  {
+   "text": "BitMine Adds 32,447 ETH as Holdings Reach 5.85M ETH\n\nBitMine said it acquired 32,447 ETH over the past week, bringing total holdings to 5,847,611 ETH, or about 4.8% of Ethereum’s supply. The company has staked 5,067,309 ETH, roughly 87% of its holdings, with projected annualized staking revenue of about $330 million. BitMine also reported $308 million in cash and marketable securities, while total crypto, cash, securities and other investments reached $14.9 billion as of August 23. — link",
+   "dt": "2026-08-24T12:34:24+00:00",
+   "url": "https://t.me/wublockchainenglish/25718",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "12시간 전"
+  },
+  {
+   "text": "JUST IN: Strategy Raises $2.0B Through MSTR Sales, Creates New $1.59B USD Cash Pool\n\nStrategy said it sold 18.26 million MSTR shares for $2.01 billion in net proceeds between August 17 and 23. Of the proceeds, $136.4 million was used to repurchase STRC preferred shares, $300 million was added to its existing USD Reserve, and the remainder was allocated to a newly established “USD Cash” pool for flexible Bitcoin treasury purposes, including potential BTC purchases, debt service and share repurchases. As of August 23, Strategy held $5.10 billion in USD Reserve and $1.59 billion in USD Cash. The ",
+   "dt": "2026-08-24T12:04:19+00:00",
+   "url": "https://t.me/wublockchainenglish/25717",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "12시간 전"
+  },
+  {
+   "text": "U.S. Treasury Considers Using $950B TGA to Support Larger Long-Term Bond Buybacks\n\nAccording to CNBC, citing two senior Treasury officials, the U.S. Treasury is considering using funds from its roughly $950 billion Treasury General Account to help finance larger buybacks of long-dated government debt. Treasury recently doubled the size of individual buybacks of off-the-run 10- to 30-year securities from $2 billion to at least $4 billion, while Treasury Secretary Scott Bessent said the operations could be even larger. Officials did not disclose how much of the TGA might be used or when, but sai",
+   "dt": "2026-08-24T11:48:13+00:00",
+   "url": "https://t.me/wublockchainenglish/25716",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "12시간 전"
+  },
+  {
+   "text": "Ransomnews: API Keys From 659 Stripe Merchants Leaked Alongside 688,000 Customer Records\n\nAccording to Ransomnews, a dataset published on a data-trading forum contained API keys tied to 659 Stripe merchant accounts, along with roughly 35GB of customer and payment data covering 688,363 customer records. The leak included 650 live secret keys and nine restricted keys. Collector metadata indicated that 573 accounts could accept payments, 531 could make payouts, and 519 had both capabilities, though Ransomnews did not test the keys itself. The outlet said Stripe’s own systems were not compromised ",
+   "dt": "2026-08-24T11:32:33+00:00",
+   "url": "https://t.me/wublockchainenglish/25715",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "13시간 전"
+  },
+  {
+   "text": "Trump-Backed World Liberty Wins Conditional OCC Approval for National Trust Bank\n\nAccording to Bloomberg, World Liberty Financial has received conditional approval from the U.S. OCC to establish a national trust bank that could hold assets backing its USD1 stablecoin. The approval comes amid a surge in new U.S. bank charters, with the OCC approving 22 applications in the first 19 months of Trump’s second term, more than in the previous five years combined. World Liberty must still meet capital, governance and audit requirements before receiving final authorization. — link",
+   "dt": "2026-08-24T09:52:09+00:00",
+   "url": "https://t.me/wublockchainenglish/25714",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "14시간 전"
+  },
+  {
+   "text": "Upbit and Bithumb Designate SAND as an Investment Caution Asset Over Unresolved Security Incidents\n\nAccording to official announcements, South Korea’s largest crypto exchange Upbit and second-largest crypto exchange Bithumb designated The Sandbox (SAND) as an investment caution asset on Aug. 24, citing unexplained or unresolved security incidents, including potential hacks involving its wallets or distributed ledger.\n\nBithumb is expected to review between Sept. 28 and Oct. 2 whether to lift or extend the caution designation or terminate support for SAND trading. The Sandbox is a blockchain-bas",
+   "dt": "2026-08-24T06:20:43+00:00",
+   "url": "https://t.me/wublockchainenglish/25713",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "18시간 전"
+  },
+  {
+   "text": "UPBIT LISTING: [거래] 라이터(LIT) KRW 마켓 디지털 자산 추가\n\nUpbit 上新: [交易] LIT KRW 交易对新增数字资产\n\nLIT  MarketCap: 912M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-24 10:34:43\nsource: https://upbit.com/service_center/notice?id=456113451",
+   "dt": "2026-08-24T02:34:44+00:00",
+   "url": "https://t.me/BWEnews/16418",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "22시간 전"
+  },
+  {
+   "text": "Bithumb Listing: [마켓 추가] 프롬(PROM) 원화 마켓 추가\n\nBithumb上新: 【市场新增】PROM KRW 市场新增\n\nPROM  MarketCap: 50.3M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-24 09:43:17\nsource: https://feed.bithumb.com/notice/1654581",
+   "dt": "2026-08-24T01:43:33+00:00",
+   "url": "https://t.me/BWEnews/16417",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "23시간 전"
+  },
+  {
+   "text": "UPBIT LISTING: [거래] 인터폴드(FOLD) 신규 거래지원 안내 (KRW, BTC, USDT 마켓)\n\nUpbit 上新: [交易] FOLD 新币上线公告 (KRW、BTC、USDT 交易对)\n\nFOLD  MarketCap: 25.9M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-23 09:14:11\nsource: https://upbit.com/service_center/notice?id=541763149",
+   "dt": "2026-08-23T01:14:11+00:00",
+   "url": "https://t.me/BWEnews/16416",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "1일 전"
+  },
+  {
+   "text": "UPBIT LISTING: 넥소(NEXO) 신규 거래지원 안내 (USDT 마켓)\n\nUpbit 上新: NEXO 新增上线交易支持公告（USDT 市场）\n\nNEXO  MarketCap: 859.1M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-21 18:19:26\nsource: https://upbit.com/service_center/notice?id=6496",
+   "dt": "2026-08-21T10:19:32+00:00",
+   "url": "https://t.me/BWEnews/16415",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "3일 전"
+  },
+  {
+   "text": "UPBIT LISTING: [거래] 커브(CRV) KRW, USDT 마켓 디지털 자산 추가\n\nUpbit 上新: 【交易】Curve (CRV) 增设 KRW、USDT 交易对数字资产\n\nCRV  MarketCap: 524M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-21 10:22:43\nsource: https://upbit.com/service_center/notice?id=851252575",
+   "dt": "2026-08-21T02:22:43+00:00",
+   "url": "https://t.me/BWEnews/16414",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "3일 전"
+  },
+  {
+   "text": "Bithumb Listing: [마켓 추가] 넥소(NEXO) 원화 마켓 추가\n\nBithumb上新: 【新增市场】NEXO韩元市场新增\n\nNEXO  MarketCap: 791.8M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-21 09:45:11\nsource: https://feed.bithumb.com/notice/1654558",
+   "dt": "2026-08-21T01:45:12+00:00",
+   "url": "https://t.me/BWEnews/16413",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "3일 전"
+  },
+  {
+   "text": "UPBIT LISTING: [거래] BTC, USDT 마켓 신규 거래지원 안내 (BICO, BMT, NIL, GWEI)\n\nUpbit 上新: [交易] BTC 及 USDT 市场新增上线 BICO、BMT、NIL、GWEI 交易支持公告\n\nBICO  MarketCap: 19M\nGWEI  MarketCap: 43.6M\nBMT  MarketCap: 12M\nNIL  MarketCap: 21M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-21 08:48:02\nsource: https://upbit.com/service_center/notice?id=562211184",
+   "dt": "2026-08-21T00:48:03+00:00",
+   "url": "https://t.me/BWEnews/16412",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "3일 전"
+  },
+  {
+   "text": "BWENEWS AI (No Accuracy Guaranteed): World Liberty Financial launches USD1-denominated RWA perpetual markets for gold, oil, and global equities, backed by 250 million $WLFI and $12.5 million USD1 to drive liquidity |source: Twitter\n\nAI自动发布(速度优先可能有误: World Liberty Financial 推出以 USD1 计价的黄金、石油和全球股票 RWA 永续合约市场，由 2.5 亿枚 $WLFI 和 1250 万美元 USD1 支撑以驱动流动性 |来源：Twitter\n\nRWA  MarketCap: 2.1M\nWLFI  MarketCap: 1.9B\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-21 04:22:22\nsource: https://x.com/DonaldJTrumpJr/status/2090534925657067653",
+   "dt": "2026-08-20T20:22:27+00:00",
+   "url": "https://t.me/BWEnews/16411",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "4일 전"
+  },
+  {
+   "text": "Binance EN: Binance Will Delist ICX, SCRT, STORJ on 2026-09-03\n\n币安重要公告: 币安将于2026年9月3日下架ICX、SCRT、STORJ\n\nICX  MarketCap: 20.6M\nSCRT  MarketCap: 8.8M\nSTORJ  MarketCap: 17.8M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-20 14:00:06\nsource: https://cache.bwe-ws.com/bn-1916",
+   "dt": "2026-08-20T06:00:10+00:00",
+   "url": "https://t.me/BWEnews/16410",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "4일 전"
+  },
+  {
+   "text": "Tree News: [🌲] TRUMP: SEC CHAIR WORKING TO BRING HYPERLIQUID INTO US\n\nTree News: [🌲] TRUMP：SEC 主席正致力于将 Hyperliquid 引入美国\n\nHYPE  MarketCap: 15.6B\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-20 03:12:43",
+   "dt": "2026-08-19T19:12:45+00:00",
+   "url": "https://t.me/BWEnews/16409",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "5일 전"
+  },
+  {
+   "text": "TRUMP: SEC CHAIR WORKING TO BRING HYPERLIQUID INTO US",
+   "dt": "2026-08-19T19:12:42+00:00",
+   "url": "https://t.me/TreeNewsFeed/8171",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "5일 전"
+  },
+  {
+   "text": "Binance EN: Binance Futures Will Launch UNITREEUSDT USDⓈ-Margined Perpetual Contract (2026-08-19)\n\n币安重要公告: 币安合约将上线 UNITREEUSDT U本位永续合约 (2026-08-19)\n\n————————————\n2026-08-19 10:30:09\nsource: https://cache.bwe-ws.com/bn-1912",
+   "dt": "2026-08-19T02:30:11+00:00",
+   "url": "https://t.me/BWEnews/16408",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "5일 전"
+  },
+  {
+   "text": "Binance Alpha Listing(Doesn't mean official listing): Binance Alpha lists new tokens:\n牛来 (牛来)\nContract Address: 0xbeea1d618e533a387d941f58a7d4c9b7bd377777 (BSC)\n\nBinance Alpha上新 (不代表会正式上市): 币安Alpha上线新代币：\n\n牛来 (牛来)\n\n合约地址：0xbeea1d618e533a387d941f58a7d4c9b7bd377777 (BSC)\n\n牛来  MarketCap: 33.3M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-08-18 16:20:43",
+   "dt": "2026-08-18T08:20:45+00:00",
+   "url": "https://t.me/BWEnews/16407",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "6일 전"
+  },
+  {
+   "text": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS: BBG",
+   "dt": "2026-08-12T15:02:56+00:00",
+   "url": "https://t.me/TreeNewsFeed/8170",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "12일 전"
+  },
+  {
+   "text": "U.S. CPI: +3.4% YEAR-OVER-YEAR (EST. +3.4%)\nU.S. CORE CPI: +2.5% YEAR-OVER-YEAR (EST. +2.5%)",
+   "dt": "2026-08-12T12:30:03+00:00",
+   "url": "https://t.me/TreeNewsFeed/8169",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "12일 전"
+  },
+  {
+   "text": "*SEC POISED TO UNVEIL MAJOR CRYPTO PLANS AS CLARITY ACT STALLS: BBG",
+   "dt": "2026-08-11T19:39:58+00:00",
+   "url": "https://t.me/TreeNewsFeed/8168",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "13일 전"
+  },
+  {
+   "text": "STRATEGY SOLD 1,690 BTC ($108.6M) AT AN AVERAGE PRICE OF $64,262\n\nhttps://www.sec.gov/Archives/edgar/data/1050446/000119312526341297/0001193125-26-341297-index.html",
+   "dt": "2026-08-10T12:01:03+00:00",
+   "url": "https://t.me/TreeNewsFeed/8167",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "14일 전"
+  },
+  {
+   "text": "STRATEGY: STRATEGY SOLD 1,637 BTC REDUCING HOLDINGS TO 842,138 BTC",
+   "dt": "2026-08-03T11:56:16+00:00",
+   "url": "https://t.me/TreeNewsFeed/8166",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "21일 전"
+  },
+  {
+   "text": "*CRYPTO.COM REPORTS $400M INVESTMENT FROM CITADEL SECURITIES: BBG",
+   "dt": "2026-07-16T18:00:53+00:00",
+   "url": "https://t.me/TreeNewsFeed/8165",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "39일 전"
+  },
+  {
+   "text": "EXCLUSIVE-BINANCE SET TO LOSE PERMISSION TO OFFER SERVICES TO EU CLIENTS AS LICENCE APPLICATION IN GREECE TO BE TURNED DOWN, TWO SOURCES SAY - RTRS",
+   "dt": "2026-06-16T13:27:50+00:00",
+   "url": "https://t.me/TreeNewsFeed/8163",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "69일 전"
+  },
+  {
+   "text": "SAM BANKMAN-FRIED LOSES BID TO OVERTURN FRAUD CONVICTION, 25-YEAR PRISON SENTENCE - RTRS",
+   "dt": "2026-06-12T13:15:41+00:00",
+   "url": "https://t.me/TreeNewsFeed/8162",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "73일 전"
+  },
+  {
+   "text": "STRATEGY BOUGHT 1,550 BTC ($101.3M) AT AN AVERAGE PRICE OF $65,332\n\nhttps://www.sec.gov/Archives/edgar/data/1050446/000119312526260709/0001193125-26-260709-index.html",
+   "dt": "2026-06-08T12:00:53+00:00",
+   "url": "https://t.me/TreeNewsFeed/8161",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "77일 전"
+  },
+  {
+   "text": "U.S. CPI: +3.8% YEAR-OVER-YEAR (EST. +3.7%)\nU.S. CORE CPI: +2.8% YEAR-OVER-YEAR (EST. +2.7%)",
+   "dt": "2026-05-12T12:30:17+00:00",
+   "url": "https://t.me/TreeNewsFeed/8160",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "104일 전"
+  },
+  {
+   "text": "SAYLOR: WE WILL PROBABLY SELL SOME BITCOIN TO PAY A DIVIDEND JUST TO INOCULATE THE MARKET JUST TO SEND THE MESSAGE THAT WE DID IT",
+   "dt": "2026-05-05T22:38:55+00:00",
+   "url": "https://t.me/TreeNewsFeed/8159",
+   "source": "Tree News",
+   "note": "초속보 헤드라인",
+   "ago": "111일 전"
+  }
+ ]
 }
