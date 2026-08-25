@@ -1,0 +1,53 @@
+name: collect
+
+on:
+  schedule:
+    # UTC 기준. 한국시간 07:00 / 12:00 / 18:00 / 23:00
+    - cron: "0 22,3,9,14 * * *"
+  workflow_dispatch:        # 저장소 Actions 탭에서 손으로 돌릴 수 있게
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser
+
+      - name: 텔레그램 읽기
+        continue-on-error: true
+        run: python scripts/collect_telegram.py
+
+      - name: 지수·금은 읽기
+        continue-on-error: true
+        run: python scripts/collect_market.py
+
+      - name: 뉴스 수집 + AI 분류
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_HANDLE: ${{ vars.SITE_HANDLE }}
+        run: python scripts/collect_news.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name  "market-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "바뀐 내용 없음"
+          else
+            git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
