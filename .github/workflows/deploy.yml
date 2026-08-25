@@ -3,6 +3,12 @@ name: deploy
 on:
   push:
     branches: [main]
+  # 수집 로봇이 데이터를 커밋해도 push 로는 배포가 안 걸린다.
+  # GitHub 이 봇(GITHUB_TOKEN)의 push 로는 다른 워크플로를 깨우지 않기 때문.
+  # 그래서 collect 가 끝나면 직접 이어받는다.
+  workflow_run:
+    workflows: ["collect"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
