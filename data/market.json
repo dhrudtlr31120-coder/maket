@@ -1,4 +1,13 @@
 {
- "updated": "2026-09-15 00:41:42 KST",
- "items": []
+ "updated": "2026-09-15 09:20:23 KST",
+ "items": [
+  {
+   "name": "Gold",
+   "icon": "🥇",
+   "price": 4326.9,
+   "changePct": -2.02,
+   "display": "$4,326.90/oz",
+   "src": "yahoo"
+  }
+ ]
 }
