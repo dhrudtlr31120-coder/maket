@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15 23:10:58 KST",
+ "updated": "2026-09-16 08:58:53 KST",
  "channels": [
   {
    "name": "Tree News",
@@ -29,124 +29,268 @@
  ],
  "items": [
   {
-   "text": "비트코인 운명의 표결…통과시 9만달러 전망도\n\n미국 상원이 디지털자산(가상자산) 시장구조 법안인 클래리티(CLARITY)법을 진전시키기 위한 절차 표결에 나선다. 표결 통과 가능성을 두고 시장의 전망이 엇갈리는 가운데 이더리움(ETH)과 솔라나(SOL), 엑스알피(XRP)가…\n\n#AAVE #BTC #ETH #SOL #Uni #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140114?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T14:09:38+00:00",
-   "url": "https://t.me/blockmedia/114717",
+   "text": "Japan aug imports climb 28% year/year: ministry of finance (poll 26.3%)|FJ",
+   "dt": "2026-09-15T23:51:07+00:00",
+   "url": "https://t.me/FinancialJuice/134000",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "7분 전"
+  },
+  {
+   "text": "Japan Aug exports to Asia rise 21.4% year/year: MOF|FJ",
+   "dt": "2026-09-15T23:51:04+00:00",
+   "url": "https://t.me/FinancialJuice/133999",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "7분 전"
+  },
+  {
+   "text": "Japan Aug trade deficit at 1.1056 trillion yen: MOF (poll: 1.0526 trillion yen)|FJ",
+   "dt": "2026-09-15T23:51:01+00:00",
+   "url": "https://t.me/FinancialJuice/133997",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "7분 전"
+  },
+  {
+   "text": "Japan August exports to U.S. rise 24.9% year on year: MOF|FJ",
+   "dt": "2026-09-15T23:51:01+00:00",
+   "url": "https://t.me/FinancialJuice/133998",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "7분 전"
+  },
+  {
+   "text": "Japan August exports to China rise 20.6% year on year: MOF|FJ",
+   "dt": "2026-09-15T23:50:56+00:00",
+   "url": "https://t.me/FinancialJuice/133996",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "7분 전"
+  },
+  {
+   "text": "Japan Aug exports to EU rise 11% year/year: MOF|FJ",
+   "dt": "2026-09-15T23:50:53+00:00",
+   "url": "https://t.me/FinancialJuice/133995",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "Japan July core machinery orders rise 11.2% yr/yr, below poll of 15.3%|FJ",
+   "dt": "2026-09-15T23:50:52+00:00",
+   "url": "https://t.me/FinancialJuice/133994",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "Japan aug exports rise 19.3% year/year: MOF (poll: +18.2%)|FJ",
+   "dt": "2026-09-15T23:50:47+00:00",
+   "url": "https://t.me/FinancialJuice/133993",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "❗ JAPANESE TOTAL TRADE BALANCE ACTUAL -1105.607B (FORECAST -1058.4B, PREVIOUS -634.5B) $MACRO|FJ",
+   "dt": "2026-09-15T23:50:45+00:00",
+   "url": "https://t.me/FinancialJuice/133991",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "Japan July core machinery orders decline 3.7% M/M, below poll of -2.8%|FJ",
+   "dt": "2026-09-15T23:50:45+00:00",
+   "url": "https://t.me/FinancialJuice/133992",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "❗ JAPANESE IMPORTS YOY ACTUAL 28% (FORECAST 26.3%, PREVIOUS 27.8%) $MACRO|FJ",
+   "dt": "2026-09-15T23:50:33+00:00",
+   "url": "https://t.me/FinancialJuice/133990",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "❗ JAPANESE EXPORTS YOY ACTUAL 19.3% (FORECAST 18.4%, PREVIOUS 23.2%) $MACRO|FJ",
+   "dt": "2026-09-15T23:50:31+00:00",
+   "url": "https://t.me/FinancialJuice/133989",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "8분 전"
+  },
+  {
+   "text": "[코인시황] 美 상원 클래리티법 처리 무산…비트코인, 7만5000달러대로\n\n미국 상원에서 디지털자산 시장 구조 법안인 클래리티법(CLARITY Act) 처리가 무산되면서 디지털자산 관련주가 일제히 하락했다. 코인베이스와 서클 등 주요 기업 주가는 8%…\n\n#BTC #ETH #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140310?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T23:25:42+00:00",
+   "url": "https://t.me/blockmedia/114746",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1분 전"
+   "ago": "33분 전"
   },
   {
-   "text": "US Treasury Secretary Bessent: We have set the table for a robust economy.|FJ",
-   "dt": "2026-09-15T14:06:23+00:00",
-   "url": "https://t.me/FinancialJuice/133855",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "4분 전"
-  },
-  {
-   "text": "US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.|FJ",
-   "dt": "2026-09-15T14:04:22+00:00",
-   "url": "https://t.me/FinancialJuice/133854",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "6분 전"
-  },
-  {
-   "text": "❗ META: Chips will save money and energy compared with Nvidia. $META $NVDA|FJ",
-   "dt": "2026-09-15T14:01:25+00:00",
-   "url": "https://t.me/FinancialJuice/133853",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "9분 전"
-  },
-  {
-   "text": "META to deploy new in-house Arke chips in first half of 2027. $META $NVDA|FJ",
-   "dt": "2026-09-15T14:01:00+00:00",
-   "url": "https://t.me/FinancialJuice/133852",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "9분 전"
-  },
-  {
-   "text": "❗ META to roll out next-generation Astrid Chips at end of 2027. $META|FJ",
-   "dt": "2026-09-15T14:00:38+00:00",
-   "url": "https://t.me/FinancialJuice/133851",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "10분 전"
-  },
-  {
-   "text": "US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.|FJ",
-   "dt": "2026-09-15T13:47:39+00:00",
-   "url": "https://t.me/FinancialJuice/133850",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "23분 전"
-  },
-  {
-   "text": "OpenAI backs the House plan for safety assessments - Politico.|FJ",
-   "dt": "2026-09-15T13:42:36+00:00",
-   "url": "https://t.me/FinancialJuice/133849",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "28분 전"
-  },
-  {
-   "text": "Canada's corporate tax deduction is going to cost C$36b over five years.|FJ",
-   "dt": "2026-09-15T13:40:22+00:00",
-   "url": "https://t.me/FinancialJuice/133848",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "30분 전"
-  },
-  {
-   "text": "‘클래리티법·FOMC’ 앞두고 비트코인 7만6000달러선 후퇴\n\n비트코인이 미국 상원의 클래리티(CLARITY)법 토론종결 표결을 앞두고 7만6000달러선으로 밀렸다. 최근 12시간 동안 1억달러가 넘는 레버리지 포지션이 청산됐다. 이번 주 연방공개시장위원회(FOMC) 회의까지 예정되면서…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140102?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T13:39:36+00:00",
-   "url": "https://t.me/blockmedia/114716",
+   "text": "[클래리티 부결] 75K로 밀린 비트코인…“7만2000달러까지 구조 유효, 50주선 회복 관건”\n\n미국 디지털자산 시장구조 법안인 ‘클래리티법(CLARITY Act)’이 미 상원의 60표 문턱을 넘지 못하고 부결되면서 비트코인 가격이 7만5000달러대로 밀려났다. 법안 부결에 따른 규제…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140303?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T23:16:25+00:00",
+   "url": "https://t.me/blockmedia/114745",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "31분 전"
-  },
-  {
-   "text": "Libya NOC: Output halted at the Hamada and Al-tahara fields.|FJ",
-   "dt": "2026-09-15T13:32:46+00:00",
-   "url": "https://t.me/FinancialJuice/133847",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "38분 전"
-  },
-  {
-   "text": "❗ Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.|FJ",
-   "dt": "2026-09-15T13:31:27+00:00",
-   "url": "https://t.me/FinancialJuice/133846",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "39분 전"
-  },
-  {
-   "text": "❗ MOO IMBALANCE\nS&P 500: -44.1 MLN\nNASDAQ 100: 4.6 MLN\nDOW 30: -23.1 MLN\nMAG 7: 6.2 MLN $MACRO|FJ",
-   "dt": "2026-09-15T13:31:06+00:00",
-   "url": "https://t.me/FinancialJuice/133845",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "39분 전"
-  },
-  {
-   "text": "Karachaganak output to drop up to 450k tons during repair - IFX|FJ",
-   "dt": "2026-09-15T13:28:58+00:00",
-   "url": "https://t.me/FinancialJuice/133844",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
    "ago": "42분 전"
   },
   {
-   "text": "미 하원 디지털자산 세제 개편…채굴·스테이킹 과세 유예 빠졌다\n\n미국 하원이 디지털자산(가상자산) 거래 수수료와 스테이블코인, 대출, 워시세일 등을 포괄하는 대규모 세제 개편에 나선다. 다만 채굴자와 스테이커가 보상으로 받은 토큰을 매도할 때까지…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140096?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T13:21:17+00:00",
-   "url": "https://t.me/blockmedia/114715",
+   "text": "Two Robinhood Engineers Charged With Trading on Confidential Crypto Listing Information\n\nThe U.S. Attorney’s Office for the Southern District of New York charged Robinhood engineers Hefu Chai and Huaisong Xiang with commodities fraud and wire fraud for allegedly using confidential information about upcoming Robinhood Crypto listings to trade related perpetual futures on Hyperliquid before the listings were publicly announced. Prosecutors said the two repeatedly carried out the trades between 2025 and 2026 and each made more than $50,000 in illicit profits. Each faces one count of violating the",
+   "dt": "2026-09-15T23:12:09+00:00",
+   "url": "https://t.me/wublockchainenglish/26040",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "46분 전"
+  },
+  {
+   "text": "🎤🎤⏰⏰(안내) 잠시후 오전 8시부터 블록미디어 채널에서 라이브를 진행합니다. 라이브 보러 가기 (https://www.youtube.com/@Blockmedia) 🌅🌅🌅",
+   "dt": "2026-09-15T22:48:35+00:00",
+   "url": "https://t.me/blockmedia/114744",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "49분 전"
+   "ago": "1시간 전"
+  },
+  {
+   "text": "[클래리티 부결] 美 의회 막히자 SEC·CFTC로 시선…업계 “규제 공백 장기화 우려”\n\n미국 디지털자산 시장의 규제 틀을 법률로 확립하려던 클래리티법(CLARITY Act)이 상원의 60표 문턱을 넘지 못하면서 업계의 우려가 커지고 있다. 다만 시장에서는 이번…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140298?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T22:44:21+00:00",
+   "url": "https://t.me/blockmedia/114743",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "[클래리티 부결] ‘60표 문턱’서 멈춘 美 디지털자산법…재표결·양원 조정까지 산 넘어 산\n\n미국 디지털자산 시장의 명확한 규제 틀을 마련하기 위한 ‘디지털자산 명확성 법안 이른바 클래리티 법안(CLARITY Act·H.R.3633)’이 미 상원 첫 관문에서 발목을 잡혔다.…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140290?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T22:34:05+00:00",
+   "url": "https://t.me/blockmedia/114742",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "[뉴욕 금·채권·달러] “10년물 5.04%·유가 상승”…미 국채금리 19년 만에 최고치\n\n미국 국채금리가 19년 만의 최고 수준까지 치솟고 달러가 강세를 보이면서 글로벌 금융시장의 긴장감이 높아졌다. 국제유가 급등이 인플레이션 우려를 자극한 가운데 미국 연방준비제도(Fed·연준)의…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140284?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T21:51:34+00:00",
+   "url": "https://t.me/blockmedia/114741",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "日 장기채 금리 3.8% 돌파… 디지털자산 덮치는 ‘조용한 엔 캐리 트랩’\n\n일본 20년 만기 국채 입찰 금리가 3.8%를 넘어섰다. 시장 일부에서는 국채 수요 붕괴를 우려했으나, 응찰률이 상승하며 입찰 자체는 안정적으로 마감됐다. 그러나…\n\n#BTC #ETH #SOL #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140274?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T21:40:44+00:00",
+   "url": "https://t.me/blockmedia/114740",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "[클래리티 부결] 트럼프 레임덕? 공화당에서도 반대표 나왔다\n\n도널드 트럼프 미국 대통령이 밀어온 디지털자산 시장구조 법안 ‘클래리티법(Clarity Act)’이 상원 문턱을 넘지 못했다.\n\n민주당의 반대뿐 아니라 공화당에서도 이탈표가 나오면서 법안…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140281?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T21:36:26+00:00",
+   "url": "https://t.me/blockmedia/114739",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "[뉴욕 코인시황] 클래리티법 부결…비트코인 7.5만달러선 후퇴\n\n미국 디지털자산(가상자산) 시장 구조를 규율할 핵심 법안으로 꼽혀온 클래리티법(CLARITY Act)이 상원 문턱을 넘지 못하면서 뉴욕 디지털자산 시장이 급격히 위축됐다. 비트코인은 한때 7만5000달러…\n\n#BNB #BTC #DOGE #ETH #HYPE #SOL #TRX #XMR #XRP #ZEC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140276?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T21:15:33+00:00",
+   "url": "https://t.me/blockmedia/114738",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "클래리티 법안 부결에 코인파생 ‘와르르’…6.7억달러 청산·XRP 15% 급락\n\n미국 상원에서 디지털자산 시장구조 법안인 클래리티 법안이 핵심 절차 표결을 통과하지 못하면서 디지털자산 시장이 급격히 흔들렸다. 법안은 본회의 논의를 위한 절차를…\n\n#BTC #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140272?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T20:54:46+00:00",
+   "url": "https://t.me/blockmedia/114737",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "[뉴욕증시 마감] FOMC 앞두고 금리 5% 돌파…주요지수 하락\n\n뉴욕증시가 일제히 하락 마감됐다. 미국 10년물 국채금리가 장중 5%를 넘어 19년 만에 최고 수준으로 치솟은 가운데 국제유가까지 급등하면서 위험자산에 대한 투자심리가 위축됐다.…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140254?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T20:40:24+00:00",
+   "url": "https://t.me/blockmedia/114736",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "“찬성 50표도 못 넘었다”…클래리티법 클로처 상원 관문서 부결(상보)\n\n미국 디지털자산(가상자산) 시장의 규제 틀을 재편하려던 클래리티법이 상원의 첫 절차적 관문을 넘지 못했다. 상품선물거래위원회(CFTC)를 중심으로 디지털자산 시장을 감독하는 체계를 구축하는 법안이었지만 트럼프…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140249?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-15T19:50:59+00:00",
+   "url": "https://t.me/blockmedia/114735",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "U.S. Senate Fails to Advance CLARITY Act as Cloture Vote Falls Short of 60-Vote Threshold\n\nJust In: The U.S. Senate failed to advance the CLARITY Act (H.R. 3633) after falling short of the 60 votes needed to invoke cloture. The measure received just 49 votes in favor, crypto journalist Eleanor Terrett reported. — link",
+   "dt": "2026-09-15T19:23:22+00:00",
+   "url": "https://t.me/wublockchainenglish/26039",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "AggrNews: CLARITY ACT DOES NOT GET REQUIRED 60 VOTES TO ADVANCE TO NEXT STAGE\n\nAggrNews: CLARITY ACT 未能获得通过至下一阶段所需的 60 票\n\n————————————\n2026-09-16 02:42:28",
+   "dt": "2026-09-15T18:42:30+00:00",
+   "url": "https://t.me/BWEnews/16467",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "Crude Oil Tops $106, Hits Four-Month High\n\nAccording to Trading Economics market data, crude oil prices rose above $106 per barrel on September 15, 2026, U.S. Eastern Time, reaching a four-month high. The move was driven by tighter Middle East supply, with Saudi Arabia shutting the East-West pipeline, affecting the transport of 7 million barrels of crude per day, while protests also halted operations at several Libyan oil fields. In addition, China drew down oil inventories and increased orders in August. — link",
+   "dt": "2026-09-15T17:02:15+00:00",
+   "url": "https://t.me/wublockchainenglish/26038",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "6시간 전"
+  },
+  {
+   "text": "AggrNews: ROBINHOOD EMPLOYEES CHARGED WITH COMMODITIES FRAUD FOR INSIDER TRADING ON HYPERLIQUID: DOJ\n\nAggrNews: 罗宾汉员工因在 HYPERLIQUID 上进行内幕交易被控商品欺诈：美国司法部\n\nHYPE  MarketCap: 19.4B\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-09-16 00:54:55",
+   "dt": "2026-09-15T16:54:58+00:00",
+   "url": "https://t.me/BWEnews/16466",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "7시간 전"
+  },
+  {
+   "text": "CoinShares: AI Compute Generates About 3x More Profit per MW Than Bitcoin Mining\n\nCoinShares estimates that AI compute generates about $1.5 million in annualized profit per MW for Bitcoin miners, roughly three times the $0.5 million per MW generated by traditional mining, helping drive listed miners to redirect power and data center capacity toward AI and HPC. Companies with contracted AI or HPC capacity trade at an average 12.9x EV/NTM sales, compared with 3.7x for continuing miners without contracts. More than 4 GW of capacity has been contracted across the companies covered, but only about ",
+   "dt": "2026-09-15T16:44:06+00:00",
+   "url": "https://t.me/wublockchainenglish/26037",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "7시간 전"
+  },
+  {
+   "text": "Republicans Reject Democrats’ CLARITY Act Counteroffer as 60-Vote Outcome Remains Uncertain\n\nAccording to Punchbowl News and Crypto In America, Senate Republicans rejected Democrats’ latest CLARITY Act counterproposal ahead of Tuesday’s 2:15 p.m. ET cloture vote, which requires 60 votes to advance. Democrats sought tighter ethics rules, narrower BRCA developer protections and stronger conflict-of-interest provisions, while leaving stablecoin yield largely unchanged. Republicans say their latest text already includes 126 substantive Democratic changes and call it their “last, best and final off",
+   "dt": "2026-09-15T15:09:18+00:00",
+   "url": "https://t.me/wublockchainenglish/26036",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "8시간 전"
+  },
+  {
+   "text": "Highlight Clip: The US Allows Perps, but Onchain Perps Are Still a Different Matter\n\nThe US Allows Perps, but Onchain Perps Are Still a Different Matter\n\nOn September 7, 2026, Jake Chervinsky, CEO of the Hyperliquid Policy Center, said in an interview with The Rollup that the U.S. has allowed exchanges to offer bitcoin perpetuals, but onchain perps face a different regulatory challenge. He noted that the CFTC has approved Coinbase and Kraken to offer bitcoin perps, but the approvals still apply to traditional centralized exchanges, leaving permissionless blockchains like Hyperliquid without a ",
+   "dt": "2026-09-15T14:40:57+00:00",
+   "url": "https://t.me/wublockchainenglish/26035",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "9시간 전"
+  },
+  {
+   "text": "WSJ: Warsh Faces 90% Rate-Hike Odds as Trump-Fed Truce Comes Under Pressure\n\nInvestors now see about a 90% chance that Fed Chair Kevin Warsh will raise rates this week, putting his political truce with President Trump under its biggest test yet. Warsh took office after criticizing the Fed for cutting too slowly, but rising energy prices, new tariffs, AI-driven demand and a firmer August inflation print have sharply changed the backdrop. Trump spent much of last year pushing for lower rates, while White House adviser Kevin Hassett said the president would respect the Fed’s decision even though ",
+   "dt": "2026-09-15T14:17:44+00:00",
+   "url": "https://t.me/wublockchainenglish/26034",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "9시간 전"
   },
   {
    "text": "Bitcoin Miners Pay to Exit as Average Mining Cost Hits $75.5K per BTC\n\nCoinShares said listed Bitcoin miners fell below cash breakeven in aggregate in Q2 2026, with the weighted average pre-tax cash cost to produce one BTC reaching about $75,500, versus Bitcoin’s quarter-end price of $58,400. Monthly average hash price also fell to a record low of $27.7/PH/s/day in June. The pressure is pushing miners to scale back or exit, with Core Scientific paying $41.9 million to cancel roughly 15 EH/s of next-generation mining hardware, while several listed miners have already shut down or are winding do",
@@ -154,39 +298,7 @@
    "url": "https://t.me/wublockchainenglish/26033",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "‘비트코인 84만개 보유’ 스트래티지, 평가차익 22억달러…보유가치 659억달러\n\n세계 최대 기업 비트코인 보유사 스트래티지가 보유 비트코인으로 약 22억달러(약 2조9795억원)의 평가차익을 기록한 것으로 나타났다. 비트코인 가격이 평균 매입가를 웃돌면서 회사의…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139888?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T12:31:06+00:00",
-   "url": "https://t.me/blockmedia/114714",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "“초파리 뇌로 비트코인 거래”… 바이낸스 창펑 자오 ‘영생 초파리’에 꽂혔다\n\n초파리의 뇌를 컴퓨터 속에 그대로 옮겨 놓으면 비트코인을 사고팔 수 있을까. 공상과학 영화에서나 나올 법한 실험이 현실에서 진행되고 있다. 구글이 초파리…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139950?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T12:03:29+00:00",
-   "url": "https://t.me/blockmedia/114713",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "“AI 종말론 해법 있다” …젠슨 황, ‘공학적 통제’ · 머스크, ‘교차 검증’ 제안\n\n인공지능(AI)이 인류를 말살 할 수 있다는 종말론에 대해 미국의 주요 기술 기업 CEO들이 경고 신호를 보내는 상황에서 젠슨 황과 일론 머스크가…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140058?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T11:34:09+00:00",
-   "url": "https://t.me/blockmedia/114712",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "유가 107달러·美 국채 5%에도 버티는 비트코인, 왜?… “긴축 우려 선반영”\n\n비트코인이 미국의 금리 인상 우려와 국제 유가 급등, 미 국채 금리 상승에도 추가 낙폭을 제한하고 있다. 긴축 우려를 앞서 반영하며 조정을…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139964?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T11:01:28+00:00",
-   "url": "https://t.me/blockmedia/114711",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "3시간 전"
+   "ago": "11시간 전"
   },
   {
    "text": "White House Pushes Back on Stablecoin “Deposit Flight” Fears Ahead of CLARITY Vote\n\nAccording to Semafor, the Trump administration is making a final push for Senate Republicans to support the CLARITY Act ahead of Tuesday’s procedural vote. The White House Council of Economic Advisers plans to release an interactive tool allowing users to model stablecoin growth against community-bank deposits, reinforcing its view that current data does not support claims of large-scale deposit flight. Some Republican senators remain concerned about stablecoin rewards, while some Democrats argue the latest eth",
@@ -194,23 +306,7 @@
    "url": "https://t.me/wublockchainenglish/26032",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "4시간 전"
-  },
-  {
-   "text": "“40% 랠리 열리나”…클래리티법 표결 앞두고 XRP 2달러 돌파 기대감\n\n미국 디지털자산 시장구조법인 클래리티법(CLARITY Act) 표결을 앞두고 엑스알피(XRP)가 단기적으로 40% 이상 상승할 수 있다는 전망이 나왔다.\n\n15일 기술 분석가 캐시트레이즈(CasiTrades)는 엑스(옛…\n\n#XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139858?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T10:01:27+00:00",
-   "url": "https://t.me/blockmedia/114710",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "4시간 전"
-  },
-  {
-   "text": "코인엑스도 9년 만에 문 닫는다…“제한된 수익에 무제한 위험 감수 안 돼”\n\n글로벌 디지털자산 거래소 코인엑스(CoinEx)가 출범 9년 만에 문을 닫는다. 거래량과 유동성 감소로 수익 기반이 약해진 가운데 보안, 규제 준수에 따른 비용과…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139948?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T09:41:06+00:00",
-   "url": "https://t.me/blockmedia/114709",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "4시간 전"
+   "ago": "13시간 전"
   },
   {
    "text": "AggrNews: BINANCE CURBS COMMODITY PERPS TO 24/5 TO MATCH TRADFI HOURS, EFFECTIVE SEPT 15, 21:00 UTC: FILING https://t.co/L9oN4mB9cL  AggrNews: 据文件显示：币安将商品永续合约交易时间调整为24/5以契合传统金融市场时间，自9月15日21:00 UTC起生效  ———————————— 2026-09-15 10:27:41",
@@ -218,31 +314,7 @@
    "url": "https://t.me/BWEnews/16465",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "4시간 전"
-  },
-  {
-   "text": "[퇴근길시황] 금리·유가 부담 속 코스피 4일째 하락⋯비트코인 7.6만달러·ETF는 순유입\n\n15일 국내 증시는 미국 장기 국채금리와 국제유가 상승 부담 속 약세를 이어갔다. 코스피는 외국인, 기관의 동반 순매도에 4거래일 연속 하락하며 6620선으로…\n\n#BTC #ETH\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1140025?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T09:07:05+00:00",
-   "url": "https://t.me/blockmedia/114708",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "“정답 빨리 찾는 게 수학인가”…필즈상 수상자 25명, AI 기업에 경고\n\n인공지능(AI)이 수십 년간 풀리지 않았던 수학 난제의 답을 찾아내는 시대가 열리고 있다. AI 기업들은 이를 모델의 추론 능력이 인간 전문가 수준으로…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139949?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T08:50:29+00:00",
-   "url": "https://t.me/blockmedia/114707",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "이더리움·베이스, 계정추상화 따로 간다…통합 표준 논의 결렬\n\n이더리움과 이더리움 기반 레이어2(L2) 네트워크 베이스 개발진이 ‘계정 추상화(Account Abstraction·AA)’ 표준을 통합하려던 작업을 중단했다. 가스비 없는 거래와 패스키 등 이용자의 편의성을…\n\n#BASE #ETH\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1139962?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-15T08:31:18+00:00",
-   "url": "https://t.me/blockmedia/114706",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "5시간 전"
+   "ago": "14시간 전"
   },
   {
    "text": "FT: CEE Energy Giant Orlen Lost $424 Million in Venezuela Oil Deal Involving USDT Payments\n\nPolish state-controlled energy giant Orlen lost an estimated $424 million through its Swiss trading arm OTS after a failed Venezuelan oil deal that involved USDT payments, the Financial Times reported. OTS prepaid about $230 million for 6 million barrels of Merey 16 crude, but most of the oil was never delivered, triggering heavy shipping costs, a Polish criminal investigation and charges against former Orlen executives. — link",
@@ -250,7 +322,7 @@
    "url": "https://t.me/wublockchainenglish/26031",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "7시간 전"
+   "ago": "16시간 전"
   },
   {
    "text": "FT: Revolut Gave Hackers Data on 680 Customers After Fake Government Requests\n\nRevolut disclosed sensitive data on 680 customers after cybercriminals used a legitimate government email account to submit fraudulent information requests, the Financial Times reported. The exposed records included passport details, bank account numbers, home addresses, identity-verification images and Bitcoin activity, with attackers now threatening to publish the data unless a ransom is paid. The UK Information Commissioner’s Office has opened an investigation, while Revolut said it blocked the email account and ",
@@ -258,7 +330,7 @@
    "url": "https://t.me/wublockchainenglish/26030",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "7시간 전"
+   "ago": "17시간 전"
   },
   {
    "text": "Highlight Clip: Arthur Hayes: Japan's Capital Repatriation Could Become a Catalyst for Global Capital Reallocation\n\nArthur Hayes: Japan's Capital Repatriation Could Become a Catalyst for Global Capital Reallocation\n\nOn September 8, 2026, BitMEX co-founder Arthur Hayes said in an interview with The Rollup that Japan has long used yen carry trades to allocate large amounts of capital to overseas assets. If Japanese policy shifts, pension funds and other institutions could sell overseas assets, convert the proceeds back into yen, and invest the funds in Japanese government bonds, domestic compani",
@@ -266,31 +338,7 @@
    "url": "https://t.me/wublockchainenglish/26029",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "BlackRock Leads $160 Million Bitcoin ETF Inflow as Ether Funds Add $121 Million\n\nU.S. spot Bitcoin ETFs recorded $160 million in net inflows on Sept. 14, according to SoSoValue, with BlackRock’s IBIT contributing $134 million and accounting for most of the day’s inflows. Spot Ether ETFs also posted $121 million in net inflows, led by BlackRock’s ETHA with $80.50 million. — link",
-   "dt": "2026-09-15T05:08:20+00:00",
-   "url": "https://t.me/wublockchainenglish/26028",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "9시간 전"
-  },
-  {
-   "text": "Neo X Adds USDC.e and WETH Bridging From Ethereum via Chainlink CCIP\n\nUSDC.e and WETH are now live on Neo X via Transporter, powered by Chainlink CCIP. Users can bridge USDC and WETH from Ethereum to Neo X, with bridged USDC represented as USDC.e. Neo X is Neo’s EVM-compatible sidechain, and the integration aims to expand access to stablecoin and ETH liquidity for DeFi, trading, and other applications across its ecosystem.\n\nThis post is sponsored by NGD (Neo Global Development). — link",
-   "dt": "2026-09-15T03:31:14+00:00",
-   "url": "https://t.me/wublockchainenglish/26027",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "10시간 전"
-  },
-  {
-   "text": "CoinEx to Shut Down After Nearly Nine Years as Crypto Slump, Compliance Costs Bite\n\nCoinEx said it will wind down operations after nearly nine years, citing a prolonged crypto-market downturn, shrinking trading volumes and liquidity, and rising regulatory and compliance costs across major jurisdictions. The exchange will stop new registrations and move futures trading to reduce-only mode on Sept. 15, end futures, staking, lending and other non-spot services on Sept. 22, halt all spot trading on Sept. 29, and close withdrawals and the platform on Dec. 22. CoinEx is a long-running global crypto ",
-   "dt": "2026-09-15T02:32:46+00:00",
-   "url": "https://t.me/wublockchainenglish/26026",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "11시간 전"
+   "ago": "17시간 전"
   },
   {
    "text": "AggrNews: BINANCE CURBS COMMODITY PERPS TO 24/5 TO MATCH TRADFI HOURS, EFFECTIVE SEPT 15, 21:00 UTC: FILING https://t.co/L9oN4mB9cL\n\nAggrNews: 据文件显示：币安将商品永续合约交易时间调整为24/5以契合传统金融市场时间，自9月15日21:00 UTC起生效\n\n————————————\n2026-09-15 10:27:41",
@@ -298,15 +346,7 @@
    "url": "https://t.me/BWEnews/16464",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "11시간 전"
-  },
-  {
-   "text": "Bitcoin’s Post-Quantum Roadmap Takes Shape Around P2MR and SHRINCS\n\nProtocol Watch founder Christine D. Kim said Bitcoin’s post-quantum roadmap is beginning to take clearer shape around two complementary proposals. BIP-360, currently in Draft status, would introduce Pay-to-Merkle-Root (P2MR), reducing long-term public-key exposure and creating an upgrade path for future quantum-resistant signatures. Blockstream Research’s SHRINCS is a SHA-256-based hash signature scheme designed to work with such an upgrade path, allowing users to migrate funds before a cryptographically relevant quantum compu",
-   "dt": "2026-09-15T02:03:03+00:00",
-   "url": "https://t.me/wublockchainenglish/26025",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "12시간 전"
+   "ago": "21시간 전"
   },
   {
    "text": "Tree News: *DOJ SAYS MILLIONS IN IRANIAN OIL PROCEEDS LAUNDERED ON BINANCE: BBG\n\nTree News: *美国司法部表示：数百万美元伊朗石油收益通过Binance洗钱：彭博社\n\n————————————\n2026-09-15 06:48:45",
@@ -314,31 +354,7 @@
    "url": "https://t.me/BWEnews/16463",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "15시간 전"
-  },
-  {
-   "text": "Ethereum L1 Processes Record 203.9 Million Transactions in Q2 2026 as Average TPS Hits All-Time High of 25.9\n\nToken Terminal reported that Ethereum L1 processed 203.9 million transactions in Q2 2026, up 68.4% year over year, while average throughput reached a record 25.9 TPS. The ETH staking rate rose to a record 32%, and the number of ETH-holding addresses reached 312.1 million, also an all-time high. Monthly active users fell 30% quarter over quarter to 9.2 million, while onchain fees increased 31.6% to $52.5 million and ETH burn revenue rose 112% to $17.1 million. Tokenized assets on Ethere",
-   "dt": "2026-09-14T18:35:18+00:00",
-   "url": "https://t.me/wublockchainenglish/26024",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "19시간 전"
-  },
-  {
-   "text": "Ethereum L1 and Base Split on Account Abstraction Standards After EIP-8130 and EIP-8141 Collaboration Breaks Down\n\nEthlabs researcher Derek Chiang said efforts to align EIP-8130 and EIP-8141 (Frame Transactions) broke down last week, leaving Ethereum L1 and Base to pursue different account abstraction standards. Both aim to support features such as gasless transactions and passkeys, but Ethereum L1 places greater emphasis on censorship resistance, privacy and security, while Base and other L2s prioritize scalability, configurability and compliance. Chiang said the divergence could fragment EVM",
-   "dt": "2026-09-14T18:00:46+00:00",
-   "url": "https://t.me/wublockchainenglish/26023",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "20시간 전"
-  },
-  {
-   "text": "Bitfinex Alpha: ETH ETF Inflows Outpace Bitcoin as Traders Use ETF Positions as Collateral for CME Futures Yield Strategies\n\nBitfinex Alpha said traders are building positions in spot Ethereum ETFs to use as collateral for CME futures trades and generate yield, helping explain the stronger relative demand for ETH ETF products. Ethereum ETFs recorded $196.9 million in net inflows last week and $324.4 million so far in September, exceeding Bitcoin ETFs’ $307.3 million despite having only about one-sixth of their assets. Bitcoin ETFs posted $462.7 million in net outflows across all four trading d",
-   "dt": "2026-09-14T17:35:19+00:00",
-   "url": "https://t.me/wublockchainenglish/26022",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "20시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Binance EN: Binance Will Support the USDT Contract Swap on Optimism Network - 2026-09-17\n\n币安重要公告: 币安将支持 Optimism 网络上的 USDT 合约置换 - 2026-09-17\n\nOP  MarketCap: 411M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-09-14 12:00:01\nsource: https://cache.bwe-ws.com/bn-2038",
@@ -405,28 +421,12 @@
    "ago": "5일 전"
   },
   {
-   "text": "AggrNews: PUMPFUN ADDS STOCK PAIRS TO PLATFORM: ONCHAIN\n\nAggrNews: Pump.fun 平台上线股票交易对：链上\n\n————————————\n2026-09-10 03:45:44",
-   "dt": "2026-09-09T19:45:45+00:00",
-   "url": "https://t.me/BWEnews/16455",
-   "source": "BWEnews",
-   "note": "거래소 상장 공지",
-   "ago": "5일 전"
-  },
-  {
-   "text": "Binance EN: Binance Will List 牛来 (牛来) with Seed Tag Applied\n\n币安重要公告: 币安将上线牛来 (牛来) 并添加种子标签\n\n牛来  MarketCap: 96.5M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-09-09 19:30:19\nsource: https://cache.bwe-ws.com/bn-2022",
-   "dt": "2026-09-09T11:30:22+00:00",
-   "url": "https://t.me/BWEnews/16454",
-   "source": "BWEnews",
-   "note": "거래소 상장 공지",
-   "ago": "6일 전"
-  },
-  {
    "text": "TRUMP: SEC CHAIR WORKING TO BRING HYPERLIQUID INTO US",
    "dt": "2026-08-19T19:12:42+00:00",
    "url": "https://t.me/TreeNewsFeed/8171",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "26일 전"
+   "ago": "27일 전"
   },
   {
    "text": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS: BBG",
@@ -434,7 +434,7 @@
    "url": "https://t.me/TreeNewsFeed/8170",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "33일 전"
+   "ago": "34일 전"
   },
   {
    "text": "U.S. CPI: +3.4% YEAR-OVER-YEAR (EST. +3.4%)\nU.S. CORE CPI: +2.5% YEAR-OVER-YEAR (EST. +2.5%)",
@@ -450,7 +450,7 @@
    "url": "https://t.me/TreeNewsFeed/8168",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "34일 전"
+   "ago": "35일 전"
   },
   {
    "text": "STRATEGY SOLD 1,690 BTC ($108.6M) AT AN AVERAGE PRICE OF $64,262\n\nhttps://www.sec.gov/Archives/edgar/data/1050446/000119312526341297/0001193125-26-341297-index.html",
@@ -474,7 +474,7 @@
    "url": "https://t.me/TreeNewsFeed/8165",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "60일 전"
+   "ago": "61일 전"
   },
   {
    "text": "EXCLUSIVE-BINANCE SET TO LOSE PERMISSION TO OFFER SERVICES TO EU CLIENTS AS LICENCE APPLICATION IN GREECE TO BE TURNED DOWN, TWO SOURCES SAY - RTRS",
