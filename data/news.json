@@ -1,493 +1,528 @@
 {
- "updated": "2026-09-20 09:24:04 KST",
+ "updated": "2026-09-20 17:25:04 KST",
  "handle": "",
  "counts": {
-  "호재": 0,
-  "악재": 0,
-  "모호": 60,
-  "제외": 0
+  "호재": 12,
+  "악재": 8,
+  "모호": 40,
+  "제외": 10
  },
  "cards": [
   {
    "tone": "모호",
-   "title": "써클, ‘아크’로 준비금 수익 의존 낮출까…거래량이 관건",
+   "title": "72.5% TSMC, 2분기 파운드리 점유율 1위 기록했다",
+   "url": "https://www.tokenpost.kr/news/tech/411072",
+   "source": "토큰포스트",
+   "ago": "2분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "하이퍼리퀴드, 무기한계약 점유율 10.9%로 사상 최고",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411070",
+   "source": "토큰포스트",
+   "ago": "5분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 30일 압축지표 93.9%…단기 방향 선택 가능성",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411068",
+   "source": "토큰포스트",
+   "ago": "11분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "웨이모, 2028년 싱가포르 상용 호출 목표…승인 절차 남아",
+   "url": "https://www.tokenpost.kr/news/tech/411066",
+   "source": "토큰포스트",
+   "ago": "14분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "지캐시 20만개 매도 압력 거론…장줘얼 “거래 안 한다”",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411065",
+   "source": "토큰포스트",
+   "ago": "17분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "X brings crypto trading closer to your social feed",
+   "url": "https://cryptoslate.com/x-brings-crypto-trading-closer-to-your-social-feed/",
+   "source": "CryptoSlate",
+   "ago": "19분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[코인 국장] AVAX 하루 12% 급등에 거래 몰렸다…국내 비중 3.2%",
+   "url": "https://www.tokenpost.kr/news/insights/411064",
+   "source": "토큰포스트",
+   "ago": "19분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+   "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "28분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 8만1000달러 회복, ‘죽은 고양이’ 논쟁",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411063",
+   "source": "토큰포스트",
+   "ago": "40분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 ETF 610만달러 순유입…이더리움은 1억4060만달러 유출",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411061",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "이더리움 프라이버시 기본값 추진…FOCIL 등 기술 검토",
+   "url": "https://www.tokenpost.kr/news/blockchain/411059",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "21억780만 AKE, 21일 언락…일주일 293.9% 상승",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411058",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[저녁 시세브리핑] 암호화폐 시장 약세… 비트코인 80,284달러, 이더리움 2,574달러",
+   "url": "https://www.tokenpost.kr/news/briefing/411057",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "알트코인 70% 가까이 일주일간 BTC 앞섰다",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411056",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[저녁 뉴스브리핑] SEC, 토큰화 주식 거래 허용 外",
+   "url": "https://www.tokenpost.kr/news/briefing/411055",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[트렌딩 나우] 글로벌 CNPY 1위…한국은 EDGE와 저장형 종목",
+   "url": "https://www.tokenpost.kr/news/insights/411054",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억7989만달러 청산",
+   "url": "https://www.tokenpost.kr/news/briefing/411052",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Why Bitcoin’s 63% HODL wave isn’t the mega bull signal everyone thinks it is",
+   "url": "https://cryptoslate.com/why-bitcoins-63-3-hodl-wave-isnt-the-mega-bull-signal-everyone-thinks-it-is/",
+   "source": "CryptoSlate",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "“누구를 위한 금리인상이냐, 클래리티 좌초도 기득권 때문”",
+   "url": "https://www.blockmedia.co.kr/archives/1142081?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "금이냐, 비트코인이냐…골드만, “금값 2027년 5400달러 간다”",
+   "url": "https://www.blockmedia.co.kr/archives/1142065?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "지캐시는 왜 ‘비트코인의 프라이버시 보완재’로 떠올랐나",
+   "url": "https://www.blockmedia.co.kr/archives/1142066?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "4시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "리플 ‘스웰 2026’ 전체 일정 공개…엑스알피·토큰화 집중",
+   "url": "https://www.blockmedia.co.kr/archives/1142071?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "4시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "세일러 스트레티지 회장 “디지털자산 지키려면 5000만 이용자 확보가 먼저”",
+   "url": "https://www.blockmedia.co.kr/archives/1142060?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "4시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "하이퍼리퀴드 18% 급등…비트코인보다 더 오른 이유는",
+   "url": "https://www.blockmedia.co.kr/archives/1142058?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "5시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "XRP 미국 중간선거 랠리론…2달러 돌파가 관건",
+   "url": "https://www.blockmedia.co.kr/archives/1142055?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "6시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "캐시 우드 \"비트코인 여전히 기회 많다\"",
+   "url": "https://www.blockmedia.co.kr/archives/1142047?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "7시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "트럼프, AI 전담 조직 'AI 포스' 신설 추진",
+   "url": "https://www.blockmedia.co.kr/archives/1142046?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "7시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "써클, '아크'로 준비금 수익 의존도 낮추나",
    "url": "https://www.blockmedia.co.kr/archives/1142042?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
-   "ago": "1분 전",
+   "ago": "8시간 전",
    "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "니어 인텐트 TVL 1억6905만달러, 30일 77.2% 증가",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410929",
-   "source": "토큰포스트",
-   "ago": "5분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "XRP ETF 자금 유입 3주째 둔화…20억달러 돌파 내년 4월로 밀리나",
-   "url": "https://www.blockmedia.co.kr/archives/1142039?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "5분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "튀르키예, 미·이란 협상 재개 위한 중재안 전달",
-   "url": "https://www.tokenpost.kr/news/international/410928",
-   "source": "토큰포스트",
-   "ago": "8분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/think-ibm-stock-higher-5-234301197.html",
-   "source": "Yahoo Finance",
-   "ago": "12분 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "에이브 V4, 아크서 USDC·EURC 대출시장 가동",
-   "url": "https://www.tokenpost.kr/news/blockchain/410926",
-   "source": "토큰포스트",
-   "ago": "18분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+   "tone": "악재",
+   "title": "리야드 공항 인근 후티 반군 공격 발생",
    "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
    "source": "Investing 원자재",
-   "ago": "18분 전",
+   "ago": "8시간 전",
    "group": "metal"
   },
   {
-   "tone": "모호",
-   "title": "Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%?",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-now-own-6-233516113.html",
+   "tone": "악재",
+   "title": "80년 전통 할인 패션 체인, 120개 매장 폐쇄",
+   "url": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
    "source": "Yahoo Finance",
-   "ago": "19분 전",
+   "ago": "9시간 전",
    "group": "macro"
   },
   {
    "tone": "모호",
-   "title": "[온체인 주식선물] SK하이닉스, 정규장 종가보다 1.38% 할인",
-   "url": "https://www.tokenpost.kr/news/insights/410925",
-   "source": "토큰포스트",
-   "ago": "24분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 노키아 “예측불가 AI 트래픽, 네트워크도 'AI 네이티브' 돼야”",
-   "url": "https://www.etnews.com/20260919000042",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 시스코 “AI 데이터센터 확장, 멀티플레인 네트워크가 핵심”",
-   "url": "https://www.etnews.com/20260919000041",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”",
-   "url": "https://www.etnews.com/20260919000040",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] LS전선 “AI 시대 해저광망, 국가 전략 공급망으로 키워야”",
-   "url": "https://www.etnews.com/20260919000039",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] LGU+ “AI 시대 통신망 운영, 에이전트 중심 전환 필요”",
-   "url": "https://www.etnews.com/20260919000038",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] SKT “6G, 연결 넘어 AI·컴퓨팅 통합 인프라로 진화”",
-   "url": "https://www.etnews.com/20260919000037",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] KT SAT “궤도·주파수 선점 못하면 위성 무용지물…정책 속도 높여야”",
-   "url": "https://www.etnews.com/20260919000036",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 한화시스템 “독자 위성망, 민간이 주도하고 정부가 뒷받침해야”",
-   "url": "https://www.etnews.com/20260919000035",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 김형철 NIA 원장 “AI 네트워크, 지상·해저·우주 아우르는 국가 핵심 인프라로”",
-   "url": "https://www.etnews.com/20260919000034",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 송기헌 과방위원장“AI 경쟁력은 인프라…지상·해저·우주 연결해야”",
-   "url": "https://www.etnews.com/20260919000033",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 류제명 과기정통부 차관 “초지능·초공간 네트워크, AI 프로젝트 성공 열쇠”",
-   "url": "https://www.etnews.com/20260919000032",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 삼성전자 “무선망이 AI 서비스 좌우…지능형 네트워크 플랫폼 돼야”",
-   "url": "https://www.etnews.com/20260919000031",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026] 이경한 서울대 교수 “피지컬 AI 승부처는 로봇 아닌 네트워크 시스템”",
-   "url": "https://www.etnews.com/20260919000030",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026]육·해·공 '통합 거버넌스' 필요…규제개선·실증 우선 과",
-   "url": "https://www.etnews.com/20260919000029",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[AINEX 2026]지상·해저·우주 '초공간' 입체 연결 논의 첫 발…“미래 네트워크 새 판 짜야”",
-   "url": "https://www.etnews.com/20260919000028",
-   "source": "전자신문",
-   "ago": "55분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
-   "url": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
-   "source": "Yahoo Finance",
-   "ago": "55분 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "비트코인 안 옮기고 대출받는다…아베, 기관용 모델 검토",
-   "url": "https://www.blockmedia.co.kr/archives/1142028?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[아침 시황] 비트코인 1억1,066만원…상승 종목 68%",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410917",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "버셀 AI 게이트웨이, 오픈 모델 토큰 56%…지출은 앤스로픽 64%",
-   "url": "https://www.tokenpost.kr/news/ai/410915",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "에이브 V4, 앵커리지 비트코인 담보 대출 제안",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410914",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Gen Z are investing like Boomers – with some surprising portfolio decisions",
+   "title": "Z세대의 투자 방식, 베이비부머 닮아간다",
    "url": "https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/",
    "source": "CryptoSlate",
-   "ago": "1시간 전",
+   "ago": "10시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "GPT-6 아스트라 약진…앤트로픽 새 모델 맞불-로이터",
-   "url": "https://www.blockmedia.co.kr/archives/1142025?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[뉴욕 코인시황] 비트코인 8.1만달러 안착 시도…ETF 유입 속 대형 지갑 매도 경계",
-   "url": "https://www.blockmedia.co.kr/archives/1142022?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "100 BTC, 15년 만에 새 주소로 이동…800만달러(약 111억원) 평가",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410911",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "iseewhy.eth, 30일 632회 거래…승률 82.86%",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410909",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "클래리티 법안 1만5000달러 기준…성인 자녀는 제외",
-   "url": "https://www.tokenpost.kr/news/policy/410907",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "오픈AI·앤트로픽·구글, AI 안전 협의…공식 합의는 아직",
-   "url": "https://www.tokenpost.kr/news/ai/410906",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "도그위프햇 하루 13.14% 반등, 저항선 부담",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410905",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
+   "title": "트럼프, 가문 사업 제외한 암호화폐 윤리 규정 지지",
    "url": "https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
    "source": "CryptoSlate",
-   "ago": "2시간 전",
+   "ago": "11시간 전",
    "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "미·중 재무 수장 뉴욕 회동…AI·무역 논의",
-   "url": "https://www.blockmedia.co.kr/archives/1142017?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "한 달 만에 베이스 DEX 거래량 10억달러 넘은 코인베이스 토큰화 주식",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/410904",
-   "source": "토큰포스트",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-   "url": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-   "source": "Yahoo Finance",
-   "ago": "3시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "XRP 1.40달러 회복…XRPL 대출 기능 확대",
-   "url": "https://www.blockmedia.co.kr/archives/1142015?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-   "url": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-   "source": "Yahoo Finance",
-   "ago": "3시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-   "source": "Yahoo Finance",
-   "ago": "3시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "Fidelity surge brings in $310M BTC saving Bitcoin ETFs from a disastrous week",
+   "tone": "호재",
+   "title": "피델리티 비트코인 ETF에 3억 1천만 달러 유입",
    "url": "https://cryptoslate.com/fidelity-surge-brings-in-310m-btc-saving-bitcoin-etfs-from-a-disastrous-week/",
    "source": "CryptoSlate",
-   "ago": "3시간 전",
+   "ago": "12시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
-   "source": "Yahoo Finance",
-   "ago": "3시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "미국 코인 규제 중심축 ‘의회에서 SEC·CFTC로’",
-   "url": "https://www.blockmedia.co.kr/archives/1142013?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+   "title": "첨단 반도체 배선층 열전도율 예측 연구",
    "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
    "source": "Semiconductor Eng.",
-   "ago": "3시간 전",
+   "ago": "12시간 전",
    "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 81,334달러, 이더리움 2,635달러",
-   "url": "https://www.tokenpost.kr/news/briefing/410899",
-   "source": "토큰포스트",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[모닝 뉴스브리핑] 미 재무부, 이란 연계 비트뱅크 제재 外",
-   "url": "https://www.tokenpost.kr/news/briefing/410898",
-   "source": "토큰포스트",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+   "title": "에이전틱 AI 활용 반도체 설계 규칙 자동 수정",
    "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
    "source": "Semiconductor Eng.",
-   "ago": "3시간 전",
+   "ago": "12시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "REX, 비트코인 보유기업 연계 2배 레버리지 ETF 출시",
+   "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "13시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "강화학습 기반 고밀도 칩 배선 오류 감소 연구",
+   "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/",
+   "source": "Semiconductor Eng.",
+   "ago": "13시간 전",
    "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
-   "url": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
-   "source": "Yahoo Finance",
-   "ago": "3시간 전",
-   "group": "macro"
+   "title": "AI 가속기용 비용 절감 칩렛 설계 프레임워크",
+   "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/",
+   "source": "Semiconductor Eng.",
+   "ago": "13시간 전",
+   "group": "semi"
   },
   {
-   "tone": "모호",
-   "title": "써클, 첼시 유니폼에 USDC 새긴다",
-   "url": "https://www.blockmedia.co.kr/archives/1142008?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "4시간 전",
+   "tone": "호재",
+   "title": "칼시, 미국 주식 무기한 선물 상품 출시 신청",
+   "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "13시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
-   "url": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
-   "source": "Yahoo Finance",
-   "ago": "4시간 전",
-   "group": "macro"
+   "title": "2.5D 및 3D 반도체 AI 발열 모델 평가 벤치마크",
+   "url": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/",
+   "source": "Semiconductor Eng.",
+   "ago": "13시간 전",
+   "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
-   "url": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
-   "source": "Yahoo Finance",
-   "ago": "4시간 전",
-   "group": "macro"
+   "title": "반도체 설계 내 AI 활용 연구 현황",
+   "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh/",
+   "source": "Semiconductor Eng.",
+   "ago": "13시간 전",
+   "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
-   "url": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
-   "source": "Yahoo Finance",
-   "ago": "4시간 전",
-   "group": "macro"
+   "title": "뉴로모픽 컴퓨팅 확장을 위한 통합 칩렛 네트워크",
+   "url": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university/",
+   "source": "Semiconductor Eng.",
+   "ago": "13시간 전",
+   "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "Jim Cramer on Seanergy Maritime (SHIP): “I’d Be a Buyer”",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-seanergy-maritime-ship-194035405.html",
-   "source": "Yahoo Finance",
-   "ago": "4시간 전",
-   "group": "macro"
+   "title": "페트로브라스, 디젤 보조금 프로그램 참여 승인",
+   "url": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
+   "source": "Investing 원자재",
+   "ago": "14시간 전",
+   "group": "metal"
   },
   {
-   "tone": "모호",
-   "title": "코인베이스 이어 칼시도 미 주식 무기한 선물",
-   "url": "https://www.blockmedia.co.kr/archives/1142006?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "4시간 전",
+   "tone": "호재",
+   "title": "앤트로픽 IPO 기대감에 8천만 달러 크립토 투자 유입",
+   "url": "https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade/",
+   "source": "CryptoSlate",
+   "ago": "14시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "비트코인 ETF, 금요일 4억 3300만 달러 유입",
+   "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+   "source": "The Block",
+   "ago": "14시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "캐나다 \"연내 인도와의 무역 협상 타결 낙관\"",
+   "url": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
+   "source": "Investing 원자재",
+   "ago": "14시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "악재",
+   "title": "AI 기술 발전에 따라 암호화폐 사기 수법 진화",
+   "url": "https://cryptoslate.com/ai-was-supposed-to-take-scammers-jobs-but-it-gave-them-superpowers-instead/",
+   "source": "CryptoSlate",
+   "ago": "15시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "명확성 법안 부결로 SEC·CFTC 규제 권한 강화",
+   "url": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+   "source": "Decrypt",
+   "ago": "15시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "반에크, 임원 주식 희석한 메타플래닛 비판",
+   "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "15시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
-   "source": "Yahoo Finance",
-   "ago": "4시간 전",
-   "group": "macro"
+   "title": "비트코인 급등, 숏 포지션 청산이 주도",
+   "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+   "source": "Decrypt",
+   "ago": "16시간 전",
+   "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
-   "source": "Yahoo Finance",
-   "ago": "4시간 전",
+   "title": "미국 클래리티 법안 내용과 대체 입법 동향",
+   "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+   "source": "CoinDesk",
+   "ago": "16시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "지캐시 급등… 그레이스케일 ZEC ETF 10억달러 육박",
+   "url": "https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/",
+   "source": "CryptoSlate",
+   "ago": "16시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "시스코 등 레트로 기술 기업, AI 구축의 핵심 부상",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=02bcda79-4cb9-4da8-8f6b-4414d7bc2df4&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "16시간 전",
    "group": "macro"
+  },
+  {
+   "tone": "악재",
+   "title": "비자, 크로스민트 밈코인 보상 루프홀 차단 추진",
+   "url": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866",
+   "source": "The Block",
+   "ago": "17시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "그레이스케일, 지캐시 ETF 수수료 인하 등 접근성 강화",
+   "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+   "source": "Decrypt",
+   "ago": "17시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "증시 위협 요인 증가에도 투자자들이 침착한 이유",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=391b5cf1-7466-4552-84c3-a4a86aadc51d&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "17시간 전",
+   "group": "macro"
+  },
+  {
+   "tone": "악재",
+   "title": "암호화폐 선구자 경고 \"AI, 금융 시스템 충격 유발\"",
+   "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+   "source": "CoinDesk",
+   "ago": "18시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "리플 \"자산운용사들, XRP 레저 결제 업그레이드 준비\"",
+   "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+   "source": "CoinDesk",
+   "ago": "18시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "트럼프 대러 관세 준비 속 비트코인 시험대",
+   "url": "https://cryptoslate.com/bitcoin-faces-an-october-18-test-as-trump-prepares-new-russia-tariffs/",
+   "source": "CryptoSlate",
+   "ago": "18시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "솔라나, 속도 업그레이드로 블록 생성 시간 17% 단축",
+   "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+   "source": "Decrypt",
+   "ago": "19시간 전",
+   "group": "crypto"
   }
  ],
- "digests": []
+ "digests": [
+  {
+   "key": "macro",
+   "title": "경제 · 거시",
+   "date": "2026-09-20 17:24",
+   "sections": [
+    {
+     "h": "글로벌 시장 및 기술 동향",
+     "items": [
+      "시스코 등 레트로 기술 기업의 AI 구축 핵심 부상",
+      "위협 요인 증가에도 침착한 증시 투자 심리 유지"
+     ]
+    },
+    {
+     "h": "지정학 리스크 및 원자재",
+     "items": [
+      "리야드 공항 인근 후티 반군 공격 발생",
+      "브라질 페트로브라스, 디젤 보조금 참여 승인"
+     ]
+    },
+    {
+     "h": "글로벌 무역 및 실물 경제",
+     "items": [
+      "캐나다 및 인도의 연내 무역 협상 타결 낙관",
+      "80년 전통 패션 체인의 120개 매장 폐쇄"
+     ]
+    }
+   ],
+   "oneLine": "지정학적 불안과 유통업 침체 악재 속에서도 투자자들은 침착세를 유지하며 AI 기술주의 확장성에 주목함.",
+   "sources": [
+    "Investing 원자재",
+    "MarketWatch",
+    "Yahoo Finance"
+   ]
+  }
+ ]
 }
