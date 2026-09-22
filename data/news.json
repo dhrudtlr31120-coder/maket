@@ -1,492 +1,492 @@
 {
- "updated": "2026-09-22 01:06:47 KST",
+ "updated": "2026-09-22 09:54:30 KST",
  "handle": "",
  "counts": {
-  "호재": 0,
-  "악재": 0,
-  "모호": 60,
-  "제외": 0
+  "호재": 9,
+  "악재": 2,
+  "모호": 49,
+  "제외": 10
  },
  "cards": [
   {
-   "tone": "모호",
-   "title": "제이앤티씨, 김천에 3470억 투자…TGV 유리기판 공장 신설",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62616",
+   "tone": "호재",
+   "title": "코웨이, 내달 보행보조 웨어러블 로봇 출시",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=62638",
    "source": "더일렉",
    "ago": "방금",
    "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "HL만도, 평택공장 사고 후 안전보건실 신설",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62614",
+   "title": "SKT, 리벨리온 NPU 상용망 적용 사례 분석",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=62630",
    "source": "더일렉",
    "ago": "방금",
    "group": "semi"
   },
   {
-   "tone": "모호",
-   "title": "한화에어로, 국내 43개사와 'K-무인기' 생태계 구축",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62618",
+   "tone": "호재",
+   "title": "한미글로벌, SK하이닉스 미국 공장 PM 수주",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=62629",
    "source": "더일렉",
    "ago": "방금",
    "group": "semi"
   },
   {
-   "tone": "모호",
-   "title": "고려아연, 美 10조원 제련소 환경영향평가 통과",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62621",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
+   "tone": "악재",
+   "title": "비트코인 대상 물리적 공격 360여 건 발생",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411926",
+   "source": "토큰포스트",
+   "ago": "2분 전",
+   "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "이에스티, 증권신고서 제출...\"유리기판·올레도스로 시장 확대\"",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62625",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "곽노정 \"메모리 없는 AI 산업 없다...용인·미국서 기술 우위\"",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62626",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "수퍼게이트, KAI와 국책으로 드론용 AI 칩 개발",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62627",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "글로벌테크놀로지, 차량용 반도체로 외연 확장...전장사향 제품 양산",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62562",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "네오위즈, ‘디제이맥스 리스펙트 V’ 공연 10월 10일 개최",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62612",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "엠아이티, 코스닥 상장예비심사 청구...기술특례상장 추진",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62581",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "리벨리온 NPU로 SK텔레콤 AI '4대 서비스' 가동",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62583",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "배민, 서울대 기숙사에 다회용기 픽업·수거 공간 구축",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62611",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "라인게임즈, 협동 호러 신작 ‘코드 엑시트’ 스팀 테스트",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62609",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "삼성SDI, 시너지셀즈 투자 재개…美 단독 공장 2028년 띄운다",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62586",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "삼성전자, 스마트폰 배터리에 정품 인증 보안칩 넣는다",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=62570",
-   "source": "더일렉",
-   "ago": "방금",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Swiss Franc advances against US Dollar after recent sell-off, SNB in focus",
-   "url": "https://www.fxstreet.com/news/swiss-franc-advances-against-us-dollar-after-recent-sell-off-snb-in-focus-202609211537",
-   "source": "FXStreet",
-   "ago": "4분 전",
-   "group": "metal"
-  },
-  {
-   "tone": "모호",
-   "title": "Why Balancer’s $1.4M hack recovery won’t pay LPs anytime soon",
-   "url": "https://cryptoslate.com/why-balancers-1-4m-hack-recovery-wont-pay-lps-anytime-soon/",
-   "source": "CryptoSlate",
-   "ago": "5분 전",
+   "tone": "호재",
+   "title": "제타, 솔라나 이전 승인에 한 달간 78% 급등",
+   "url": "https://www.blockmedia.co.kr/archives/1142702?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "3분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "캐나다 GDP 0.8% 증가…美 관세에 투자·고용 지연 경고",
-   "url": "https://www.tokenpost.kr/news/economy/411741",
+   "title": "국내 증시 혼조세…코스피·삼성전자 강세",
+   "url": "https://www.tokenpost.kr/news/market/411924",
+   "source": "토큰포스트",
+   "ago": "6분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "온투업 개인 투자한도 5000만원으로 확대",
+   "url": "https://www.etnews.com/20260922000123",
+   "source": "전자신문",
+   "ago": "6분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "셀트리온, 송도 3공장 가동으로 생산량 15% 증대",
+   "url": "https://www.etnews.com/20260922000117",
+   "source": "전자신문",
+   "ago": "10분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "풀무원몰, AI 검색 도입 후 구매 7.4배 증가",
+   "url": "https://www.etnews.com/20260922000116",
+   "source": "전자신문",
+   "ago": "10분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "트래블월렛, 누적 거래액 10조원·발급 1000만장 돌파",
+   "url": "https://www.etnews.com/20260922000114",
+   "source": "전자신문",
+   "ago": "11분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "덱스터, 이엠텍아이엔씨와 MOU로 AI 인프라 공략",
+   "url": "https://www.etnews.com/20260922000112",
+   "source": "전자신문",
+   "ago": "12분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "트럼프 행정부, 50억 달러 규모 중동 재건 펀드 계획",
+   "url": "https://www.fxstreet.com/news/donald-trump-administration-plans-5-billion-middle-east-reconstruction-fund-for-iran-war-202609220024",
+   "source": "FXStreet",
+   "ago": "13분 전",
+   "group": "metal"
+  },
+  {
+   "tone": "호재",
+   "title": "LG전자 2.5MW CDU, 엔비디아 DSX 자격 확보",
+   "url": "https://www.tokenpost.kr/news/ai/411922",
+   "source": "토큰포스트",
+   "ago": "14분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "미국 680억 달러 규모 데이터센터, 주민 반대로 지연",
+   "url": "https://www.tokenpost.kr/news/ai/411921",
    "source": "토큰포스트",
    "ago": "15분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Why AMD Stock Is Rising Fast Today",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
-   "source": "Yahoo Finance",
-   "ago": "18분 전",
-   "group": "macro"
+   "title": "원·달러 환율 1,374.0원 출발…전일 대비 7원 하락",
+   "url": "https://www.tokenpost.kr/news/insights/411920",
+   "source": "토큰포스트",
+   "ago": "16분 전",
+   "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "[ET포토] 유연석, '강한 설렘 주는 미소'",
-   "url": "https://www.etnews.com/20260922000016",
-   "source": "전자신문",
-   "ago": "19분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 유연석, '훈훈한 하트 포즈'",
-   "url": "https://www.etnews.com/20260922000015",
-   "source": "전자신문",
-   "ago": "20분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 유연석, '블랙 칼라 하나면 충분'",
-   "url": "https://www.etnews.com/20260922000014",
-   "source": "전자신문",
+   "title": "[선물 고수 PICK] 비트코인 USDT 담보 계좌 3.69%p 감소...솔라나도 2.53%p 하락",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411918",
+   "source": "토큰포스트",
    "ago": "21분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Paramount Skydance and Warner Bros. shares surge on state antitrust settlement",
-   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=746b9772-0878-4ebe-a3b6-9a197467d960&mod=mw_rss_bulletins",
-   "source": "MarketWatch",
-   "ago": "22분 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 효민, '안경 미녀'",
-   "url": "https://www.etnews.com/20260922000013",
-   "source": "전자신문",
-   "ago": "22분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "얀덱스, 800억 파라미터 AI 모델 공개",
-   "url": "https://www.tokenpost.kr/news/ai/411735",
-   "source": "토큰포스트",
-   "ago": "23분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "[ET포토] 효민, '감각좋은 가을 스타일'",
-   "url": "https://www.etnews.com/20260922000012",
-   "source": "전자신문",
-   "ago": "24분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 김예원, '활짝 핀 하트'",
-   "url": "https://www.etnews.com/20260922000011",
-   "source": "전자신문",
-   "ago": "25분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 김미리, '청순함이 돋보이는 미모'",
-   "url": "https://www.etnews.com/20260922000010",
-   "source": "전자신문",
-   "ago": "27분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-   "source": "Yahoo Finance",
-   "ago": "28분 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "파이코인 4.26% 반등…0.095달러는 조건부 기술 시나리오",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/411732",
-   "source": "토큰포스트",
-   "ago": "29분 전",
+   "title": "[개장시황] 코스피, 美 반도체주 랠리에 2%대 상승 출발…7100선 돌파",
+   "url": "https://www.blockmedia.co.kr/archives/1142690?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "21분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "[ET포토] 박준석, '어딘지 신비로운 미소'",
-   "url": "https://www.etnews.com/20260922000009",
-   "source": "전자신문",
-   "ago": "29분 전",
-   "group": "semi"
+   "title": "XRP 연말 2달러 확률 하루 새 26%p 올라…예측시장 59%",
+   "url": "https://www.tokenpost.kr/news/insights/411917",
+   "source": "토큰포스트",
+   "ago": "26분 전",
+   "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "[ET포토] 송승헌, '도무지 나이 들지 않는 조각 외모'",
-   "url": "https://www.etnews.com/20260922000008",
-   "source": "전자신문",
+   "title": "South Korea to brief lawmakers on US investment package amid profitability concerns",
+   "url": "https://www.investing.com/news/commodities-news/south-korea-to-brief-lawmakers-on-us-investment-package-amid-profitability-concerns-4909766",
+   "source": "Investing 원자재",
    "ago": "30분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "니어(NEAR), 일주일 만에 80% 폭등… 다년 하락 추세선 뚫었다",
-   "url": "https://www.blockmedia.co.kr/archives/1142535?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "30분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 송승헌, '어디를 봐서 내년에 50세'",
-   "url": "https://www.etnews.com/20260922000007",
-   "source": "전자신문",
-   "ago": "32분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[속보] 비트코인 8만6000달러 돌파",
-   "url": "https://www.blockmedia.co.kr/archives/1142549?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "32분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-   "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "ago": "33분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 송승헌, '모태 젠틀맨'",
-   "url": "https://www.etnews.com/20260922000006",
-   "source": "전자신문",
-   "ago": "33분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "source": "Yahoo Finance",
-   "ago": "33분 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "XRP 하루 만에 8% 급등… 단기 향방 가를 ‘1.45달러 분수령’ 섰다",
-   "url": "https://www.blockmedia.co.kr/archives/1142545?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "33분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Strive adds 1,355 bitcoin, picks up pace toward year-end second-place treasury goal",
-   "url": "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940",
-   "source": "The Block",
-   "ago": "33분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 이은재, '레드가 어울리는 예쁨'",
-   "url": "https://www.etnews.com/20260922000005",
-   "source": "전자신문",
-   "ago": "35분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "라이트코인 8% 상승, 63.80~65달러 저항선 시험",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/411726",
-   "source": "토큰포스트",
-   "ago": "36분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 한지혜, '우아한 하트'",
-   "url": "https://www.etnews.com/20260922000004",
-   "source": "전자신문",
-   "ago": "36분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "비트코인 8만8000달러 돌파 시 숏 청산 강도 6억8600만달러",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/411725",
-   "source": "토큰포스트",
-   "ago": "37분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Japanese Yen: Intervention risk high as 160 seen possible against US Dollar – ING",
-   "url": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-high-as-160-seen-possible-against-us-dollar-ing-202609211504",
-   "source": "FXStreet",
-   "ago": "37분 전",
    "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "[ET포토] 한지혜, '차분한 가을룩'",
-   "url": "https://www.etnews.com/20260922000003",
-   "source": "전자신문",
-   "ago": "37분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 85,944달러, 이더리움 2,739달러",
-   "url": "https://www.tokenpost.kr/news/briefing/411724",
+   "title": "[DEX 리포트] 하루 거래량 153억9000만 달러...급등 1위는 '아제미카'",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411914",
    "source": "토큰포스트",
-   "ago": "38분 전",
+   "ago": "33분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "[자정 뉴스브리핑] 지캐시 재단, ZRC-20·CASH 부인 外",
-   "url": "https://www.tokenpost.kr/news/briefing/411723",
-   "source": "토큰포스트",
-   "ago": "38분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[ET포토] 전혜빈, '햇살 미소'",
-   "url": "https://www.etnews.com/20260922000002",
-   "source": "전자신문",
+   "title": "RBA’s Hunter backs more hikes as inflation risks entrench",
+   "url": "https://www.fxstreet.com/news/rbas-hunter-backs-more-hikes-as-inflation-risks-entrench-202609212357",
+   "source": "FXStreet",
    "ago": "39분 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-   "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-   "source": "Decrypt",
-   "ago": "40분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "ECB plans to buy tokenized bonds with its own funds",
-   "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-   "source": "CoinDesk",
-   "ago": "40분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Japanese Yen slides as Fed hawkishness, intervention fears grow",
-   "url": "https://www.fxstreet.com/news/apanese-yen-slides-as-fed-hawkishness-intervention-fears-grow-202609211459",
-   "source": "FXStreet",
-   "ago": "42분 전",
    "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "Despite Sale, Baron Capital Maintains Outlook on Ventas (VTR)",
-   "url": "https://finance.yahoo.com/real-estate/articles/despite-sale-baron-capital-maintains-145801862.html",
-   "source": "Yahoo Finance",
+   "title": "Houthis push for control of Yemen highlands",
+   "url": "https://www.fxstreet.com/news/houthis-push-for-control-of-yemen-highlands-202609212353",
+   "source": "FXStreet",
    "ago": "43분 전",
-   "group": "macro"
+   "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "지캐시 재단, ZRC-20·CASH 공식 기능 아니다",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/411718",
+   "title": "클래리티 법안 49대50 부결…암스트롱은 보상 주장",
+   "url": "https://www.tokenpost.kr/news/policy/411911",
    "source": "토큰포스트",
-   "ago": "44분 전",
+   "ago": "45분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
-   "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
-   "source": "Yahoo Finance",
-   "ago": "46분 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "BTC 재무기업, 일주일간 2254개 순매수…DEX 선물 20.91% 증가",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/411716",
+   "title": "비트코인 롱 4번 모두 수익…누적 926만달러",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411909",
    "source": "토큰포스트",
    "ago": "46분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "도지코인 0.095달러 접근…미결제약정 16% 증가",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/411715",
-   "source": "토큰포스트",
-   "ago": "47분 전",
-   "group": "crypto"
+   "title": "ECB’s Lane says energy shock could delay inflation’s return to 2%",
+   "url": "https://www.fxstreet.com/news/ecbs-lane-says-energy-shock-could-delay-inflations-return-to-2-202609212347",
+   "source": "FXStreet",
+   "ago": "49분 전",
+   "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-   "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-   "source": "CoinDesk",
-   "ago": "47분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
-   "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
-   "source": "Yahoo Finance",
+   "title": "[코인시황] 비트코인, 6%대 급등…숏 청산에 8개월 만에 최고치",
+   "url": "https://www.blockmedia.co.kr/archives/1142673?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
    "ago": "52분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Australian Dollar holds its nerve as Fed hawks meet RBA hike bets",
+   "url": "https://www.fxstreet.com/news/australian-dollar-holds-its-nerve-as-fed-hawks-meet-rba-hike-bets-202609212339",
+   "source": "FXStreet",
+   "ago": "57분 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Moderna to reveal data for its mRNA cancer vaccine next month. Why that matters.",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=b5ec4616-7ca0-4249-9869-882a2908b5da&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "59분 전",
    "group": "macro"
   },
   {
    "tone": "모호",
-   "title": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
-   "url": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo",
-   "source": "Yahoo Finance",
-   "ago": "53분 전",
+   "title": "Iranian President will head to New York for UN meeting",
+   "url": "https://www.fxstreet.com/news/iranian-president-will-head-to-new-york-for-un-meeting-202609212332",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 1.27% 웃돈",
+   "url": "https://www.tokenpost.kr/news/insights/411903",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "아이앰빅, 1억달러 IPO 신청…임상 성과 검증 과제",
+   "url": "https://www.tokenpost.kr/news/ai/411902",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+   "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/",
+   "source": "Semiconductor Eng.",
+   "ago": "1시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "Texas Governor Abbott halts all state-issued permits for data centers until grid audit is complete",
+   "url": "https://www.investing.com/news/commodities-news/texas-gov-abbott-halts-all-stateissued-permits-for-data-centers-until-grid-audit-is-complete-4909646",
+   "source": "Investing 원자재",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Gold declines to near $4,350 on rising odds of Fed rate hike",
+   "url": "https://www.fxstreet.com/news/gold-declines-to-near-4-350-on-rising-odds-of-fed-rate-hike-202609212317",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "리비아 셰라라 유전 생산 차질…송유관 폐쇄에 수출 중단 우려",
+   "url": "https://www.tokenpost.kr/news/international/411900",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+   "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
+   "source": "Semiconductor Eng.",
+   "ago": "1시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "펌프펀, 24시간 10% 상승…거래량 1억7928만달러",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/411898",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[국제금융 브리핑] 트럼프 이란 대화 가능·미중 안정 의지...브렌트유 3.4% 하락",
+   "url": "https://www.tokenpost.kr/news/economy/411893",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "The Japanese Yen keeps sliding after the Bank of Japan's split vote",
+   "url": "https://www.fxstreet.com/news/the-japanese-yen-keeps-sliding-after-the-bank-of-japans-split-vote-202609212301",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Can Agents Design Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
+   "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/",
+   "source": "Semiconductor Eng.",
+   "ago": "1시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "NZD/USD Price Forecast: Bears lean on 0.5700 as RSI sinks",
+   "url": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-lean-on-05700-as-rsi-sinks-202609212252",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "엑스알피, 하루 만에 10% 급등 1.55달러 돌파… 리플·바이비트 연계 보상 효과까지",
+   "url": "https://www.blockmedia.co.kr/archives/1142667?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+   "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+   "source": "Decrypt",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "The British Pound slips again as bets on an October Fed hike build",
+   "url": "https://www.fxstreet.com/news/the-british-pound-slips-again-as-bets-on-an-october-fed-hike-build-202609212242",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "L2 growth and $120 billion in staking hide Ethereum’s supply reality",
+   "url": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
+   "source": "CryptoSlate",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "‘친트럼프’ 대주주 품에 안기는 CNN… 보도 중립성 논란 속 ‘편집 감독위’ 신설",
+   "url": "https://www.blockmedia.co.kr/archives/1142656?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "America’s power grid is running out of juice, and these stocks stand to gain",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=063129c2-d93f-4e4d-a96a-85628ae47d78&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "2시간 전",
    "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+   "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+   "source": "Decrypt",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 팔고 이더리움 산 ‘큰손’… 8700만달러 자금 이동에 3000달러 돌파 주목",
+   "url": "https://www.blockmedia.co.kr/archives/1142644?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "[뉴욕 금·채권·달러] 유가 급락에 10년물 5% 아래로…매파 연준 눌렀다",
+   "url": "https://www.blockmedia.co.kr/archives/1142645?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Bitcoin hits an 8-month high, and sends a clear message about risk appetite",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=310b9db6-0db8-45ea-9c52-061579ade3a3&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "2시간 전",
+   "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+   "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+   "source": "Decrypt",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Silver Price Forecast: 100-day SMA caps bulls as range tightens",
+   "url": "https://www.fxstreet.com/news/silver-price-forecast-100-day-sma-caps-bulls-as-range-tightens-202609212137",
+   "source": "FXStreet",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "비트마인, 이더리움 7500만달러 추가 매수… 톰 리 “기관, 디지털자산 비중 대폭 늘릴 것”(종합)",
+   "url": "https://www.blockmedia.co.kr/archives/1142641?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "AMD hits a major milestone as AI stocks blaze higher",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=0059fefe-1fe1-4d59-89a3-2a3200e06032&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "3시간 전",
+   "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "Gold slips as dollar firms on Fed rate hike bets, losses capped by slide in oil",
+   "url": "https://www.investing.com/news/commodities-news/gold-prices-flat-with-focus-on-uschina-talks-iran-conflict-4908220",
+   "source": "Investing 원자재",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "‘베어 트랩’ 탈출한 비트코인, 88K 고지 넘어서나… “2022년 대상승장 패턴 재현”",
+   "url": "https://www.blockmedia.co.kr/archives/1142635?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "ECB launches ‘digital euro for banks’ and prepares to buy tokenized bonds",
+   "url": "https://cryptoslate.com/ecb-launches-digital-euro-for-banks-and-prepares-to-buy-tokenized-bonds/",
+   "source": "CryptoSlate",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "As the S&P 500 nears a new record high, there are cracks below the surface",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=3eb61509-3beb-42fe-a503-37e84fee9169&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "3시간 전",
+   "group": "macro"
+  },
+  {
+   "tone": "모호",
+   "title": "[뉴욕 코인시황] 유가·금리 하락 호재…비트코인 8.7만달러 터치, 8개월 만에 최고",
+   "url": "https://www.blockmedia.co.kr/archives/1142636?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "3시간 전",
+   "group": "crypto"
   }
  ],
  "digests": []
