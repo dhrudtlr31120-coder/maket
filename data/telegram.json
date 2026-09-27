@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 02:37:50 KST",
+ "updated": "2026-09-27 09:17:56 KST",
  "channels": [
   {
    "name": "Tree News",
@@ -29,12 +29,196 @@
  ],
  "items": [
   {
+   "text": "솔라나 알펜글로우, 개발망도 가동…거래 확정 0.1초 목표(종합)\n\n솔라나(Solana·SOL)의 새 합의 시스템 ‘알펜글로우(Alpenglow)’가 테스트넷에 이어 개발망에서도 가동을 시작했다. 지난 24일(현지시각) 테스트넷을 거쳐 그 다음 날 개발망에서 기존 시스템을 새…\n\n#SOL_솔라나\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144644?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-27T00:14:09+00:00",
+   "url": "https://t.me/blockmedia/115236",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3분 전"
+  },
+  {
+   "text": "GoPlus: Bitget’s $387.5M Hack Exploited the Transaction-Signing Trust Chain, Not Private Keys\n\nGoPlus Security said its review of Bitget’s $387.5 million security incident found that the attack did not involve a private-key leak, but rather a compromise of the transaction-signing trust chain. Attackers breached a critical wallet backend system, forged transaction data, and caused Bitget’s authorized signing flow to generate valid signatures for transfers the exchange did not intend to make.\n\nGoPlus said the fund-drain window lasted about 2 hours and 25 minutes, with the largest wave moving rou",
+   "dt": "2026-09-26T23:26:59+00:00",
+   "url": "https://t.me/wublockchainenglish/26188",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "50분 전"
+  },
+  {
+   "text": "아크인베스트, 오픈AI·스페이스X 담은 펀드 토큰화\n\n캐시 우드가 이끄는 아크인베스트가 약 13억달러 규모의 ‘아크 벤처펀드’를 토큰화하기로 했다. 적격 투자자의 펀드 지분을 이더리움 블록체인에 기록하는 방식으로, 펀드에는 오픈AI와…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144640?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T23:16:16+00:00",
+   "url": "https://t.me/blockmedia/115235",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "세일러 스트래티지 회장 “은행이 비트코인 맡고 담보대출도 허용해야”\n\n마이클 세일러 스트래티지 회장이 미국 은행의 비트코인(BTC) 보관과 비트코인 담보대출을 허용해야 한다고 주장했다. 인공지능(AI)이 사람을 대신해 거래하는 시장이 커지면 디지털자산(가상자산) 산업…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144637?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T22:43:24+00:00",
+   "url": "https://t.me/blockmedia/115234",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "바이낸스, 써클에 1억달러 투자… ‘5년 동맹’ 체결\n\n바이낸스가 스테이블코인 USDC 발행사 써클에 1억달러를 투자하고 5년간의 상업적 협력 계약을 체결했다. 바이낸스가 USDC의 유통과 거래를 확대하면서 신흥시장을 중심으로 테더(USDT)와의 경쟁에도 영향을…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144635?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T21:51:04+00:00",
+   "url": "https://t.me/blockmedia/115233",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "크라켄 모회사 페이워드, 통합 금융 플랫폼 구축\n\n크라켄 모회사 페이워드(Payward)가 디지털자산(가상자산) 거래소를 넘어 거래와 은행, 자산운용, 기업용 서비스를 하나의 인프라로 연결하는 금융 플랫폼 구축에 나섰다. 최근 2년간 선물·파생상품 기업을…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144632?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T21:30:45+00:00",
+   "url": "https://t.me/blockmedia/115232",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "애플, 탭틱엔진 특허 소송 패소… “57억달러 배상”\n\n애플이 아이폰과 애플워치의 진동 기능에 사용되는 ‘탭틱엔진(Taptic Engine)’ 관련 특허소송에서 패소했다. 미국 연방 배심원단은 애플이 택션테크놀로지의 특허 2건 일부를 침해했다고 판단하고 57억달러의…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144630?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T21:28:19+00:00",
+   "url": "https://t.me/blockmedia/115231",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "테더, 미 국채 1100억달러 보유…미 정부 ‘파트너’ 되나\n\n테더가 세계 최대 스테이블코인 USDT를 통해 끌어모은 달러 수요를 1000억달러가 넘는 미국 국채 수요로 연결하고 있다. 미국 정부도 해외 스테이블코인을 달러 접근성을…\n\n#USDT\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144628?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T21:24:06+00:00",
+   "url": "https://t.me/blockmedia/115230",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "[뉴욕 코인시황] 트럼프, 이란 휴전안 거부…비트코인 8.3만달러대 후퇴\n\n트럼프 대통령이 이란이 제안한 7일간의 휴전안을 거부한 것으로 전해지면서 뉴욕 디지털자산(가상자산) 시장이 지정학적 불확실성에 다시 흔들리고 있다. 이번 주 8만7000달러선을 넘어섰던 비트코인은…\n\n#BNB #BTC #DOGE #ETH #HYPE #LINK #SOL #TRX #XRP #ZEC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144625?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T21:20:48+00:00",
+   "url": "https://t.me/blockmedia/115229",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "Iran's Aragchi: negotiated solution is the only way to end deadlock, that is our stance|FJ",
+   "dt": "2026-09-26T21:17:00+00:00",
+   "url": "https://t.me/FinancialJuice/136397",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "Iran's Araqchi: conditions clear, any opening of Strait of Hormuz depends on them|FJ",
+   "dt": "2026-09-26T21:14:42+00:00",
+   "url": "https://t.me/FinancialJuice/136396",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "Iran's Araqchi: awaiting mediators to relay final views for decision-making|FJ",
+   "dt": "2026-09-26T21:14:10+00:00",
+   "url": "https://t.me/FinancialJuice/136395",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "Iran's foreign minister Araqchi: First reaction from U.S. president seen, but mediators have not yet communicated anything to us|FJ",
+   "dt": "2026-09-26T21:13:46+00:00",
+   "url": "https://t.me/FinancialJuice/136394",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "European Commission: President von der Leyen unveils €710 million for aid to displaced persons in Africa and worldwide crisis relief|FJ",
+   "dt": "2026-09-26T20:16:56+00:00",
+   "url": "https://t.me/FinancialJuice/136393",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "“스페이스X, AI 잠재력 주목”…모건스탠리, 목표가 300달러\n\n스페이스X(SPCX)가 발사 서비스와 스타링크를 넘어 인공지능(AI)으로 사업 영역을 확대하면서 장기 성장 가능성에 대한 전망이 나오고 있다. 시장 전문가 셰이 볼루어는 아마존과 테슬라가…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144623?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T20:11:18+00:00",
+   "url": "https://t.me/blockmedia/115228",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "연준, 스테이블코인 뱅크런 방지…“24시간 내 복구안 제출”(종합)\n\n미국 연방준비제도(Fed·연준)가 감독 대상 스테이블코인의 준비자산이 발행액보다 부족해질 경우 24시간 안에 복구계획을 제출하도록 하는 규제안을 내놨다. 부족분을 채우지 못하면 다음 영업일 오후…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144621?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T19:52:18+00:00",
+   "url": "https://t.me/blockmedia/115227",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "칼시, 스포츠 예측시장 또 패소…규제 충돌 대법원 가나\n\n미국 예측시장 플랫폼 칼시(Kalshi)가 스포츠 이벤트 계약을 둘러싼 항소심에서 또 패소했다. 연방 상품법에 따라 상품선물거래위원회(CFTC)가 독점적으로 관할해야 한다는 칼시의 주장이 받아들여지지 않으면서…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144619?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T19:38:22+00:00",
+   "url": "https://t.me/blockmedia/115226",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "앤트로픽, 미 국방부 상대 패소…클로드 ‘배제’ 유지\n\n인공지능(AI) 기업 앤트로픽(앤스로픽)이 미 국방부의 공급망 위험 지정에 불복해 제기한 소송의 항소심에서 패소했다. 법원은 국방부가 앤트로픽의 AI 모델 클로드(Claude)를 시스템에서 배제하고 국방부…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144617?utm_source=telegram&utm_medium=social",
+   "dt": "2026-09-26T19:19:49+00:00",
+   "url": "https://t.me/blockmedia/115225",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "4시간 전"
+  },
+  {
+   "text": "Trump: approved new fuel economy standards ending Biden's EV mandate|FJ",
+   "dt": "2026-09-26T19:16:10+00:00",
+   "url": "https://t.me/FinancialJuice/136392",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "Libya's National Oil Corporation: crude output to gradually return to normal levels|FJ",
+   "dt": "2026-09-26T18:38:23+00:00",
+   "url": "https://t.me/FinancialJuice/136391",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "Libya reopens Sharara-Zawiya pipeline valve: resumes crude flow, says Libya's NOC|FJ",
+   "dt": "2026-09-26T18:36:59+00:00",
+   "url": "https://t.me/FinancialJuice/136390",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "IMF: staff wraps up visit to Gabon|FJ",
+   "dt": "2026-09-26T17:48:25+00:00",
+   "url": "https://t.me/FinancialJuice/136389",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "6시간 전"
+  },
+  {
+   "text": "Ukraine intercepting 55% of Russian jet-powered drones: Zelenskiy|FJ",
+   "dt": "2026-09-26T17:46:05+00:00",
+   "url": "https://t.me/FinancialJuice/136388",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "6시간 전"
+  },
+  {
    "text": "Northern Ireland High Court injunction provides brief interim relief until judicial review on route decided|FJ",
    "dt": "2026-09-26T17:11:36+00:00",
    "url": "https://t.me/FinancialJuice/136387",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "26분 전"
+   "ago": "7시간 전"
   },
   {
    "text": "Northern Ireland high court issues injunction to block Drumcree Protestant parade through Catholic area on Sunday|FJ",
@@ -42,87 +226,7 @@
    "url": "https://t.me/FinancialJuice/136386",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "27분 전"
-  },
-  {
-   "text": "Iraq reaches agreement with US to continue cash dollar shipments: Iraqi government|FJ",
-   "dt": "2026-09-26T16:57:09+00:00",
-   "url": "https://t.me/FinancialJuice/136385",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "40분 전"
-  },
-  {
-   "text": "United Nations: Russian Foreign Minister Lavrov says US must end 'siege' and trade restrictions on Cuba|FJ",
-   "dt": "2026-09-26T16:01:21+00:00",
-   "url": "https://t.me/FinancialJuice/136384",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "UN Libya mission warns of economic fallout from ongoing closure of Sharara-Zawiya oil pipeline|FJ",
-   "dt": "2026-09-26T15:30:26+00:00",
-   "url": "https://t.me/FinancialJuice/136383",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "UN mission: strikes on Libya's oil, energy infrastructure may lead to sanctions under Security Council resolutions|FJ",
-   "dt": "2026-09-26T15:28:59+00:00",
-   "url": "https://t.me/FinancialJuice/136382",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "Russian defence ministry: Russian forces strike cargo ship in Black Sea|FJ",
-   "dt": "2026-09-26T14:43:30+00:00",
-   "url": "https://t.me/FinancialJuice/136381",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "Russia's Lavrov meets German counterpart on sidelines of UN General Assembly|FJ",
-   "dt": "2026-09-26T14:31:30+00:00",
-   "url": "https://t.me/FinancialJuice/136380",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "3시간 전"
-  },
-  {
-   "text": "Trump: Cuba and US to strike a deal, don’t expect military involvement|FJ",
-   "dt": "2026-09-26T14:25:04+00:00",
-   "url": "https://t.me/FinancialJuice/136379",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "3시간 전"
-  },
-  {
-   "text": "Pakistan PM Sharif on Houthis attacks on Saudi Arabia: Any threat to security, sanctity of Two Holy Mosques is a red line that can't be crossed under any circumstances|FJ",
-   "dt": "2026-09-26T14:24:07+00:00",
-   "url": "https://t.me/FinancialJuice/136378",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "3시간 전"
-  },
-  {
-   "text": "Easing limits on Iranian airlines allows Iraq to restart flights for humanitarian aid: Iraqi PM office|FJ",
-   "dt": "2026-09-26T14:01:04+00:00",
-   "url": "https://t.me/FinancialJuice/136377",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "3시간 전"
-  },
-  {
-   "text": "Iraq in discussions with US to exempt some Iraqi airports from Iranian airline restrictions: Iraqi PM office|FJ",
-   "dt": "2026-09-26T14:00:11+00:00",
-   "url": "https://t.me/FinancialJuice/136376",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "3시간 전"
+   "ago": "7시간 전"
   },
   {
    "text": "Bitget CEO Gracy Chen Formally Asks THORChain to Reject Transactions from Exploiter Addresses\n\nOn-chain tracking platform MistTrack, an arm of SlowMist, pointed out that following an earlier exploit of Bybit where nearly $1.2 billion in stolen funds was routed through THORChain for cross-chain transfers, proceeds from the recent Bitget security incident are once again flowing into THORChain for asset swaps and cross-chain bridging. MistTrack stated that the hacker addresses had already been publicly flagged and actively tracked across the industry. With the protocol continuing to facilitate la",
@@ -130,71 +234,7 @@
    "url": "https://t.me/wublockchainenglish/26187",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "3시간 전"
-  },
-  {
-   "text": "온도 파이낸스 0.5달러 탈환…블랙록 포트폴리오 공개에 ‘RWA 기대감’ 확대\n\n실물자산(RWA) 토큰화 프로젝트 온도 파이낸스의 거버넌스 토큰 ONDO가 0.5달러를 탈환한 뒤 상승 흐름을 이어가고 있다. 블랙록이 설계한 포트폴리오 전략을 온체인 상품으로…\n\n#ONDO\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144585?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T12:31:06+00:00",
-   "url": "https://t.me/blockmedia/115223",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "미 CFTC, 폰지 사기 혐의로 캐시 FX 그룹 제소⋯ “최소 4억600만달러 손실”\n\n미국 상품선물거래위원회(CFTC)가 인공지능(AI), 전문 트레이더를 앞세워 고수익을 약속한 캐시 FX 그룹(Cash FX Group S.A.)을 상대로 9억5000만달러(약 1조2910억원) 규모의 사기 혐의 소송을…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144552?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T11:31:16+00:00",
-   "url": "https://t.me/blockmedia/115222",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "비트코인 81%가 6개월째 ‘잠겼다’…장기 보유자 매도 줄며 공급 압박\n\n비트코인(BTC) 유통 물량 81%가 최소 6개월 동안 움직이지 않은 것으로 나타났다. 가격이 지난 6월 저점에서 약 50% 반등했지만 거래량, 상장지수펀드(ETF) 유입은…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144550?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T09:31:06+00:00",
-   "url": "https://t.me/blockmedia/115221",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "8시간 전"
-  },
-  {
-   "text": "비트코인에 다시 뜬 ‘강세 신호’⋯ IFP, 90일 이동평균선과 골든크로스\n\n비트코인의 거래소 간 흐름 펄스(Inter-exchange Flow Pulse·IFP)가 90일 이동평균선을 다시 상향 돌파하며 강세 신호를 나타내고 있다. 파생상품 거래소로 이동하는 비트코인 물량이…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144543?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T08:31:31+00:00",
-   "url": "https://t.me/blockmedia/115220",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "9시간 전"
-  },
-  {
-   "text": "XRP 레저 ‘Batch’ 업그레이드, 검증인 지지율 이탈로 10월9일로 연기\n\nXRP 레저(XRPL)의 핵심 업그레이드인 BatchV1_1 활성화 일정이 당초 9월29일에서 10월9일로 미뤄졌다. 검증인 지지율이 한때 활성화 기준 아래로 떨어지면서 2주간의 의무 대기…\n\n#XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144533?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T07:31:05+00:00",
-   "url": "https://t.me/blockmedia/115219",
-   "source": "블록미디어",
-   "note": "국내 크립토",
    "ago": "10시간 전"
-  },
-  {
-   "text": "오픈AI AI 에이전트, 미 연방정부 사이트까지 접근했다… ‘통제 밖 행동’ 우려 확산\n\n오픈AI의 AI 에이전트가 미국 증권거래위원회(SEC), 인구조사국 등 연방정부 웹사이트에 접근한 사실이 확인되며 자율형 AI 시스템의 통제 문제가 재부각되고 있다.\n\n오픈AI는 25일(현지시각)…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144506?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T06:31:11+00:00",
-   "url": "https://t.me/blockmedia/115218",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "11시간 전"
-  },
-  {
-   "text": "[펀드플로] 비트코인·이더리움 2.2억달러 ‘밀물’… 6거래일째 순유입\n\n미국 현물 비트코인과 이더리움 상장지수펀드(ETF)가 나란히 6거래일 연속 순유입 흐름을 이어갔다. 비트코인 ETF의 하루 유입 강도는 다소 둔화됐지만, 이더리움 ETF로 들어온…\n\n#BTC #ETH\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144526?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T05:50:10+00:00",
-   "url": "https://t.me/blockmedia/115217",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "11시간 전"
-  },
-  {
-   "text": "시바이누 선물 활동 지표 351% 급증…200일선 돌파 뒤 변동성 확대\n\n시바이누(SHIB) 파생상품 시장의 단기 거래 활동이 빠르게 늘면서 가격 변동성이 확대되고 있다. 장기 추세를 가늠하는 200일 이동평균선을 넘어선 뒤 해당 구간을…\n\n#SHIB\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144486?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T05:31:17+00:00",
-   "url": "https://t.me/blockmedia/115216",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "12시간 전"
   },
   {
    "text": "Bitcoin ETFs See $134M in Net Inflows, Ethereum ETFs Add $86.95M on Sept. 25 (ET)\n\nAccording to SoSoValue, Bitcoin spot ETFs recorded $134 million in net inflows on September 25 (ET), marking seven consecutive days of inflows. BlackRock's IBIT led with $96.99 million, followed by Fidelity's FBTC with $49.32 million.\n\nEthereum spot ETFs saw $86.95 million in net inflows, extending their streak to six days. BlackRock's ETHA and ETHB attracted $50.37 million and $31.88 million, respectively. — link",
@@ -202,15 +242,7 @@
    "url": "https://t.me/wublockchainenglish/26186",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "12시간 전"
-  },
-  {
-   "text": "[파생시황] 알트코인 반등에 숏 1.4억달러 ‘증발’⋯ 비트코인은 롱 줄청산\n\n디지털자산 시장에서 주요 알트코인이 반등하면서 파생시장 청산 흐름이 엇갈렸다. 시장 전체로는 숏 포지션 청산이 우위를 보였지만 비트코인에서는 오히려 롱 포지션 청산이…\n\n#BTC #DOGE #ETH #NEAR #SOL #XRP #ZEC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144498?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T04:57:11+00:00",
-   "url": "https://t.me/blockmedia/115215",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "12시간 전"
+   "ago": "18시간 전"
   },
   {
    "text": "Bitget: Withdrawals Set to Resume in Phases Starting September 28, Vulnerability Fixed\n\nBitget said the vulnerability involved in its September 24 security incident has been identified and fixed, with withdrawals set to resume in phases after security checks are completed. The schedule is as follows, all at 08:00 UTC: BTC on September 28, ETH on September 29, USDT on September 30, and other tokens, fiat and P2P services on October 2.\n\nBitget said user account balances remain unaffected and its Protection Fund will cover the financial impact of the incident. Trading and deposits remain operatio",
@@ -218,7 +250,7 @@
    "url": "https://t.me/wublockchainenglish/26185",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "13시간 전"
+   "ago": "19시간 전"
   },
   {
    "text": "BWENEWS: Bitget will resume withdrawals in phases after a September 24 security incident, starting September 28 with BTC, September 29 with ETH, September 30 with USDT, and October 2 with other tokens/fiat. No user funds affected; security checks ongoing.  https://x.com/bitget/status/2103695497458557342\n\n方程式新闻: Bitget将继9月24日安全事件后分阶段恢复提现：9月28日开放BTC，9月29日开放ETH，9月30日开放USDT，10月2日开放其他代币/法币。用户资金未受影响，安全检查仍在进行中。\n\nBTC  MarketCap: 1.7T\nETH  MarketCap: 328.5B\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-09-26 12:04:05",
@@ -226,15 +258,7 @@
    "url": "https://t.me/BWEnews/16494",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "13시간 전"
-  },
-  {
-   "text": "ECB, 유럽 ‘Pix’·브라질 ‘TIPS’ 즉시결제망 연결 검토\n\n유럽중앙은행(ECB)이 유럽의 즉시결제 시스템과 브라질의 결제망을 연결할 수 있는지 검토한다. 연결이 이뤄지면 유럽과 브라질 사이에서 돈을 더 빠르고 저렴하게 보낼 수…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144473?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T03:50:48+00:00",
-   "url": "https://t.me/blockmedia/115214",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "13시간 전"
+   "ago": "20시간 전"
   },
   {
    "text": "SEC's Best-Known Crypto Advocate Hester Peirce to Step Down\n\nAccording to crypto journalist Eleanor Terrett, SEC Commissioner Hester Peirce will leave the agency on October 2 after nearly nine years of service. She will join Regent University School of Law as an associate professor in November. Known as \"Crypto Mom,\" Peirce has been a longtime advocate for the crypto industry. — link",
@@ -242,15 +266,7 @@
    "url": "https://t.me/wublockchainenglish/26184",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "14시간 전"
-  },
-  {
-   "text": "‘크립토 맘’ 헤스터 피어스, 다음 달 2일 SEC 떠난다\n\n미국 증권거래위원회(SEC)에서 디지털자산 규칙 마련을 꾸준히 주장해온 헤스터 피어스 위원이 오는 2일 퇴임한다. 피어스 위원은 25일(현지시각) 엑스(X)에 올린 사직 서한에서 마지막…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144470?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T03:14:25+00:00",
-   "url": "https://t.me/blockmedia/115213",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "14시간 전"
+   "ago": "20시간 전"
   },
   {
    "text": "Circle and Tether Freeze $318,000 Linked to Bitget Hack\n\nAccording to CoinDesk, Circle and Tether blacklisted an address labeled \"Bitget Exploiter 8,\" freezing 218,023 USDT and 99,990 USDC, worth approximately $318,000 combined. Circle took action at 05:00 UTC on September 25, and MistTrack later confirmed that Tether had also blacklisted the address. The frozen funds represent only a small fraction of the stolen assets. MistTrack data shows that other attacker-linked addresses still hold more than 63,000 ETH, which stablecoin issuers cannot freeze. — link",
@@ -258,15 +274,7 @@
    "url": "https://t.me/wublockchainenglish/26183",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "15시간 전"
-  },
-  {
-   "text": "코인마켓캡, 코인글래스 인수…시세·파생상품 데이터 한곳에\n\n디지털자산 시세 정보 사이트 코인마켓캡이 파생상품 데이터 업체 코인글래스를 인수했다. 코인마켓캡에서 코인 가격과 순위를 확인하던 이용자들이 앞으로는 선물시장 거래 흐름도 함께…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1144456?utm_source=telegram&utm_medium=social",
-   "dt": "2026-09-26T02:33:10+00:00",
-   "url": "https://t.me/blockmedia/115212",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "15시간 전"
+   "ago": "21시간 전"
   },
   {
    "text": "SEC Staff: Token Buybacks and Continued Development of Functional Crypto Networks May Not Trigger Howey Test\n\nThe SEC’s Division of Corporation Finance issued new FAQs clarifying its March 17 crypto guidance. Staff said Staking Receipt Tokens may qualify as “digital tools” or “digital commodities,” depending on their structure.\n\nFor already functional crypto systems, continued maintenance, improvements, network development and non-security token buybacks generally do not constitute “essential managerial efforts” under the Howey test. However, buybacks promoted as generating returns before a sy",
@@ -274,7 +282,7 @@
    "url": "https://t.me/wublockchainenglish/26182",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "17시간 전"
+   "ago": "23시간 전"
   },
   {
    "text": "Highlight Clip: Bitget CEO: A Fake Interview Cost Me $80,000\n\nBitget CEO: A Fake Interview Cost Me $80,000\n\nOn September 24, Bitget CEO Gracy Chen shared her experience of being targeted by the Lazarus Group. The attackers first compromised the official Twitter account of a major crypto media outlet, then impersonated a journalist to contact her and communicated with her assistant and PR team via Telegram, gradually building credibility. She said the attackers ultimately carried out the attack through a Zoom “interview,” highlighting how social engineering and identity impersonation continue t",
@@ -282,7 +290,7 @@
    "url": "https://t.me/wublockchainenglish/26181",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "17시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Elon X profile change: Profile Image:\n  -Now: https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4.jpg\n  -Before: https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg\n\n马斯克X个人资料变动: 个人资料图片：\n\n-现在：\n\n-之前：\n\n————————————\n2026-09-26 03:30:12\nsource: https://twitter.com/elonmusk",
@@ -290,7 +298,7 @@
    "url": "https://t.me/BWEnews/16493",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "22시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Bybit Publishes Restricted Counterparty List Covering Multiple Crypto Platforms and Entities Including Lazarus Group\n\nBybit has published a Restricted Counterparty List that includes Garantex, Bitzlato, EXMO, Payeer, Nobitex, Bitpapa, Chatex, Cryptex, Grinex, Rapira, WhiteBird, OMPFinex, Ramzinex, HTX, Wallex, Tetherland, Bit24, QvaPay, Huione Guarantee, Xinbi Guarantee, Samourai Wallet, Bitcoin Fog, ChipMixer, Sinbad and Hydra Market, covering crypto trading platforms, payment and wallet services, guarantee marketplaces, mixers and darknet markets. The list also includes entities and organiza",
@@ -325,14 +333,6 @@
    "ago": "1일 전"
   },
   {
-   "text": "Wallets Linked to Bitkub Co-Founder Sold 139.6K ZEC, Missing Over $110M in Potential Gains\n\nAccording to MLM onchain, a cluster of wallets suspected to be linked to Bitkub co-founder and former chairman Sakolkorn Sakavee has been unshielding and selling ZEC over the past four weeks. MLM said the wallets sold around 139,600 ZEC for roughly $111 million; at current prices, the same amount would be worth about $223 million, implying more than $110 million in unrealized upside was missed. On Aug. 27, MLM had reported that the wallets had unshielded 65,820 ZEC, sold 53,900 ZEC, and bought 536.7 BTC",
-   "dt": "2026-09-25T12:45:20+00:00",
-   "url": "https://t.me/wublockchainenglish/26176",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "1일 전"
-  },
-  {
    "text": "Binance Alpha Listing(Doesn't mean official listing): Binance Alpha lists new tokens:\nGstock (GSTOCK)\nContract Address: 0xcafdbce93477261db8250e42bdae6e66733f9e20 (BSC)\n\nBinance Alpha上新 (不代表会正式上市): 币安Alpha上线新代币：\n\nGstock (GSTOCK)\n\n合约地址：0xcafdbce93477261db8250e42bdae6e66733f9e20 (BSC)\n\nGSTOCKBSC  MarketCap: 20.9M\nGSTOCK  MarketCap: 21.1M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-09-25 19:36:09",
    "dt": "2026-09-25T11:36:10+00:00",
    "url": "https://t.me/BWEnews/16492",
@@ -346,7 +346,7 @@
    "url": "https://t.me/TreeNewsFeed/8175",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "BWENEWS: Bitget's representitive: - wallets are under control now - majority of the stolen funds were from hot wallets, cold wallets aren't affected - Bitget Protection Fund able to cover the loss  方程式新闻: Bitget 代表表示：  - 钱包目前已恢复控制  - 大部分被盗资金来自热钱包，冷钱包未受影响 …",
@@ -354,7 +354,7 @@
    "url": "https://t.me/BWEnews/16491",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "BWENEWS: Bitget's representitive:\n- wallets are under control now\n- majority of the stolen funds were from hot wallets, cold wallets aren't affected\n- Bitget Protection Fund able to cover the loss\n\n方程式新闻: Bitget 代表表示：\n\n- 钱包目前已恢复控制\n\n- 大部分被盗资金来自热钱包，冷钱包未受影响\n\n- Bitget 保护基金足以弥补损失。\n\n————————————\n2026-09-25 05:24:00",
@@ -362,7 +362,7 @@
    "url": "https://t.me/BWEnews/16490",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "AggrNews: BITGET POTENTIALLY HACKED FOR OVER $100M: ONCHAIN https://t.co/e67OneSqNh\n\nAggrNews: 链上数据显示Bitget潜在遭受攻击，损失超1亿美元\n\n————————————\n2026-09-25 04:12:43",
@@ -370,7 +370,7 @@
    "url": "https://t.me/BWEnews/16489",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "Tree News: FEDERAL RESERVE: Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act\n\nhttps://t.co/8QFQSz9qZc\n\nTree News: 美联储：美联储理事会就两项旨在为美联储监管的支付稳定币发行机构建立《GENIUS法案》相关监管框架的提案征求公众意见\n\n————————————\n2026-09-25 02:30:40",
@@ -378,7 +378,7 @@
    "url": "https://t.me/BWEnews/16488",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "Tree News: *NEW YORK ANNOUNCES LAWSUIT AGAINST POLYMARKET: BBG\n\nTree News: 纽约州宣布对 Polymarket 提起诉讼：彭博社\n\n————————————\n2026-09-24 22:19:28",
@@ -410,7 +410,7 @@
    "url": "https://t.me/BWEnews/16484",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "*US WEIGHS INITIATIVE TO PROMOTE DOLLAR-BACKED STABLECOIN ABROAD: BBG",
@@ -418,7 +418,7 @@
    "url": "https://t.me/TreeNewsFeed/8174",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "Binance EN: Binance Futures Will Launch OURAUSDT USDⓈ-Margined Perpetual Contract Pre-IPO Trading (2026-09-23)\n\n币安重要公告: 币安合约将于2026年9月23日上线 OURAUSDT USDⓈ本位永续合约盘前交易\n\n————————————\n2026-09-23 15:15:46\nsource: https://cache.bwe-ws.com/bn-2104",
@@ -450,7 +450,7 @@
    "url": "https://t.me/TreeNewsFeed/8171",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "37일 전"
+   "ago": "38일 전"
   },
   {
    "text": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS: BBG",
@@ -474,7 +474,7 @@
    "url": "https://t.me/TreeNewsFeed/8168",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "45일 전"
+   "ago": "46일 전"
   },
   {
    "text": "STRATEGY SOLD 1,690 BTC ($108.6M) AT AN AVERAGE PRICE OF $64,262\n\nhttps://www.sec.gov/Archives/edgar/data/1050446/000119312526341297/0001193125-26-341297-index.html",
@@ -498,7 +498,7 @@
    "url": "https://t.me/TreeNewsFeed/8165",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "71일 전"
+   "ago": "72일 전"
   },
   {
    "text": "EXCLUSIVE-BINANCE SET TO LOSE PERMISSION TO OFFER SERVICES TO EU CLIENTS AS LICENCE APPLICATION IN GREECE TO BE TURNED DOWN, TWO SOURCES SAY - RTRS",
