@@ -1,411 +1,163 @@
 {
- "updated": "2026-10-05 03:02:59 KST",
+ "updated": "2026-10-05 09:33:13 KST",
  "handle": "",
  "counts": {
-  "호재": 4,
-  "악재": 7,
-  "모호": 49,
+  "호재": 3,
+  "악재": 1,
+  "모호": 56,
   "제외": 5
  },
  "cards": [
   {
-   "tone": "악재",
-   "title": "드리프트 해킹 피해 회복률, 달러당 1센트에 불과",
-   "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/",
-   "source": "CryptoSlate",
-   "ago": "39분 전",
-   "group": "crypto"
+   "tone": "모호",
+   "title": "‘모두의 AI’ 10월 대전...SKT는 \"전화\"·카카오 \"카톡\"·KT '개방형'",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=63203",
+   "source": "더일렉",
+   "ago": "방금",
+   "group": "semi"
   },
   {
-   "tone": "악재",
-   "title": "오픈AI 에이전트 소송, 개발사 책임 법정서 가린다",
-   "url": "https://www.tokenpost.kr/news/policy/418194",
+   "tone": "모호",
+   "title": "[선물 고수 PICK] XRP 코인 담보 포지션 18%p 급감...이더리움·솔라나는 확대",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/418246",
    "source": "토큰포스트",
-   "ago": "49분 전",
+   "ago": "12분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "트럼프, 리플 소송 주도한 제이 클레이튼 AI 수장 지명",
-   "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-   "source": "Decrypt",
-   "ago": "58분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "그록 4.7·샤오미 모델, 사이버 방어 평가 공동 1위",
-   "url": "https://www.tokenpost.kr/news/ai/418193",
+   "title": "인텔 연초 대비 223.39% 상승…데이터센터·AI 매출 59% 늘어",
+   "url": "https://www.tokenpost.kr/news/market/418245",
    "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "예멘 정부군, 후티 반군 점령지 탈환 공격 개시",
-   "url": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
-   "source": "Investing 원자재",
-   "ago": "1시간 전",
-   "group": "metal"
-  },
-  {
-   "tone": "악재",
-   "title": "zkAPI, 노트 만료 시 예치금 귀속 기능 논란",
-   "url": "https://www.tokenpost.kr/news/blockchain/418189",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
+   "ago": "13분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "주식 토큰 품은 밈코인, 수익 동력 될까?",
-   "url": "https://www.tokenpost.kr/news/insights/418188",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "비탈릭 제안 AI 결제 시스템, 만료 예치금 국고 귀속",
-   "url": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
-   "source": "CryptoSlate",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "독일 메르츠, 키이우서 신규 군사 지원 발표",
-   "url": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
-   "source": "Investing 원자재",
-   "ago": "1시간 전",
+   "title": "Russia vows to step up strikes on Ukraine",
+   "url": "https://www.fxstreet.com/news/russia-vows-to-step-up-strikes-on-ukraine-202610050014",
+   "source": "FXStreet",
+   "ago": "13분 전",
    "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "비탈릭 건강정보 AI 실험, 기존 보도와 중복",
-   "url": "https://www.tokenpost.kr/news/ai/418187",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "바이낸스, 미 당국과 43억달러 합의 및 아부다비 승인",
-   "url": "https://www.tokenpost.kr/news/policy/418185",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "은행권, 암호화폐 우회 진입 차단 소송 제기",
-   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-   "source": "Decrypt",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "미 증시, 유가·국채금리 주시…마벨 행사에 주목",
-   "url": "https://www.tokenpost.kr/news/market/418184",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "리도 0x02 CSM, 첫 키 담보금 32 ETH 요구",
-   "url": "https://www.tokenpost.kr/news/blockchain/418183",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "솔라나 토큰화 주식 9월 거래량 44억달러 돌파",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/418182",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "보스니아 총선 실시…EU 가입 향방 결정",
-   "url": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
-   "source": "Investing 원자재",
-   "ago": "2시간 전",
-   "group": "metal"
-  },
-  {
-   "tone": "모호",
-   "title": "TLT 개인 매수세 지속…연초 대비 수익률 -7.81%",
-   "url": "https://www.tokenpost.kr/news/economy/418180",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "그랜트 카돈, 660억달러 규모 AI 고수익채권 발행",
-   "url": "https://www.tokenpost.kr/news/ai/418179",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "리도 신규 스테이킹, 진입 담보금 기존 대비 13배 요구",
-   "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
-   "source": "CryptoSlate",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "암호화폐 시장 혼조세…비트코인 8만5천달러선",
-   "url": "https://www.tokenpost.kr/news/briefing/418175",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "마이크로스트래티지, 비트코인 84만7666개 보유",
-   "url": "https://www.tokenpost.kr/news/briefing/418174",
-   "source": "토큰포스트",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "비트코인 ETF에 1억 3400만달러 유입되며 상승 출발",
-   "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-   "source": "Decrypt",
-   "ago": "2시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "과기정통부·KISA, 기업 2.8만곳 대상 해킹 총력 대응",
-   "url": "https://www.etnews.com/20261004000031",
-   "source": "전자신문",
-   "ago": "2시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "SI 380만개 매수한 트레이더, 6만7600달러 수익",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/418173",
-   "source": "토큰포스트",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "사내서, 새마을금고서 '8억 실탄' 챙긴 삼성맨…'반도체 벨트' 주택시장 판 키우나",
-   "url": "https://www.etnews.com/20261004000030",
-   "source": "전자신문",
-   "ago": "3시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Modder 'fixes' melting RTX 5090 power connectors with custom distributor",
-   "url": "https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test",
-   "source": "Tom's Hardware",
-   "ago": "3시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "IOSG, 투자 위험 신호 여섯 가지와 창업자 기준 제시",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/418171",
-   "source": "토큰포스트",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order",
-   "url": "https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids",
-   "source": "Tom's Hardware",
-   "ago": "3시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit",
-   "url": "https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors",
-   "source": "Tom's Hardware",
-   "ago": "3시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Corporate America has never been this upbeat about future profits",
-   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=ea4e6f93-ca11-43ef-90bd-088ef92e4a74&mod=mw_rss_bulletins",
-   "source": "MarketWatch",
-   "ago": "3시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
-   "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
-   "source": "CryptoSlate",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Crypto poured years into new products. The next challenge is keeping users",
-   "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-   "source": "CoinDesk",
-   "ago": "3시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Database expert runs Doom in SQL with just 5,900 lines of code",
-   "url": "https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql",
-   "source": "Tom's Hardware",
-   "ago": "3시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-   "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "ago": "4시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "US Army unit deploys drone assembled completely in-house, uses 3D-printed 'Dragoon Bombs' with ball bearing shrapnel",
-   "url": "https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions",
-   "source": "Tom's Hardware",
-   "ago": "4시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Explainer-Who are the Houthis, Iran’s allies in Yemen?",
-   "url": "https://www.investing.com/news/commodities-news/explainerwho-are-the-houthis-irans-allies-in-yemen-4930937",
-   "source": "Investing 원자재",
-   "ago": "4시간 전",
-   "group": "metal"
-  },
-  {
-   "tone": "모호",
-   "title": "콩콩 뛰다가 날아간다…이색 '점프 로봇' 등장",
-   "url": "https://www.etnews.com/20260930000444",
-   "source": "전자신문",
-   "ago": "4시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
-   "url": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers/",
-   "source": "CryptoSlate",
-   "ago": "4시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "AI robot company decommissioned its robots ‘Terminator-style’ in a 75-ton vat of molten steel",
-   "url": "https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal",
-   "source": "Tom's Hardware",
-   "ago": "4시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "“비트코인 15만달러 넘길 때까지 과열 아니다”",
-   "url": "https://www.blockmedia.co.kr/archives/1147595?utm_source=general&utm_medium=rss",
+   "title": "[속보] 닛케이225, 장초반 756.45점 급등",
+   "url": "https://www.blockmedia.co.kr/archives/1147658?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
-   "ago": "4시간 전",
+   "ago": "14분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
-   "source": "Tom's Hardware",
-   "ago": "4시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-   "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-   "source": "Decrypt",
-   "ago": "4시간 전",
+   "title": "XRP 연말 2달러 확률 하루 새 5%p 올라…예측시장 53%",
+   "url": "https://www.tokenpost.kr/news/insights/418243",
+   "source": "토큰포스트",
+   "ago": "17분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-   "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-   "source": "CoinDesk",
-   "ago": "4시간 전",
+   "title": "SEC, 투자자문사·펀드 가상자산 자체 수탁안 제안",
+   "url": "https://www.tokenpost.kr/news/policy/418242",
+   "source": "토큰포스트",
+   "ago": "18분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities",
-   "source": "Tom's Hardware",
-   "ago": "5시간 전",
-   "group": "semi"
+   "title": "예치금 100억달러 된 온체인 대출 금고…S&P, 7개 위험 평가",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/418241",
+   "source": "토큰포스트",
+   "ago": "18분 전",
+   "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "German utility provider introduces 'gaming electricity' plan targeting high-consumption households, like those running multiple high-end gaming PCs",
-   "url": "https://www.tomshardware.com/desktops/gaming-pcs/german-utility-provider-introduces-gaming-electricity-plan-targeting-high-consumption-households-like-those-running-multiple-high-end-gaming-pcs-plan-requires-2-500-kwh-per-year-to-offset-a-higher-base-price-claims-to-use-renewable-energy",
-   "source": "Tom's Hardware",
-   "ago": "5시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "세일러 “더 많은 오렌지” …스트래티지, 비트코인 추가 매입 시사",
-   "url": "https://www.blockmedia.co.kr/archives/1147592?utm_source=general&utm_medium=rss",
+   "title": "킬라, “비트코인 9만달러 돌파 가능, 4분기 고점 아니다…더 간다”",
+   "url": "https://www.blockmedia.co.kr/archives/1147654?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
-   "ago": "5시간 전",
+   "ago": "22분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-   "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "ago": "5시간 전",
+   "title": "[DEX 리포트] 하루 거래량 89억5000만 달러...급등 1위는 '기글 아카데미 마스코트'",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/418240",
+   "source": "토큰포스트",
+   "ago": "24분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "OPEC+ holds output targets steady as Middle East conflict tightens supply",
-   "url": "https://www.investing.com/news/commodities-news/opec-set-to-hold-november-oil-quotas-steady-as-middle-east-conflict-hits-output-4930914",
-   "source": "Investing 원자재",
-   "ago": "5시간 전",
+   "title": "OPEC+ agrees to keep oil output policy unchanged for November",
+   "url": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
+   "source": "FXStreet",
+   "ago": "25분 전",
    "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "Microsoft using wetlands and native gardens to 'camouflage' 20-plus data center sites by blending them into nature",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-is-using-wetlands-and-native-gardens-to-camouflage-20-plus-data-center-sites-by-blending-them-into-nature-critics-blast-the-biomimicry-effort-as-lipstick-on-a-pig-amid-a-20-year-gas-power-deal",
-   "source": "Tom's Hardware",
-   "ago": "5시간 전",
+   "title": "El Salvador’s $666 million Bitcoin reserve survives IMF review",
+   "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+   "source": "CryptoSlate",
+   "ago": "27분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "파파존스, 피자·콜라 주문 시 브라우니 무료 증정",
+   "url": "https://www.etnews.com/20261005000019",
+   "source": "전자신문",
+   "ago": "27분 전",
    "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "Binance will hold some Brazil crypto deposits until users explain where the money came from",
-   "url": "https://cryptoslate.com/binance-will-hold-some-brazil-crypto-deposits-until-users-explain-where-the-money-came-from/",
-   "source": "CryptoSlate",
-   "ago": "5시간 전",
+   "title": "하이퍼코퍼레이션 자회사 큐비스트, 서울대 의학박사 출신 CTO 영입…뷰티 디바이스 R&D 강화",
+   "url": "https://www.etnews.com/20261002000209",
+   "source": "전자신문",
+   "ago": "28분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "액셀러레이터 투자 양극화…상위 13%가 76% 차지, 19%는 투자 '0'",
+   "url": "https://www.etnews.com/20261005000018",
+   "source": "전자신문",
+   "ago": "29분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "롯데온, 앱 전용 '퍼스트앱더블데이'…할인·적립 혜택 강화",
+   "url": "https://www.etnews.com/20261005000016",
+   "source": "전자신문",
+   "ago": "30분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "토스인슈, 6개월 만에 작년 순이익 넘었다…성장세 가속",
+   "url": "https://www.etnews.com/20261005000015",
+   "source": "전자신문",
+   "ago": "30분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "OKX “AI 에이전트 시대, 거래소 기술구조 달라져야”",
+   "url": "https://www.etnews.com/20261005000013",
+   "source": "전자신문",
+   "ago": "32분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "폴리마켓 도난카드 1000만달러 인출 시도, 본지 보도와 중복",
+   "url": "https://www.tokenpost.kr/news/policy/418239",
+   "source": "토큰포스트",
+   "ago": "33분 전",
    "group": "crypto"
   },
   {
@@ -413,79 +165,327 @@
    "title": "OPEC+ agrees to keep November oil output targets steady",
    "url": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
    "source": "Investing 원자재",
-   "ago": "5시간 전",
+   "ago": "33분 전",
    "group": "metal"
   },
   {
    "tone": "모호",
-   "title": "'AI Torture Chamber' triggers massive backlash for putting chatbots in simulated pain",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-torture-chamber-triggers-massive-backlash-for-putting-chatbots-in-simulated-pain-critics-issue-death-threats-while-anthropomorphizing-text-predictors-demand-github-remove-the-repository-over-unethical-treatment",
-   "source": "Tom's Hardware",
+   "title": "알리 차트, “비트코인 일요일 랠리는 월요일 하락 경고…BTC·ETH·SOL 매도 신호”",
+   "url": "https://www.blockmedia.co.kr/archives/1147652?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "34분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "GIST, 겹친 중성자 신호에 새 해법 제시…'검출되지 않은 경우' 발생량 측정",
+   "url": "https://www.etnews.com/20261005000011",
+   "source": "전자신문",
+   "ago": "36분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "폴리마켓 CEO “성장 우선, 벌금은 나중에”…규제 무시 논란",
+   "url": "https://www.blockmedia.co.kr/archives/1147609?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "46분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "네비우스, Inferize 인수해 AI 추론 플랫폼 보강",
+   "url": "https://www.tokenpost.kr/news/ai/418237",
+   "source": "토큰포스트",
+   "ago": "46분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "엑스알피 1.66달러가 분수령…다음 목표 2.99달러",
+   "url": "https://www.blockmedia.co.kr/archives/1147644?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "55분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "트럼프 AI 총괄에 클레이턴 지명·OPEC+ 증산 동결",
+   "url": "https://www.tokenpost.kr/news/economy/418236",
+   "source": "토큰포스트",
+   "ago": "56분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "현대차 온체인 주식선물, 정규장 대비 1.48% 상승",
+   "url": "https://www.tokenpost.kr/news/insights/418235",
+   "source": "토큰포스트",
+   "ago": "57분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "지캐시 정책단체, 첫 로비스트 등록 및 보조금 승인",
+   "url": "https://www.tokenpost.kr/news/policy/418234",
+   "source": "토큰포스트",
+   "ago": "58분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인·이더리움 주간 1%대 상승…알트코인 혼조",
+   "url": "https://www.tokenpost.kr/news/briefing/418233",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "호주달러, 美 고용 둔화에 0.6950달러 돌파",
+   "url": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 10월 랠리의 최대 변수는 마운트곡스 물량?",
+   "url": "https://www.blockmedia.co.kr/archives/1147642?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "비트코인, 8만6000달러선 돌파",
+   "url": "https://www.blockmedia.co.kr/archives/1147640?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "경북도, 美 유타주·유타대와 AI·반도체 협약 체결",
+   "url": "https://www.etnews.com/20261005000006",
+   "source": "전자신문",
+   "ago": "1시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "美 하원 세입위, 디지털자산 세금 법안 가결",
+   "url": "https://www.tokenpost.kr/news/policy/418232",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "브랜트 \"비트코인 2029년 최대 60만달러 가능\"",
+   "url": "https://www.tokenpost.kr/news/briefing/418231",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "리플렉션 AI, 오픈 웨이트 모델 출시 준비",
+   "url": "https://www.tokenpost.kr/news/ai/418230",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 10월 상승세, 연준·금리 허들 넘어야",
+   "url": "https://www.blockmedia.co.kr/archives/1147612?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "이란 \"호르무즈 해협이 미국과의 종전 협상 핵심\"",
+   "url": "https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238",
+   "source": "FXStreet",
+   "ago": "1시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "전 SEC 위원장 AI 수장 지명·BTC 60만달러 전망",
+   "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "비트코인 ETF로 글로벌 자금 지속 유입",
+   "url": "https://www.blockmedia.co.kr/archives/1147610?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "후티 반군의 아람코 공격 여파로 국제유가 상승",
+   "url": "https://www.investing.com/news/commodities-news/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-4930963",
+   "source": "Investing 원자재",
+   "ago": "2시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 9만달러 청산 집중…숏스퀴즈 급등 가능성",
+   "url": "https://www.blockmedia.co.kr/archives/1147611?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "이더리움 과거 거래소 유출 데이터 수정 가능성",
+   "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
+   "source": "CryptoSlate",
+   "ago": "2시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "한국, 국제표준화기구 이사국 연임 성공",
+   "url": "https://www.etnews.com/20261004000029",
+   "source": "전자신문",
+   "ago": "3시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 8만5000달러 회복 후 ETF 매수세 주시",
+   "url": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
+   "source": "CryptoSlate",
+   "ago": "3시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Leftist and nationalists lead in election for Bosnia’s tripartite presidency",
+   "url": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
+   "source": "Investing 원자재",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+   "url": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
+   "source": "Investing 원자재",
+   "ago": "4시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Bitcoin Core’s new fix closes gap that could redirect funds without stealing keys",
+   "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+   "source": "CryptoSlate",
+   "ago": "4시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "수원 정조대왕 능행차, 로봇 공연·시민 퍼레이드 이어 왕실 행렬",
+   "url": "https://www.etnews.com/20261005000003",
+   "source": "전자신문",
    "ago": "5시간 전",
    "group": "semi"
   },
   {
    "tone": "모호",
-   "title": "Google Japan shows off wild conveyor-belt keyboard with keys that move to your fingers",
-   "url": "https://www.tomshardware.com/peripherals/keyboards/google-japan-shows-off-wild-conveyor-belt-keyboard-with-keys-that-move-to-your-fingers-3d-printable-gboard-features-four-belts-with-29-keys-each-built-to-make-one-hand-typing-easier",
-   "source": "Tom's Hardware",
-   "ago": "6시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "US Navy uses Xbox-style controllers to fire anti-drone lasers deployed on ships",
-   "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/us-navy-uses-xbox-style-controllers-to-fire-anti-drone-lasers-deployed-on-ships-usd13-per-shot-laser-weapon-deployed-in-the-strait-of-hormuz-uses-a-familiar-interface-instead-of-a-custom-control-system",
-   "source": "Tom's Hardware",
-   "ago": "6시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "“비트코인 장기 보유자, 이번 주기 내내 수익…2015년 이후 처음”",
-   "url": "https://www.blockmedia.co.kr/archives/1147584?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "6시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
-   "source": "Tom's Hardware",
-   "ago": "7시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "Portable Bluetooth CD player has a glow-in-the-dark transparent green finish, modern features",
-   "url": "https://www.tomshardware.com/peripherals/portable-bluetooth-cd-player-has-a-glow-in-the-dark-transparent-green-finish-modern-features-new-limited-edition-has-usb-c-bluetooth-5-3-rechargeable-li-ion-and-wont-get-lost-in-your-dimly-lit-den",
-   "source": "Tom's Hardware",
-   "ago": "7시간 전",
-   "group": "semi"
-  },
-  {
-   "tone": "모호",
-   "title": "머스크 “스페이스X는 슈퍼인텔리전스 기업” …AI 대신 SI, 트럼프 제안 따를 듯",
-   "url": "https://www.blockmedia.co.kr/archives/1147578?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "7시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "[코인 크라임] 비극의 시작은 ‘코인’ …강남 40대 여성 납치 사건",
-   "url": "https://www.blockmedia.co.kr/archives/1147121?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "8시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-   "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
+   "ago": "5시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
+   "url": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
+   "source": "CryptoSlate",
+   "ago": "5시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "There's an election next month: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+   "source": "CoinDesk",
+   "ago": "5시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "India’s local crypto exchanges get just 0.7% of inflows, Chainalysis reports",
+   "url": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+   "source": "CryptoSlate",
+   "ago": "6시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Merz unveils fresh military aid in Kyiv, says Germany won’t be intimidated",
+   "url": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
+   "source": "Investing 원자재",
+   "ago": "6시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "모호",
+   "title": "Drift hack recovery opened near one cent per dollar lost",
+   "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/",
+   "source": "CryptoSlate",
+   "ago": "7시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+   "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+   "source": "Decrypt",
+   "ago": "7시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Vitalik-inspired AI payment system can send expired deposits to its treasury",
+   "url": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
+   "source": "CryptoSlate",
    "ago": "8시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+   "source": "Decrypt",
+   "ago": "8시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "Lido’s proposed staking route needs over 13 times the default entry bond",
+   "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+   "source": "CryptoSlate",
+   "ago": "9시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+   "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+   "source": "Decrypt",
+   "ago": "9시간 전",
    "group": "crypto"
   }
  ],
@@ -493,31 +493,33 @@
   {
    "key": "semi",
    "title": "반도체 · 산업",
-   "date": "2026-10-05 03:02",
+   "date": "2026-10-05 09:33",
    "sections": [
     {
-     "h": "사이버 보안 및 정책 대응",
+     "h": "반도체 및 컴퓨팅 인프라",
      "items": [
-      "과기정통부·금융당국, 연쇄 해킹 대응 총력 가동",
-      "미국, 34억 달러 규모 이란 해킹범 송환 성공"
+      "경북도-美 유타주, AI·반도체 분야 글로벌 협력 협약 체결",
+      "MS, 20여 개 데이터센터 대상 친환경 조경 위장 설계 도입",
+      "엔비디아 차세대 RTX 5090 전원 커넥터 발열 대응 개조 등장"
      ]
     },
     {
-     "h": "AI 자율제조 및 로보틱스 동향",
+     "h": "AI 서비스 및 자율제조 확산",
      "items": [
-      "제조 현장 내 AI 자율제조 및 불량 검사 도입 확대",
-      "점프 로봇 등 다양한 특화형 로봇 기술 진화"
+      "통신·플랫폼 3사, 모바일 연계 AI 에이전트 경쟁 본격화",
+      "제조 현장, 불량 감지·설비 제어 등 AI 자율제조 도입 확산",
+      "가상자산 거래소, AI 에이전트 대응 시스템 개편 필요성 제기"
      ]
     },
     {
-     "h": "테크 인프라 및 국방 기술",
+     "h": "첨단 방산 및 피지컬 AI 동향",
      "items": [
-      "마이크로소프트, 데이터센터 친환경 위장 설계 적용",
-      "미군, 3D 프린터 활용 드론 등 첨단 기술 실전 배치"
+      "미 군 당국, 3D 드론 및 게임패드 연동 레이저 무기 배치",
+      "美 캘리포니아, 스타트업의 인간 대 로봇 격투 시합 중지 명령"
      ]
     }
    ],
-   "oneLine": "사이버 보안 강화 기조 속에서 제조 AI와 차세대 로보틱스 등 첨단 기술의 산업 현장 적용이 가속화되고 있음.",
+   "oneLine": "AI 기술이 모바일 서비스와 제조 현장 전반으로 확산되는 가운데, 반도체 글로벌 협력과 데이터센터 등 핵심 인프라 대응이 본격화되는 추세임.",
    "sources": [
     "Tom's Hardware",
     "더일렉",
