@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 21:43:10 KST",
+ "updated": "2026-10-18 01:51:58 KST",
  "channels": [
   {
    "name": "Tree News",
@@ -29,12 +29,68 @@
  ],
  "items": [
   {
+   "text": "Stampede-like incident at Durga Puja pandal in North Kolkata in India leaves 17 dead and several injured: NDTV|FJ",
+   "dt": "2026-10-17T16:38:57+00:00",
+   "url": "https://t.me/FinancialJuice/141004",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "13분 전"
+  },
+  {
+   "text": "French PM Lecornu: no one can enforce political agenda through violence|FJ",
+   "dt": "2026-10-17T16:05:56+00:00",
+   "url": "https://t.me/FinancialJuice/141003",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "46분 전"
+  },
+  {
+   "text": "One member of Popular Mobilization Forces killed, four wounded in blast at headquarters: security and medical sources|FJ",
+   "dt": "2026-10-17T15:42:56+00:00",
+   "url": "https://t.me/FinancialJuice/141002",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "UKMTO reports incident 140nm southeast of Al Mukalla, Yemen\n\nUKMTO: lng tanker reports approach by small skiff with seven onboard\n\nUKMTO: Skiff fired two shots at tanker, armed security team fired two warning shots forcing small craft to change course|FJ",
+   "dt": "2026-10-17T15:37:17+00:00",
+   "url": "https://t.me/FinancialJuice/141001",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "BIS: Stablecoins and Bank Deposits Act as Substitutes as Deposit Hikes Slow Stablecoin Growth\n\nBIS (Bank for International Settlements) working paper finds that stablecoins and bank deposits act as direct portfolio substitutes. Analyzing U.S. data, the authors show that a 1-basis-point hike in bank deposit rates cuts 10-week stablecoin market cap growth by roughly 3 percentage points (and up to ~9 percentage points under an IV approach). The substitution effect is significantly stronger for onshore-tied USDC (-4.8%) than offshore-centric USDT (-1.9%) and holds across bank CD rates and DeFi len",
+   "dt": "2026-10-17T15:37:05+00:00",
+   "url": "https://t.me/wublockchainenglish/26459",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Bank of England: Governor Bailey among delegates who walked out of IMF meeting in protest at Russian delegate|FJ",
+   "dt": "2026-10-17T15:34:59+00:00",
+   "url": "https://t.me/FinancialJuice/141000",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "On-Chain Data Shows Increasing Number of Hackers Moving Stolen Funds to Zcash for Laundering\n\nOn-chain analyst Specter noted that following ZachXBT's disclosure regarding the Bitget exploiter shielding stolen assets via Zcash (ZEC), multiple other threat actors have begun channeling stolen proceeds into ZEC. These flows include illicit funds traced from the Cryptobills Ledger security incident and the $12 million Triple-A exploit, signaling that attackers are actively leveraging Zcash's privacy features for money laundering and obfuscation. — link",
+   "dt": "2026-10-17T13:24:30+00:00",
+   "url": "https://t.me/wublockchainenglish/26458",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "3시간 전"
+  },
+  {
    "text": "[코어위브, AI 위기 도화선 ③] 2008년 금융위기에서 배울 것\n\n신용부도 위험에 대한 베팅이 금융시장에 공포를 불러일으키는 이유는 2008년 글로벌 금융위기의 예를 보면 잘 알 수 있다. 당시 미국 금융기관들은 신용도가…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152856?utm_source=telegram&utm_medium=social",
    "dt": "2026-10-17T10:54:20+00:00",
    "url": "https://t.me/blockmedia/116211",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1시간 전"
+   "ago": "5시간 전"
   },
   {
    "text": "[코어위브, AI 위기 도화선 ②] CDS 시한폭탄? AI 부채의 숨겨진 위험\n\n인공지능(AI) 인프라 기업 코어위브의 신용부도스와프(CDS) 프리미엄이 사상 최고 수준으로 치솟으면서 2008년 글로벌 금융위기의 기억을 되살리고 있다. 당시에는 부동산 대출을 기초로 만들어진…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152851?utm_source=telegram&utm_medium=social",
@@ -42,7 +98,7 @@
    "url": "https://t.me/blockmedia/116210",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1시간 전"
+   "ago": "6시간 전"
   },
   {
    "text": "[코어위브, AI 위기 도화선 ①] 주식 살 때 vs 버블 붕괴 전조⋯ 젠슨 황 낙관론 믿어도 될까?\n\n인공지능(AI) 인프라 기업 코어위브(CoreWeave)가 AI 투자 열풍의 수혜주에서 금융시장 불안의 진원지로 떠올랐다. 주가가 일주일 만에 25% 급락하자 월가에서는 저가 매수 기회라는…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152808?utm_source=telegram&utm_medium=social",
@@ -50,7 +106,7 @@
    "url": "https://t.me/blockmedia/116209",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "2시간 전"
+   "ago": "6시간 전"
   },
   {
    "text": "[코생지] 비트코인보다 부진한 알트장…폴카닷 선방 속 솔라나·주피터 급락\n\n코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다. 온체인 활동과 시장 참여, 소셜 신호를 종합한 코인 생명력 지표(Coin…\n\n#BTC #CC #DOGE #DOT #ETH #JUP #PEPE #SHIB #SOL #TRUMP #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152362?utm_source=telegram&utm_medium=social",
@@ -58,7 +114,7 @@
    "url": "https://t.me/blockmedia/116208",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "3시간 전"
+   "ago": "7시간 전"
   },
   {
    "text": "Bitget's English Terms of Use, Marked as Updated Oct. 16, List Russia, Belarus and Kazakhstan Among Prohibited Jurisdictions\n\nAccording to The Defiant, Bitget will discontinue services for certain users, with account-specific deadlines and withdrawal instructions sent directly to those affected. The exchange described it as a one-off exercise, said user funds remain safe, and noted that users who receive no notification can continue using their accounts under its terms. Its official support account also cited the prohibited-jurisdiction list when responding to restrictions on Russian users. On",
@@ -66,7 +122,7 @@
    "url": "https://t.me/wublockchainenglish/26457",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "4시간 전"
+   "ago": "8시간 전"
   },
   {
    "text": "[주간파생] 롱 6.6억달러 증발했는데 OI는 그대로…비트코인 80K ‘2차 청산’ 경고\n\n비트코인이 8만달러 아래로 급락하며 대규모 롱 포지션을 청산했지만 파생시장에 쌓인 레버리지는 거의 줄지 않은 것으로 나타났다. 가격은 8만2000달러 부근을 회복했지만 현물…\n\n#BTC #비트코인\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152327?utm_source=telegram&utm_medium=social",
@@ -74,7 +130,7 @@
    "url": "https://t.me/blockmedia/116207",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "6시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "Spot Bitcoin ETFs Recorded $82.39 Million in Net Outflows, While Spot Ethereum ETFs Saw $69.68 Million in Net Outflows on October 16 (ET)\n\nOn October 16 (ET), spot Bitcoin ETFs recorded total net outflows of $82.39 million, led by BlackRock's IBIT with $71.78 million in net outflows. Spot Ethereum ETFs recorded total net outflows of $69.68 million, marking their third consecutive day of net outflows, with all of the day's net outflows coming from BlackRock's ETHA. — link",
@@ -82,7 +138,7 @@
    "url": "https://t.me/wublockchainenglish/26456",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "8시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "Highlight Clip: Star Xu: Bitcoin Nearly Died Several Times, but Crypto Emerged Stronger\n\nStar Xu: Bitcoin Nearly Died Several Times, but Crypto Emerged Stronger\n\nIn an interview on the New Era Finance Podcast, OKX founder and CEO Star Xu recalled Bitcoin's early forks and hash power attacks, the collapse of Mt. Gox, disagreements over scaling, and the later FTX incident. He said Bitcoin had nearly \"died\" several times and that resolving industry crises could take months or even a year. In his view, once those problems are resolved, the industry becomes better, bigger, and stronger than before.",
@@ -90,7 +146,7 @@
    "url": "https://t.me/wublockchainenglish/26455",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "8시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "미 법원, 제미니 제재 취소 거부…500만달러 벌금 유지\n\n미국 법원이 디지털자산 거래소 제미니(Gemini)와 미국 상품선물거래위원회(CFTC)가 공동으로 요청한 합의 명령 취소 신청을 기각했다.\n\nCFTC가 과거 소송 제기가 부적절했다고 입장을 바꿨지만,…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152870?utm_source=telegram&utm_medium=social",
@@ -98,7 +154,7 @@
    "url": "https://t.me/blockmedia/116206",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "8시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "써클, 솔라나에 2억5000만 USDC 신규 발행\n\n써클이 솔라나 블록체인 네트워크에 2억5000만 USDC를 신규 발행한 가운데, 이번 발행으로 솔라나 생태계의 스테이블코인 유동성이 확대될 가능성이 제기된다.\n\n다만 신규 발행…\n\n#SOL #솔라나\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152858?utm_source=telegram&utm_medium=social",
@@ -106,7 +162,7 @@
    "url": "https://t.me/blockmedia/116205",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "9시간 전"
+   "ago": "13시간 전"
   },
   {
    "text": "‘절차위반’ 주식 상폐 막은 법원…코인에도 적용? “기본법 나오기 전까진 남의 얘기”\n\n시가총액 미달을 이유로 내린 한국거래소의 상장폐지 결정에 법원이 제동을 걸면서 이번 판단이 디지털자산 거래지원 종료 분쟁에도 영향을 미칠 수 있을지가 새로운…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152495?utm_source=telegram&utm_medium=social",
@@ -114,7 +170,7 @@
    "url": "https://t.me/blockmedia/116204",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "9시간 전"
+   "ago": "13시간 전"
   },
   {
    "text": "솔라나 앱 수익 30일간 1억9300만달러…RWA 6배 급증\n\n솔라나(Solana·SOL) 생태계가 디지털자산(가상자산) 업계에서 가장 많은 수익을 내는 애플리케이션 생태계로 자리 잡았다. 밈코인 열풍으로 성장한 수익 구조가 점차 다변화하고 있다는 분석도…\n\n#SOL #솔라나 #펌프펀\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152850?utm_source=telegram&utm_medium=social",
@@ -122,7 +178,7 @@
    "url": "https://t.me/blockmedia/116203",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "9시간 전"
+   "ago": "13시간 전"
   },
   {
    "text": "피델리티 “비트코인과 실질금리 상관관계 0.6 넘어”\n\n피델리티 디지털 자산(Fidelity Digital Assets)의 최신 분석에 따르면 비트코인(Bitcoin)과 미국 10년물 국채 실질 수익률 간의 상관관계가 역대 최고 수준인 0.6을 넘어섰다.…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152839?utm_source=telegram&utm_medium=social",
@@ -130,7 +186,7 @@
    "url": "https://t.me/blockmedia/116202",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "10시간 전"
+   "ago": "14시간 전"
   },
   {
    "text": "박세용 포모 공동창업자 “모든 자산을 하나의 앱에서 거래하는 시대 온다”\n\n“우리가 만들고 싶은 것은 단순한 거래 앱이 아닙니다. 사람들이 서로의 투자 판단을 확인하고 정보를 공유하며 모든 자산을 거래할 수 있는 금융…\n\n#fomo\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1151843?utm_source=telegram&utm_medium=social",
@@ -138,7 +194,7 @@
    "url": "https://t.me/blockmedia/116201",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "10시간 전"
+   "ago": "14시간 전"
   },
   {
    "text": "전통 금융 77개 시장 온체인으로…딥시그마 플랫폼 공개\n\n월가와 빅테크 출신 인력이 참여한 딥시그마(DeepSigma)가 전통 금융시장 77개를 대상으로 한 탈중앙화 무기한 선물 모의거래 플랫폼을 공개했다.\n\n딥시그마는 골드만삭스(Goldman Sachs), 시타델증권(Citadel…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1152835?utm_source=telegram&utm_medium=social",
@@ -146,7 +202,7 @@
    "url": "https://t.me/blockmedia/116200",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "10시간 전"
+   "ago": "14시간 전"
   },
   {
    "text": "Indian police detain 'cockroach' movement founder Abhijeet Dipke: Indian media|FJ",
@@ -154,7 +210,7 @@
    "url": "https://t.me/FinancialJuice/140999",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "11시간 전"
+   "ago": "15시간 전"
   },
   {
    "text": "Highlight Clip: a16z Crypto Partner: Finance Remains Blockchain's Clearest Near-Term Application Opportunity\n\na16z Crypto Partner: Finance Remains Blockchain's Clearest Near-Term Application Opportunity\n\na16z Crypto General Partner Guy Wuollet said in an October 6 interview on the official a16z crypto channel that blockchain's clearest near-term opportunities remain in finance, particularly stablecoins and perpetuals. a16z is also focused on payments, lending, credit, exchanges, prediction markets, derivatives, crypto-AI, and wealth management. Wuollet said stablecoin demand is driven by payme",
@@ -162,7 +218,7 @@
    "url": "https://t.me/wublockchainenglish/26454",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "11시간 전"
+   "ago": "15시간 전"
   },
   {
    "text": "Blackstone funds to invest $9 billion in|FJ",
@@ -170,7 +226,7 @@
    "url": "https://t.me/FinancialJuice/140997",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "11시간 전"
+   "ago": "16시간 전"
   },
   {
    "text": "backed by five-year lease payments from Anthropic for the chips - FT|FJ",
@@ -178,7 +234,7 @@
    "url": "https://t.me/FinancialJuice/140998",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "11시간 전"
+   "ago": "16시간 전"
   },
   {
    "text": "Trump: submitted to Congress certification that waiver issuance serves US national interests - order released by White House|FJ",
@@ -186,7 +242,7 @@
    "url": "https://t.me/FinancialJuice/140996",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "12시간 전"
+   "ago": "16시간 전"
   },
   {
    "text": "Trump: waives application of certain sanctions, restrictions, and duties in executive order|FJ",
@@ -194,7 +250,7 @@
    "url": "https://t.me/FinancialJuice/140995",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "12시간 전"
+   "ago": "16시간 전"
   },
   {
    "text": "Saudi-led coalition: destroys two ballistic missile launchers in Yemen's Saada|FJ",
@@ -202,7 +258,7 @@
    "url": "https://t.me/FinancialJuice/140994",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "12시간 전"
+   "ago": "17시간 전"
   },
   {
    "text": "Anthropic’s Claude Mythos 5 Cuts Quantum Circuit Gate Count for Elliptic-Curve Operations by 17x\n\nOn October 16, Anthropic published research showing that Claude Mythos 5, assisted by an automated evaluation system, optimized eight quantum circuit design tasks spanning quantum chemistry, optimization, physics simulation, and number theory, producing new designs that outperform previously published methods. Claude developed a reversible modular inversion algorithm that eliminates the need to store branch history. One elliptic-curve point addition circuit uses approximately 17 times fewer quantu",
@@ -210,7 +266,7 @@
    "url": "https://t.me/wublockchainenglish/26453",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "12시간 전"
+   "ago": "17시간 전"
   },
   {
    "text": "Former Mt. Gox CEO: Ledger Received Hardware Wallet Tampering Reports Since December 2025 but Issued No Public Warning\n\nFormer Mt. Gox CEO Mark Karpelès said Ledger had received reports of hardware wallets tampered with and fitted with malicious components since at least December 2025, but he had seen no subsequent public warning. Security researcher Joe Grand said he reported a compromised Nano X purchased through Lazada in Thailand on March 4, 2026, which Ledger acknowledged and said it was investigating internally. A security incident disclosed on October 9 involved devices sold by authoriz",
@@ -218,7 +274,7 @@
    "url": "https://t.me/wublockchainenglish/26452",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "13시간 전"
+   "ago": "17시간 전"
   },
   {
    "text": "Saudi civil defense: danger has passed in Khamis Mushait and Abha|FJ",
@@ -226,47 +282,7 @@
    "url": "https://t.me/FinancialJuice/140993",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "13시간 전"
-  },
-  {
-   "text": "Saudi civil defense issues warning on possible threat in Khamis Mushait and Abha|FJ",
-   "dt": "2026-10-16T22:49:05+00:00",
-   "url": "https://t.me/FinancialJuice/140992",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "13시간 전"
-  },
-  {
-   "text": "USDOT confirms it withdrew 2025 order barring new flights by Mexican airlines between Mexico City and Santa Lucia airports|FJ",
-   "dt": "2026-10-16T22:44:21+00:00",
-   "url": "https://t.me/FinancialJuice/140991",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "13시간 전"
-  },
-  {
-   "text": "Anthropic quietly proposes its own AI safety bill to lawmakers - Politico|FJ",
-   "dt": "2026-10-16T21:56:23+00:00",
-   "url": "https://t.me/FinancialJuice/140990",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "14시간 전"
-  },
-  {
-   "text": "UK foreign office: now advises only essential travel to Saudi Arabia|FJ",
-   "dt": "2026-10-16T21:47:24+00:00",
-   "url": "https://t.me/FinancialJuice/140989",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "14시간 전"
-  },
-  {
-   "text": "North Korea: AI tech used for target detection and guidance in new high-speed precision torpedo - KCNA|FJ",
-   "dt": "2026-10-16T21:15:46+00:00",
-   "url": "https://t.me/FinancialJuice/140988",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "15시간 전"
+   "ago": "17시간 전"
   },
   {
    "text": "Cobo Wallet, One of the Early Crypto Wallet Apps Launched by F2Pool Co-Founder, to Shut Down\n\nDigital asset custody provider Cobo announced that its Cobo Wallet App will shut down on December 1 as part of a strategic business adjustment. Users must withdraw all assets by November 30 at 11:59 PM (UTC+8). Any remaining assets will incur a monthly management fee of 2%, with a minimum charge of $100. Accounts holding less than $100 will have their entire remaining balance deducted. The first fee will be charged on January 1, 2027, and fees will continue until all assets are withdrawn or depleted. ",
@@ -274,7 +290,7 @@
    "url": "https://t.me/wublockchainenglish/26451",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "21시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "WuBlockchain Weekly: Ledger Hardware Wallets Hit by Tampering Attack, Solana Prepares Major Upgrade, US CPI Tops Expectations\n\nLedger confirmed a hardware tampering attack involving a Southeast Asian reseller, Solana scheduled its Alpenglow mainnet upgrade targeting 150ms finality, and US inflation rose to 3.7%, above expectations. This week also saw a UK court ruling involving 61,000 BTC, new crypto regulations in Australia, and BitMine's ETH holdings nearing 5% of total supply. For the complete weekly roundup, subscribe to our Substack. — link",
@@ -282,7 +298,7 @@
    "url": "https://t.me/wublockchainenglish/26450",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "22시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Circle Reports $1.4 Billion in H1 2026 Revenue, With 59% Going to USDC Partners and Transaction Costs\n\nCircle disclosed that it generated approximately $1.4 billion in revenue in the first half of 2026, of which $819 million (59%) went to USDC distribution partners and transaction costs. Another $473 million (34%) was spent on licensing, banking relationships, settlement liquidity, compliance, and product development, leaving approximately 7% as net profit.\n\nCircle also stated that customers using the Circle Payments Network (CPN) and eligible Circle Platform customers can now access free, nea",
@@ -290,28 +306,12 @@
    "url": "https://t.me/wublockchainenglish/26449",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "23시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Vitalik Buterin Unveils Privacy-Focused AI Agent Setup Combining zkAPI, Tor, and Local LLMs\n\nEthereum co-founder Vitalik Buterin showcased his personal privacy-focused AI agent setup, integrating zkAPI, Tor, random cover traffic, and local LLM prompt rewriting into the pi agent harness. The system assigns each conversation a separate Tor circuit, uses zkAPI to protect payment privacy, and rewrites prompts locally with a Qwen model. Vitalik said the setup is becoming usable but still suffers from significant latency, especially when starting new conversations, while Tor remains vulnerable to ti",
    "dt": "2026-10-16T12:20:19+00:00",
    "url": "https://t.me/wublockchainenglish/26448",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "1일 전"
-  },
-  {
-   "text": "Deutsche Bank Plans Crypto Custody Launch Within Weeks, Eyes Asia Expansion in 2027\n\nAccording to Reuters, Deutsche Bank, Germany's largest bank, plans to launch cryptocurrency custody services within weeks and expand into Asian financial hubs in 2027. Gerald Podobnik, co-head of its corporate bank, said the service will initially support major cryptocurrencies such as BTC and ETH, with plans to add fiat-to-stablecoin conversion services. The bank also intends to offer tokenized deposits and help clients issue blockchain-based securities, including digital bonds, as part of its broader corpora",
-   "dt": "2026-10-16T11:24:22+00:00",
-   "url": "https://t.me/wublockchainenglish/26447",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "1일 전"
-  },
-  {
-   "text": "CoinShares: Hot CPI Drives $434M Digital Asset Fund Outflows\n\nCoinShares said U.S. September CPI rose 3.7% year-on-year, above the 3.6% forecast, while retail sales increased 0.8% versus 0.3% expected. The stronger data pushed rate expectations more hawkish, with global digital asset investment products seeing $434 million in outflows so far this week. CoinShares said Bitcoin’s near-term setup remains difficult rather than fundamentally bearish. — link",
-   "dt": "2026-10-16T10:32:13+00:00",
-   "url": "https://t.me/wublockchainenglish/26445",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
    "ago": "1일 전"
@@ -346,7 +346,7 @@
    "url": "https://t.me/BWEnews/16544",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "AggrNews: HELIUS CEO MERT JOINS NEAR FOUNDATION COUNCIL: THE BLOCK\n\nAggrNews: HELIUS 首席执行官 MERT 加入 NEAR 基金会理事会：THE BLOCK\n\nNEAR  MarketCap: 6B\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-10-15 21:00:50",
@@ -354,7 +354,7 @@
    "url": "https://t.me/BWEnews/16543",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "UPBIT LISTING: 퍼퍼(PUFFER) KRW 마켓 디지털 자산 추가\n\nUpbit 上新: PUFFER上线KRW交易对\n\nPUFFER  MarketCap: 14.6M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-10-15 12:40:02",
@@ -378,7 +378,7 @@
    "url": "https://t.me/BWEnews/16539",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "Tree News: U.S. CPI: +3.7% YEAR-OVER-YEAR (EST. +3.6%)\nU.S. CORE CPI: +2.6% YEAR-OVER-YEAR (EST. +2.5%)\n\nTree News: 美国 3.7% 同比增长 (预期 +3.6%) 美国核心消费物价指数：同比增长 +2.6% (预期 +2.5%)\n\n————————————\n2026-10-14 20:30:05",
@@ -474,7 +474,7 @@
    "url": "https://t.me/TreeNewsFeed/8170",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "65일 전"
+   "ago": "66일 전"
   },
   {
    "text": "U.S. CPI: +3.4% YEAR-OVER-YEAR (EST. +3.4%)\nU.S. CORE CPI: +2.5% YEAR-OVER-YEAR (EST. +2.5%)",
