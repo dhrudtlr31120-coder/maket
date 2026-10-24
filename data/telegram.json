@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 16:54:35 KST",
+ "updated": "2026-10-24 22:07:52 KST",
  "channels": [
   {
    "name": "Tree News",
@@ -29,12 +29,140 @@
  ],
  "items": [
   {
-   "text": "Ukraine's Starlink connection renewed at 400 km/h: defence minister says|FJ",
-   "dt": "2026-10-24T07:49:52+00:00",
-   "url": "https://t.me/FinancialJuice/142469",
+   "text": "Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV|FJ",
+   "dt": "2026-10-24T12:44:49+00:00",
+   "url": "https://t.me/FinancialJuice/142490",
    "source": "FinancialJuice",
    "note": "거시 지표 속보",
-   "ago": "4분 전"
+   "ago": "23분 전"
+  },
+  {
+   "text": "Zelenskiy: starlink restrictions completely removed|FJ",
+   "dt": "2026-10-24T12:43:29+00:00",
+   "url": "https://t.me/FinancialJuice/142489",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "24분 전"
+  },
+  {
+   "text": "Tether's Bitcoin Mining Development Kit Gains Backing from 15 Mining Companies to Accelerate Automated Mining\n\nTether announced that its open-source Mining Development Kit (MDK) has secured joint support and integration commitments from 15 leading mining companies, ASIC manufacturers, and mining pools, including Bitmain, Bitdeer, Canaan, MicroBT, Foundry Digital, F2Pool, Luxor, and Block's Proto. By establishing a unified open interface, the kit breaks down barriers between disparate hardware and mining pools, aiming to accelerate AI- and software-driven cross-platform automated dispatch and a",
+   "dt": "2026-10-24T12:20:04+00:00",
+   "url": "https://t.me/wublockchainenglish/26540",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "47분 전"
+  },
+  {
+   "text": "Trump: May relocate White House press corps to new site|FJ",
+   "dt": "2026-10-24T12:11:01+00:00",
+   "url": "https://t.me/FinancialJuice/142488",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "56분 전"
+  },
+  {
+   "text": "Swell Pauses swETH and rswETH Deposits and Withdrawals Amid Abnormally High Contract Exchange Rates\n\nAccording to Unchained, Ethereum staking protocol Swell has paused deposits and withdrawals for swETH and rswETH until it corrects the net asset values (NAV) and exchange rates of both tokens. Data shows that the swETH and rswETH contracts reported exchange rates of approximately 1.203 ETH and 1.138 ETH, respectively, about 6% and 5% higher than normal levels.\n\nOn-chain analyst Spreek suspected a compromise of the relevant token admin keys and identified a malicious upgrade contract that could ",
+   "dt": "2026-10-24T11:33:45+00:00",
+   "url": "https://t.me/wublockchainenglish/26539",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Weekly Project Updates: Dogecoin Labs Launches for Payments, OpenSea App Goes Public, Starknet Votes for Independent L1 Transition, etc\n\nDogecoin Labs has been officially established with backing from the Dogecoin Foundation. Jordan Jefferson, founder of DogeOS, serves as CEO. Read more: — link",
+   "dt": "2026-10-24T11:32:58+00:00",
+   "url": "https://t.me/wublockchainenglish/26538",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "킬라 “비트코인 상승 추세 여전히 강하다” …2023년 강세장 재현 주장\n\n비트코인(BTC)이 2023년 강세장과 유사한 가격 흐름을 보이고 있다는 분석이 나왔다. 과거 박스권 돌파 이후 이전 고점을 지지선으로 전환했던 패턴이 반복될 경우…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155765?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-24T11:19:49+00:00",
+   "url": "https://t.me/blockmedia/116582",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "kim jong un tours dandong car plant during china visit: chinese state media|FJ",
+   "dt": "2026-10-24T11:08:25+00:00",
+   "url": "https://t.me/FinancialJuice/142487",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media|FJ",
+   "dt": "2026-10-24T11:08:07+00:00",
+   "url": "https://t.me/FinancialJuice/142486",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media|FJ",
+   "dt": "2026-10-24T11:07:56+00:00",
+   "url": "https://t.me/FinancialJuice/142485",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media|FJ",
+   "dt": "2026-10-24T11:07:52+00:00",
+   "url": "https://t.me/FinancialJuice/142484",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ|FJ",
+   "dt": "2026-10-24T11:05:11+00:00",
+   "url": "https://t.me/FinancialJuice/142483",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "China’s top political advisor Wang Huning met North Korea’s Kim Jong Un in Dandong, Chinese state media|FJ",
+   "dt": "2026-10-24T11:04:47+00:00",
+   "url": "https://t.me/FinancialJuice/142482",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "German Chancellor Merz: politicians backing far-right AfD have no place in our party|FJ",
+   "dt": "2026-10-24T10:43:40+00:00",
+   "url": "https://t.me/FinancialJuice/142481",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "German chancellor Merz: Russia poses a huge threat to our freedom, seeks to destabilise Germany|FJ",
+   "dt": "2026-10-24T10:10:28+00:00",
+   "url": "https://t.me/FinancialJuice/142480",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "2시간 전"
+  },
+  {
+   "text": "[코생지] 기술주·중동 불안에 흔들린 가상자산⋯하락 방어력 돋보인 BNB\n\n코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다. 온체인 활동과 시장 참여, 소셜 신호를 종합한 코인 생명력 지표(Coin…\n\n#BTC #CC #DOGE #DOT #ETH #PEPE #SHIB #SOL #TRUMP #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155294?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-24T09:29:46+00:00",
+   "url": "https://t.me/blockmedia/116581",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "Danger has passed in Taif: Saudi civil defense|FJ",
+   "dt": "2026-10-24T09:03:17+00:00",
+   "url": "https://t.me/FinancialJuice/142479",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "4시간 전"
   },
   {
    "text": "[속보] 비트코인 ETF 대규모 자금 유출 가능성\n\n미국 비트코인 현물 상장지수펀드(ETF)에서 이틀 연속 큰 폭의 자금 유출이 있었다. 24일 온체인 데이터 분석 기업 온체인렌즈에 따르면 지난 10월 22일…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155755?utm_source=telegram&utm_medium=social",
@@ -42,39 +170,7 @@
    "url": "https://t.me/blockmedia/116580",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "19분 전"
-  },
-  {
-   "text": "North Korea's Kim Jong Un likely to return home after China visit on Saturday: Yonhap|FJ",
-   "dt": "2026-10-24T07:34:25+00:00",
-   "url": "https://t.me/FinancialJuice/142468",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "20분 전"
-  },
-  {
-   "text": "Industrial sites damaged in attack on Russia's Togliatti: IFX|FJ",
-   "dt": "2026-10-24T07:30:00+00:00",
-   "url": "https://t.me/FinancialJuice/142467",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "24분 전"
-  },
-  {
-   "text": "China's Premier Li Qiang visits Dandong to meet North Korea's Kim Jong Un: Yonhap|FJ",
-   "dt": "2026-10-24T07:15:28+00:00",
-   "url": "https://t.me/FinancialJuice/142466",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "39분 전"
-  },
-  {
-   "text": "North Korea's Kim Jong Un appears to have reached Dandong, China via newly opened bridge: South Korean government source|FJ",
-   "dt": "2026-10-24T07:02:28+00:00",
-   "url": "https://t.me/FinancialJuice/142465",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "52분 전"
+   "ago": "5시간 전"
   },
   {
    "text": "아서 헤이즈 “전부 팔았다… 더 떨어져야 오른다” ETH·ENA·UNI 차익실현\n\n아서 헤이즈가 이더리움(ETH), 에테나(ENA), 유니스왑(UNI) 등 보유 디지털자산을 매도하고 차익을 실현했다고 24일 밝혔다. 거시경제와 지정학적 불확실성이 커진 가운데 추가 하락 가능성을…\n\n#ENA #ETH #Uni\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155748?utm_source=telegram&utm_medium=social",
@@ -82,23 +178,15 @@
    "url": "https://t.me/blockmedia/116579",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "57분 전"
+   "ago": "6시간 전"
   },
   {
-   "text": "Arthur Hayes: Maelstrom Has Closed Its Directional Positions, Taking Profits on ETH, ENA and UNI\n\nArthur Hayes said Maelstrom has closed all positions in its directional trading book, taking profits on ETH, ENA, UNI and other altcoins. He believes the market may need to fall before rising, citing uncertainty surrounding macroeconomic and geopolitical conditions. He plans to remain on the sidelines and wait for an all-clear signal. — link",
+   "text": "Arthur Hayes: Maelstrom Has Closed Its Directional Positions, Taking Profits on ETH, ENA and UNI\n\nArthur Hayes said Maelstrom has closed all positions in its directional trading book, taking profits on ETH, ENA, UNI and other altcoins. He believes the market may need to fall before rising, citing uncertainty surrounding macroeconomic and geopolitical conditions. He plans to remain on the sidelines and wait for an all-clear signal.\n\nAccording to @EmberCN, Arthur Hayes reduced his holdings in various tokens totaling approximately $26.08 million, including 8,000 ETH (approx. $19 million), 14 mill",
    "dt": "2026-10-24T06:53:15+00:00",
    "url": "https://t.me/wublockchainenglish/26537",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "North Korea's Kim Jong Un to visit China: S.Korean media|FJ",
-   "dt": "2026-10-24T06:03:59+00:00",
-   "url": "https://t.me/FinancialJuice/142464",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "1시간 전"
+   "ago": "6시간 전"
   },
   {
    "text": "[주간파생] 85K 실패한 비트코인…OI 꺾였지만 롱은 다시 쌓였다, 80K 분수령\n\n비트코인이 이번 주 8만5000달러 문턱까지 올랐다가 상승분을 대부분 반납했다. 상승 과정에서는 선물과 현물 매수가 함께 들어왔지만 고점 이후 매도세가 빠르게 확산됐고,…\n\n#BTC #비트코인\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155388?utm_source=telegram&utm_medium=social",
@@ -106,15 +194,7 @@
    "url": "https://t.me/blockmedia/116578",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "ECB releases media interview with Milano Finanza|FJ",
-   "dt": "2026-10-24T06:02:07+00:00",
-   "url": "https://t.me/FinancialJuice/142463",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "1시간 전"
+   "ago": "7시간 전"
   },
   {
    "text": "Highlight Clip: Arthur Hayes: High-FDV Shitcoins Can't Even Pump on Binance Anymore\n\nArthur Hayes: High-FDV Shitcoins Can't Even Pump on Binance Anymore\n\nFlop Labs CEO Arthur Hayes said in an October 16 interview with LukeMartin that the entire crypto industry has abused tokenomics. From ICOs to VC private sales and presales, some projects raise funds supposedly to build products, only to dump tokens after launching protocols and unlocking allocations. Retail investors buying at TGE suffer heavy losses, sometimes watching token prices plunge 95%. Hayes argued that retail investors increasingly",
@@ -122,7 +202,7 @@
    "url": "https://t.me/wublockchainenglish/26536",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "2시간 전"
+   "ago": "7시간 전"
   },
   {
    "text": "메타의 뮤즈는 계륵인가? WSJ, “AI 투자비 회수 불투명”\n\n메타 플랫폼스의 인공지능(AI) 에이전트 ‘뮤즈(Muse)’가 출시 한 달여 만에 1000만 다운로드를 돌파했다. 챗GPT보다 빠른 성장세다. 하지만 수천억달러에 달하는 AI 투자비를 감당할…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155683?utm_source=telegram&utm_medium=social",
@@ -130,7 +210,7 @@
    "url": "https://t.me/blockmedia/116577",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "2시간 전"
+   "ago": "7시간 전"
   },
   {
    "text": "Bitcoin Price Bets Help Push Weekly Crypto Volume on Kalshi and Polymarket to Record $2.7B\n\nBloomberg, citing data compiled by a Dune Analytics user, reported that weekly notional volume in crypto-related contracts on Kalshi and Polymarket hit a record $2.7 billion last week, driven mainly by bets on short-term Bitcoin and other crypto price moves. Crypto now ranks second only to sports on both platforms.\n\nCrypto exchanges are expanding into prediction markets as spot volumes decline, with Coinbase's offering powered by Kalshi. However, legal challenges to sports contracts in several U.S. stat",
@@ -138,7 +218,7 @@
    "url": "https://t.me/wublockchainenglish/26535",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "2시간 전"
+   "ago": "8시간 전"
   },
   {
    "text": "미국·이란 군사 긴장 재고조…중동 외교관 철수\n\n미국과 이란 사이의 군사적 긴장이 다시 높아지고 있다. 미국 정보당국이 이란의 미국인 대상 공격 계획이 상당히 진전됐다고 경고하면서다.\n\n미국 정부는 중동…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155720?utm_source=telegram&utm_medium=social",
@@ -146,7 +226,7 @@
    "url": "https://t.me/blockmedia/116576",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "3시간 전"
+   "ago": "8시간 전"
   },
   {
    "text": "AI 보안 ‘검은 10월’ … “누구나 공격하는 대해킹 시대 왔다”\n\n“누구나 인공지능(AI)을 이용해 시스템을 뚫어내는 시대가 온 겁니다.”\n\nAI가 해커의 공격 속도를 높이는 동시에 기존 소프트웨어의 보안 취약점을 찾아내는 이른바 ‘대해킹…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155680?utm_source=telegram&utm_medium=social",
@@ -154,7 +234,7 @@
    "url": "https://t.me/blockmedia/116575",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "3시간 전"
+   "ago": "8시간 전"
   },
   {
    "text": "크라켄, 모네로 출금 고객 ‘사용처 질문’ 철회…상장은 유지\n\n글로벌 디지털자산(가상자산) 거래소 크라켄이 모네로(XMR) 출금 고객에게 자금 출처와 사용 목적 등을 물은 데 대해 공식 사과하고, 해당 질문을 철회했다. 아르준…\n\n#모네로_XMR\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155716?utm_source=telegram&utm_medium=social",
@@ -162,7 +242,7 @@
    "url": "https://t.me/blockmedia/116574",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "3시간 전"
+   "ago": "9시간 전"
   },
   {
    "text": "이니시아, 해킹에 체인 멈춰…270만달러 유출\n\n모듈형 블록체인 이니시아(Initia·INIT)가 보안 사고로 네트워크를 멈춰 세웠다. 공격자가 버그를 악용해 토큰을 무단으로 찍어낸 뒤, 약 270만달러어치 디지털자산(가상자산)을 외부로 빼돌린 것으로…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155714?utm_source=telegram&utm_medium=social",
@@ -170,7 +250,7 @@
    "url": "https://t.me/blockmedia/116573",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "4시간 전"
+   "ago": "9시간 전"
   },
   {
    "text": "이더리움 OG, 1000개 추가 매도…누적 수익 880만달러\n\n8년 전 이더리움(Ethereum·ETH)을 사들인 초기 투자자(OG)가 보유 물량 1000개를 팔았다. 매도 금액은 약 268만달러다.\n\n블록체인 분석 플랫폼 룩온체인(Lookonchain)은 이 투자자가 이더리움…\n\n#ETH #이더리움\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155705?utm_source=telegram&utm_medium=social",
@@ -178,7 +258,7 @@
    "url": "https://t.me/blockmedia/116572",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "4시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "Kraken: Asking How Funds Will Be Used After Leaving the Platform Is Unacceptable; XMR Will Remain Listed\n\nKraken co-CEO Arjun Sethi said the platform was wrong to send emails to clients who bought and withdrew Monero (XMR) using their own money, asking for information about their employer, source of funds, and intended use of the coins. He said no rule required these inquiries, and someone had flagged a client simply for being young and having substantial funds. The requests have been withdrawn, and affected clients have been told they do not need to provide anything. Sethi said asking where f",
@@ -186,7 +266,7 @@
    "url": "https://t.me/wublockchainenglish/26534",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "4시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "비트코인, 미국 중간선거 공식 깨졌다...일찍 온 저점, 7월 대비 40% 반등\n\n비트코인(BTC)은 최근 세 차례 미국 중간선거에서 모두 선거 직후 바닥을 찍었다. 그런데 올해는 이 흐름이 일찍 깨진 모습이다.\n\n비트코인은 24일 오전…\n\n#BTC #비트코인\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155692?utm_source=telegram&utm_medium=social",
@@ -194,7 +274,7 @@
    "url": "https://t.me/blockmedia/116571",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "5시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "UPBIT LISTING: 버블맵스(BMT) KRW 마켓 디지털 자산 추가\n\nUpbit 上新: Bubblemaps (BMT) 将上线韩元 (KRW) 交易对\n\nBMT  MarketCap: 18M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-10-24 10:35:02",
@@ -202,23 +282,7 @@
    "url": "https://t.me/BWEnews/16563",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "비트코인 8만달러 사수 충력전…美 증시 후퇴, 국채로 자금 이동(종합)\n\n미국 주식시장이 인공지능(AI) 투자 과열 우려와 인플레이션 압력에 밀려 한 주를 약세로 마감했다. 투자자들은 미국 국채로 이동하며 안전자산 선호를 강화했다. 위험자산…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155694?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-24T02:20:43+00:00",
-   "url": "https://t.me/blockmedia/116570",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "공황장에 비트코인도 흔들…2027년 금융위기 경고등\n\n금융시장에 공황이 닥치면 비트코인도 버텨내기 어렵다는 분석이 나온다. 투자자들이 현금 확보에 나서면 비트코인 역시 매도 대상이 될 수 있기 때문이다.\n\n최근…\n\n#Bitcoin #BTC #비트코인\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1155679?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-24T01:27:01+00:00",
-   "url": "https://t.me/blockmedia/116569",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "6시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "HTX Adds Russia to List of Restricted Jurisdictions, Following Bitget and MEXC\n\nAccording to Russian business media outlet RBC, cryptocurrency exchange HTX has included Russia in its list of restricted jurisdictions under its user agreement. The restrictions apply to individuals residing in or located in Russia, as well as companies registered or primarily operating there. Under the agreement, HTX may restrict access to its services, suspend withdrawals, or close affected accounts.\n\nEarlier in October, Bitget and MEXC also announced plans to discontinue services for Russian users. RBC did not ",
@@ -226,47 +290,7 @@
    "url": "https://t.me/wublockchainenglish/26533",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "Saudi civil defense: danger has passed in Najran|FJ",
-   "dt": "2026-10-24T01:09:05+00:00",
-   "url": "https://t.me/FinancialJuice/142462",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate|FJ",
-   "dt": "2026-10-24T01:08:27+00:00",
-   "url": "https://t.me/FinancialJuice/142461",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "Saudi civil defense: danger has passed in Riyadh|FJ",
-   "dt": "2026-10-24T01:08:02+00:00",
-   "url": "https://t.me/FinancialJuice/142460",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate|FJ",
-   "dt": "2026-10-24T01:01:15+00:00",
-   "url": "https://t.me/FinancialJuice/142459",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV|FJ",
-   "dt": "2026-10-24T00:58:27+00:00",
-   "url": "https://t.me/FinancialJuice/142458",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "6시간 전"
+   "ago": "11시간 전"
   },
   {
    "text": "Bithumb Listing: [마켓 추가] 액시스로보틱스(AXIS) 원화 마켓 추가\n\nBithumb上新: [新增市场] 轴心机器人(AXIS)上线韩元交易对\n\nAXIS  MarketCap: 52.9M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-10-24 08:32:07\nsource: https://feed.bithumb.com/notice/1655384",
@@ -274,7 +298,7 @@
    "url": "https://t.me/BWEnews/16562",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "7시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "Argentine Judge Drops LIBRA Criminal Probe Against President Milei and Hayden Davis\n\nAccording to Reuters, Argentine federal judge Marcelo Martínez de Giorgi has dropped the criminal investigation into President Javier Milei, his sister Karina Milei, and U.S. businessman Hayden Davis over the LIBRA meme coin scandal, finding insufficient evidence of fraud.\n\nThe judge ruled that while Milei’s endorsement on X may have amplified the token’s launch, it did not in itself constitute a fraudulent scheme. Milei promoted LIBRA in February 2025 before deleting his post as the token’s price collapsed. B",
@@ -282,7 +306,7 @@
    "url": "https://t.me/wublockchainenglish/26532",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "7시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "Highlight Clip: CME Chairman: Hyperliquid Will Struggle to Enter the U.S. Market Without Addressing KYC Requirements\n\nCME Chairman: Hyperliquid Will Struggle to Enter the U.S. Market Without Addressing KYC Requirements\n\nOn October 20, 2026, CME Group CEO Terry Duffy said on Bloomberg's Odd Lots podcast that Hyperliquid cannot shift all regulatory responsibility to users or deployers by claiming it merely provides the underlying infrastructure. He argued that the lack of know-your-customer checks, combined with high leverage and automatic liquidation mechanisms, could trigger cascading liquidat",
@@ -290,7 +314,7 @@
    "url": "https://t.me/wublockchainenglish/26531",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "7시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "Hyperliquid Strategies Expands Share Buyback Program to 100 Million USD\n\nHyperliquid Strategies Inc. (NASDAQ: PURR), a HYPE-focused digital asset treasury company, has increased its share repurchase authorization from 30 million USD to 100 million USD, with approximately 72 million USD remaining available. The company also extended the program's expiration date from December 5, 2026, to October 31, 2027. Actual repurchases will depend on market conditions and management's discretion. — link",
@@ -298,7 +322,7 @@
    "url": "https://t.me/wublockchainenglish/26530",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "11시간 전"
+   "ago": "16시간 전"
   },
   {
    "text": "AggrNews: NETANYAHU SEEKS BLOCKCHAIN PLAN TO COUNTER POTENTIAL FUTURE FINANCIAL SANCTIONS ON ISRAEL: I24\n\nAggrNews: 内塔尼亚胡寻求区块链计划以应对未来对以色列潜在的金融制裁：I24\n\n————————————\n2026-10-24 00:12:24",
@@ -306,7 +330,7 @@
    "url": "https://t.me/BWEnews/16561",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "15시간 전"
+   "ago": "20시간 전"
   },
   {
    "text": "WuBlockchain Weekly\n\na16z plans to drop “Crypto” from its flagship fund name, CZ warns of critical PHP vulnerabilities under active exploitation, and the OCC issues its first rule under the GENIUS Act. Solana activates its Alpenglow upgrade targeting 150ms finality, while Switzerland approves its first retail Bitcoin ETF. This week also saw Mastercard expand AI agent payments with Coinbase and Base, Ethereum advance post-quantum proposals, and major companies oppose tokenized stock trading on OKXICE. For the complete weekly curated reports, subscribe to our Substack: — link",
@@ -314,31 +338,7 @@
    "url": "https://t.me/wublockchainenglish/26529",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "17시간 전"
-  },
-  {
-   "text": "CME Crypto Derivatives Trading Volume Reaches $469.5B in Q3\n\nCME Group reported record third-quarter revenue of $1.74 billion, up about 13% year over year, with net income of roughly $1 billion. Crypto derivatives averaged about 196,000 contracts per day during the quarter, representing approximately $469.5 billion in notional trading volume, including $326.7 billion in Bitcoin derivatives and $118.8 billion in Ether derivatives. — link",
-   "dt": "2026-10-23T13:34:04+00:00",
-   "url": "https://t.me/wublockchainenglish/26528",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "18시간 전"
-  },
-  {
-   "text": "Singapore, Malaysia and Thailand Central Banks Push Cross-Border Stablecoin and Tokenized Deposit Settlement\n\nAccording to MAS, the central banks of Singapore, Malaysia and Thailand will work with industry participants on cross-border settlement using regulated stablecoins, tokenized deposits and other forms of digital money. Ripple, Visa, Mastercard, Airwallex and the World Bank Group are among the new participants, with work focused on interoperability between payment networks and programmable compliance controls. — link",
-   "dt": "2026-10-23T12:35:09+00:00",
-   "url": "https://t.me/wublockchainenglish/26527",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "19시간 전"
-  },
-  {
-   "text": "QCP: AI Infrastructure Credit Stress Spills Into Equities and Crypto Markets\n\nQCP Capital said in its October 23 report that rising financing risks in AI infrastructure are spilling into equities and crypto markets, with Bitcoin tracking U.S. stocks lower. Yields on some CoreWeave bonds have climbed to around 15%, while its shares fell roughly 10% on October 22, reflecting concerns over heavy capital spending, debt servicing and future financing costs.\n\nMeanwhile, French 10-year government bond yields exceeded 5.1%, with spreads over German Bunds widening to about 170 basis points. Middle East",
-   "dt": "2026-10-23T11:39:39+00:00",
-   "url": "https://t.me/wublockchainenglish/26526",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "20시간 전"
+   "ago": "22시간 전"
   },
   {
    "text": "AggrNews: *VISA IN TALKS TO ACQUIRE CRYTPO CUSTODY FIRM FIREBLOCKS FOR AROUND $2.5B: BBG\n\nAggrNews: 消息称Visa正洽谈以约25亿美元收购加密货币托管公司Fireblocks：彭博社\n\n————————————\n2026-10-22 20:22:13",
@@ -346,7 +346,7 @@
    "url": "https://t.me/BWEnews/16560",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "Tree News: A16Z DROPS \"CRYPTO\" FROM FUND NAME, REBRANDS TO \"A16Z FRONTIER\": THE INFORMATION\n\nTree News: a16z 从基金名称中去掉 “crypto”，更名为 “a16z frontier”：The Information\n\n————————————\n2026-10-22 19:06:29",
@@ -354,7 +354,7 @@
    "url": "https://t.me/BWEnews/16559",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "1일 전"
+   "ago": "2일 전"
   },
   {
    "text": "Bithumb Listing: [마켓 추가] 아프로(AT) 원화 마켓 추가\n\nBithumb上新: [新增市场] APRO (AT) 上线韩元交易对\n\n————————————\n2026-10-21 19:46:57\nsource: https://feed.bithumb.com/notice/1655312",
@@ -362,7 +362,7 @@
    "url": "https://t.me/BWEnews/16558",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "UPBIT LISTING: 액시스로보틱스(AXIS) 신규 거래지원 안내 (KRW, BTC, USDT 마켓)\n\nUpbit 上新: 关于上线 AXIS Robotics (AXIS) 交易支持的公告（KRW、BTC、USDT 交易对）\n\n————————————\n2026-10-21 19:00:02",
@@ -370,7 +370,7 @@
    "url": "https://t.me/BWEnews/16557",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "Binance EN: Binance Futures Will Delist PTBUSDT and MITOUSDT USDⓈ-M Perpetual Contracts (2026-10-23)\n\n币安重要公告: 币安合约将于2026年10月23日下架 PTBUSDT 和 MITOUSDT USDⓈ-M 永续合约\n\nPTB  MarketCap: 5.7M\nMITO  MarketCap: 6.2M\n(Auto match could be wrong, 自动匹配可能不准确)\n————————————\n2026-10-21 17:30:01\nsource: https://cache.bwe-ws.com/bn-2232",
@@ -378,7 +378,7 @@
    "url": "https://t.me/BWEnews/16556",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "Binance EN: Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-10-21)\n\n币安重要公告: 币安合约将上线多个传统金融USDⓈ本位永续合约（2026-10-21）\n\n————————————\n2026-10-21 10:15:10\nsource: https://cache.bwe-ws.com/bn-2225",
@@ -410,7 +410,7 @@
    "url": "https://t.me/BWEnews/16552",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "3일 전"
+   "ago": "4일 전"
   },
   {
    "text": "U.S. CPI: +3.7% YEAR-OVER-YEAR (EST. +3.6%)\nU.S. CORE CPI: +2.6% YEAR-OVER-YEAR (EST. +2.5%)",
@@ -418,7 +418,7 @@
    "url": "https://t.me/TreeNewsFeed/8177",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "9일 전"
+   "ago": "10일 전"
   },
   {
    "text": "Citi Partners With Coinbase to Enable Stablecoin Payments for Institutional Clients -- WSJ",
@@ -426,7 +426,7 @@
    "url": "https://t.me/TreeNewsFeed/8176",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "25일 전"
+   "ago": "26일 전"
   },
   {
    "text": "BITGET CONFIRMS HACK WITH LOSSES APPROX. $350M, CLAIMS USER FUNDS ARE SAFE: BITGET CEO",
@@ -450,7 +450,7 @@
    "url": "https://t.me/TreeNewsFeed/8173",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "31일 전"
+   "ago": "32일 전"
   },
   {
    "text": "U.S. CPI: +3.4% YEAR-OVER-YEAR (EST. +3.4%)\nU.S. CORE CPI: +2.4% YEAR-OVER-YEAR (EST. +2.4%)",
@@ -458,7 +458,7 @@
    "url": "https://t.me/TreeNewsFeed/8172",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "42일 전"
+   "ago": "43일 전"
   },
   {
    "text": "TRUMP: SEC CHAIR WORKING TO BRING HYPERLIQUID INTO US",
@@ -482,7 +482,7 @@
    "url": "https://t.me/TreeNewsFeed/8169",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "72일 전"
+   "ago": "73일 전"
   },
   {
    "text": "*SEC POISED TO UNVEIL MAJOR CRYPTO PLANS AS CLARITY ACT STALLS: BBG",
@@ -498,7 +498,7 @@
    "url": "https://t.me/TreeNewsFeed/8167",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "74일 전"
+   "ago": "75일 전"
   },
   {
    "text": "STRATEGY: STRATEGY SOLD 1,637 BTC REDUCING HOLDINGS TO 842,138 BTC",
@@ -506,7 +506,7 @@
    "url": "https://t.me/TreeNewsFeed/8166",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "81일 전"
+   "ago": "82일 전"
   }
  ]
 }
