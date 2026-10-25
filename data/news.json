@@ -1,203 +1,355 @@
 {
- "updated": "2026-10-25 17:32:23 KST",
+ "updated": "2026-10-25 22:37:51 KST",
  "handle": "",
  "counts": {
-  "호재": 12,
-  "악재": 12,
-  "모호": 24,
-  "제외": 20
+  "호재": 18,
+  "악재": 13,
+  "모호": 27,
+  "제외": 25
  },
  "cards": [
   {
    "tone": "모호",
-   "title": "국내 거래량 비중 해외 25배 달한 ONDO",
-   "url": "https://www.tokenpost.kr/news/insights/427128",
+   "title": "JP모건 코인·USDC, 보유와 상환 자격 달라",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427166",
    "source": "토큰포스트",
-   "ago": "8분 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "크라켄의 은행업 진출과 자금 보호 우려",
-   "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/",
-   "source": "CryptoSlate",
-   "ago": "8분 전",
+   "ago": "1분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "하이퍼리퀴드 고래 포지션, 숏 비중 53%",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/427127",
+   "title": "노스캐롤라이나, 키오스크 사기 전액 환급법 시행",
+   "url": "https://www.tokenpost.kr/news/policy/427165",
    "source": "토큰포스트",
-   "ago": "9분 전",
+   "ago": "1분 전",
    "group": "crypto"
   },
   {
    "tone": "호재",
-   "title": "가상자산 과세 정보교환 2년 유예 법안 발의",
-   "url": "https://www.tokenpost.kr/news/policy/427126",
+   "title": "미 중간선거 이후 증시 안도감 형성 기대",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=a0659e58-16bd-4b48-a1f7-6af0774251e7&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "3분 전",
+   "group": "macro"
+  },
+  {
+   "tone": "악재",
+   "title": "노르웨이 국부펀드, 3분기 대규모 손실 기록",
+   "url": "https://www.tokenpost.kr/news/market/427164",
    "source": "토큰포스트",
    "ago": "10분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "비트코인, 8만~8만6000달러 좁은 횡보",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/427125",
+   "title": "미 의원들, AI 기업의 낙관론과 경고 모두 비판",
+   "url": "https://www.tokenpost.kr/news/ai/427163",
    "source": "토큰포스트",
-   "ago": "13분 전",
+   "ago": "14분 전",
    "group": "crypto"
   },
   {
    "tone": "호재",
-   "title": "테더, 비트코인 채굴 15곳과 MDK 연동",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/427122",
+   "title": "카르다노, 프로토콜 v11 공개 테스트넷 재가동",
+   "url": "https://www.tokenpost.kr/news/blockchain/427162",
    "source": "토큰포스트",
-   "ago": "39분 전",
+   "ago": "14분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "암호화폐 시장 약세 지속, 비트코인 8만 달러선",
-   "url": "https://www.tokenpost.kr/news/briefing/427119",
-   "source": "토큰포스트",
-   "ago": "1시간 전",
+   "title": "XRP 방향성 불투명…고래 이탈에 전문가 의견 팽팽",
+   "url": "https://www.blockmedia.co.kr/archives/1155912?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "14분 전",
    "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "ETF 자금 흐름과 과거 수익률의 밀접성",
-   "url": "https://www.tokenpost.kr/news/briefing/427118",
+   "tone": "호재",
+   "title": "XRP ETF 10월 1450만 달러 순유입",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427160",
    "source": "토큰포스트",
-   "ago": "1시간 전",
+   "ago": "25분 전",
    "group": "crypto"
   },
   {
    "tone": "악재",
-   "title": "가상자산 레버리지 포지션 4.5억 달러 청산",
-   "url": "https://www.tokenpost.kr/news/briefing/427116",
+   "title": "팔콘파이낸스, 2070만 달러 규모 토큰 언락",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427159",
    "source": "토큰포스트",
-   "ago": "1시간 전",
+   "ago": "32분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "비트코인 앞설 유망 알트코인 분석",
-   "url": "https://www.blockmedia.co.kr/archives/1155894?utm_source=general&utm_medium=rss",
+   "title": "헤지펀드 미 국채 보유액 2조 달러…매입 감소 가능성",
+   "url": "https://cryptoslate.com/hedge-funds-hold-2-trillion-in-us-debt-but-their-next-trade-could-require-fewer-bonds/",
+   "source": "CryptoSlate",
+   "ago": "34분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "영국 은행들, 암호화폐 거래 제한으로 민원 폭주",
+   "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+   "source": "CoinDesk",
+   "ago": "34분 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "엔비디아, AI 소프트웨어 GPU당 2000달러 구독료 논의",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+   "source": "Tom's Hardware",
+   "ago": "35분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "악재",
+   "title": "기프티엘 해킹으로 1만 8천여 명 개인정보 유출",
+   "url": "https://www.etnews.com/20261025000104",
+   "source": "전자신문",
+   "ago": "49분 전",
+   "group": "semi"
+  },
+  {
+   "tone": "악재",
+   "title": "XRP, 1.26달러 지지선 무너지면 추가 하락 위험",
+   "url": "https://www.blockmedia.co.kr/archives/1155909?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
-   "ago": "1시간 전",
+   "ago": "53분 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "러시아 디지털 루블 계좌 27만 개 돌파",
-   "url": "https://www.tokenpost.kr/news/policy/427115",
+   "title": "구글 AI 요약 적용 시 일반 링크 클릭률 절반 감소",
+   "url": "https://www.tokenpost.kr/news/ai/427157",
    "source": "토큰포스트",
    "ago": "1시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "Four.Meme, Agent ID 지갑 초기 거래 허용",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/427112",
+   "title": "비트코인 무작위 인스크립션 하루 40건 발생",
+   "url": "https://www.tokenpost.kr/news/blockchain/427156",
    "source": "토큰포스트",
    "ago": "1시간 전",
    "group": "crypto"
   },
   {
    "tone": "호재",
-   "title": "리플, 고가 부동산 암호화폐 거래 지원",
-   "url": "https://www.blockmedia.co.kr/archives/1155886?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
+   "title": "AI 로봇 기업 '로보아이', 내년 상반기 코넥스 상장 추진",
+   "url": "https://www.etnews.com/20261023000030",
+   "source": "전자신문",
+   "ago": "1시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "비트코인 Ahr999 지표 0.5…저평가 구간 접근",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427154",
+   "source": "토큰포스트",
    "ago": "1시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "페이퍼트레이드 7일간 850만 달러 수익 기록",
-   "url": "https://www.tokenpost.kr/news/cryptocurrency/427110",
+   "title": "비트코인, 높은 수익률에도 자산배분서 제외",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427153",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "지캐시 30일 수익률 -23.5%…11월 업그레이드 추진",
+   "url": "https://www.tokenpost.kr/news/blockchain/427152",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "시버스, 나스닥 상장 추진 및 연 생산 1억개 목표",
+   "url": "https://www.tokenpost.kr/news/tech/427151",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "톰 리 \"금융 99% 기존 인프라…은행 전환 지연될 수도\"",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427150",
+   "source": "토큰포스트",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "네타냐후, 제재 대응책으로 블록체인 활용 제안",
+   "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "ago": "1시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "도지코인 재단, 하우스오브도지 상표 계약 종료",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/427148",
    "source": "토큰포스트",
    "ago": "2시간 전",
    "group": "crypto"
   },
   {
+   "tone": "모호",
+   "title": "오픈AI 에이전트, 독자적 CPU 비밀 통신 채널 구축",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+   "source": "Tom's Hardware",
+   "ago": "2시간 전",
+   "group": "semi"
+  },
+  {
    "tone": "악재",
-   "title": "코인베이스 주가 급락 및 밸류에이션 논란",
-   "url": "https://www.blockmedia.co.kr/archives/1155881?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
+   "title": "폴카닷 지갑 20개월간 해킹 노출 사건 발생",
+   "url": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals/",
+   "source": "CryptoSlate",
    "ago": "2시간 전",
    "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "이더리움 고래, 567만 달러 투입해 청산 모면",
-   "url": "https://www.blockmedia.co.kr/archives/1155896?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
+   "tone": "호재",
+   "title": "AMD, 인기 CPU 라이젠 5800X3D 재출시 추진",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+   "source": "Tom's Hardware",
+   "ago": "2시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "호재",
+   "title": "엔비디아, 노후 원전을 AI 데이터센터로 전환 검토",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+   "source": "Tom's Hardware",
    "ago": "3시간 전",
-   "group": "crypto"
+   "group": "semi"
   },
   {
-   "tone": "호재",
-   "title": "머스크, X머니 1달러 간편 송금 기능 예고",
-   "url": "https://www.blockmedia.co.kr/archives/1155898?utm_source=general&utm_medium=rss",
+   "tone": "모호",
+   "title": "우크라이나의 러시아 에너지 공격과 트럼프 갈등",
+   "url": "https://www.investing.com/news/commodities-news/explainerhow-ukraines-strikes-on-russian-energy-sites-deepened-the-rift-with-trump-4971105",
+   "source": "Investing 원자재",
+   "ago": "3시간 전",
+   "group": "metal"
+  },
+  {
+   "tone": "악재",
+   "title": "삼성 스마트TV, 광고 목적 AI 녹음·캡처 논란",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+   "source": "Tom's Hardware",
+   "ago": "3시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "용인시, 반도체 컨벤션센터 조성 밑그림 논의",
+   "url": "https://www.etnews.com/20261025000101",
+   "source": "전자신문",
+   "ago": "3시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "KAIST, 전자를 안정적으로 잡는 원리 세계 첫 규명",
+   "url": "https://www.etnews.com/20261023000329",
+   "source": "전자신문",
+   "ago": "4시간 전",
+   "group": "semi"
+  },
+  {
+   "tone": "모호",
+   "title": "미 중간선거와 비트코인 향방…9만달러 vs 7만달러",
+   "url": "https://www.blockmedia.co.kr/archives/1155888?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
    "ago": "4시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "비트코인 반등론과 중간선거 저주론 팽팽",
-   "url": "https://www.blockmedia.co.kr/archives/1155882?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
-   "ago": "5시간 전",
-   "group": "crypto"
+   "title": "사우디, 예멘 후티 반군 드론 및 미사일 요격",
+   "url": "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+   "source": "Investing 원자재",
+   "ago": "4시간 전",
+   "group": "metal"
   },
   {
-   "tone": "악재",
-   "title": "이스라엘 중앙은행, 가상자산 제재 우회 반대",
-   "url": "https://www.blockmedia.co.kr/archives/1155869?utm_source=general&utm_medium=rss",
-   "source": "블록미디어",
+   "tone": "모호",
+   "title": "크라켄, 은행업 진출 추진…고객 자금 보호 우려",
+   "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/",
+   "source": "CryptoSlate",
    "ago": "5시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "XRP ETF 유입 정체 속 신규 펀드 론칭 주목",
-   "url": "https://www.blockmedia.co.kr/archives/1155867?utm_source=general&utm_medium=rss",
+   "title": "연말 비트코인 능가할 알트코인…모네로·HYPE 주목",
+   "url": "https://www.blockmedia.co.kr/archives/1155894?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
    "ago": "6시간 전",
    "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "아서 헤이즈 ENA 매도 속 시세 반등",
-   "url": "https://www.blockmedia.co.kr/archives/1155868?utm_source=general&utm_medium=rss",
+   "tone": "호재",
+   "title": "리플, 고가 부동산 결제 지원…실생활 채택 확대",
+   "url": "https://www.blockmedia.co.kr/archives/1155886?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
    "ago": "7시간 전",
    "group": "crypto"
   },
   {
-   "tone": "모호",
-   "title": "10월 비트코인 업토버 기회, 연준 및 실적 주시",
-   "url": "https://www.blockmedia.co.kr/archives/1155865?utm_source=general&utm_medium=rss",
+   "tone": "악재",
+   "title": "코인베이스 주가 30% 급락…가치평가 우려 심화",
+   "url": "https://www.blockmedia.co.kr/archives/1155881?utm_source=general&utm_medium=rss",
    "source": "블록미디어",
-   "ago": "7시간 전",
+   "ago": "8시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "이더리움 고래 567만 달러 추가 매수…청산 위기 해소",
+   "url": "https://www.blockmedia.co.kr/archives/1155896?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "9시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "머스크, X머니에 1달러 간편 송금 기능 추가",
+   "url": "https://www.blockmedia.co.kr/archives/1155898?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "9시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "파이어댄서, 중복 버그 신고에도 1 SOL 소각 요구",
+   "title": "비트코인 반등 전망 팽팽…'조기 반등' vs '하락'",
+   "url": "https://www.blockmedia.co.kr/archives/1155882?utm_source=general&utm_medium=rss",
+   "source": "블록미디어",
+   "ago": "10시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "파이어댄서, 중복 버그 신고에도 1 SOL 소모 적용",
    "url": "https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/",
    "source": "CryptoSlate",
-   "ago": "11시간 전",
+   "ago": "16시간 전",
    "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "은 가격 최근 급락 후 반등 가능할까? UBS 분석",
+   "title": "급락한 은 가격 회복할까…UBS 전망 분석",
    "url": "https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
    "source": "Investing 원자재",
-   "ago": "11시간 전",
+   "ago": "17시간 전",
    "group": "metal"
   },
   {
@@ -205,233 +357,157 @@
    "title": "서클, 기관 대상 USDC 수수료 수익 경매 도입",
    "url": "https://cryptoslate.com/circles-new-usdc-auctions-let-institutions-collect-the-fees-others-pay-to-cash-out/",
    "source": "CryptoSlate",
-   "ago": "12시간 전",
+   "ago": "17시간 전",
    "group": "crypto"
   },
   {
-   "tone": "악재",
-   "title": "크라켄, 모네로 30일 출금 한도 1,500달러 유지",
+   "tone": "모호",
+   "title": "크라켄, 모네로 개인 출금 한도 1500달러 제한 유지",
    "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/",
    "source": "CryptoSlate",
-   "ago": "13시간 전",
+   "ago": "18시간 전",
    "group": "crypto"
   },
   {
    "tone": "악재",
-   "title": "아서 헤이즈, 2,600만 달러 규모 암호화폐 매도",
+   "title": "아서 헤이즈, 2600만 달러 규모 암호화폐 매도 후 포지션 종료",
    "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
    "source": "CryptoSlate",
-   "ago": "14시간 전",
+   "ago": "19시간 전",
    "group": "crypto"
   },
   {
    "tone": "악재",
-   "title": "비트코인 8만 달러 붕괴에 4억 달러 롱 청산",
+   "title": "비트코인 8만 달러 하회…4시간 만에 롱 포지션 4억 달러 청산",
    "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
    "source": "The Block",
-   "ago": "14시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "NYSE 모회사, 24시간 주식 토큰 거래 지원",
-   "url": "https://cryptoslate.com/nyses-owner-is-backing-24-7-stock-tokens-without-wall-streets-usual-price-rules/",
-   "source": "CryptoSlate",
-   "ago": "15시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "아르헨 법원, 밀레이 대통령 리브라 코인 혐의 무죄 판결",
-   "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
-   "source": "The Block",
-   "ago": "15시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "이란의 미군 위협 증가 경고, 중동 리스크 고조",
-   "url": "https://www.investing.com/news/commodities-news/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns-4970887",
-   "source": "Investing 원자재",
-   "ago": "16시간 전",
-   "group": "metal"
-  },
-  {
-   "tone": "모호",
-   "title": "스트래티지 등, 비트코인 매수와 배당 균형 과제",
-   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-   "source": "CoinDesk",
-   "ago": "16시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "서클 주주, UAE 코인 계약 관련 트럼프 제소",
-   "url": "https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue/",
-   "source": "CryptoSlate",
-   "ago": "16시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "미 중동 대피령에 비트코인 8만 달러 아래로 하락",
-   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-   "source": "CoinDesk",
-   "ago": "16시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "빅테크의 반대에도 주식 토큰화는 지속 전망",
-   "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-   "source": "CoinDesk",
-   "ago": "17시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "비트코인 코어, 노드 취약점 보안 패치 가속화",
-   "url": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
-   "source": "CryptoSlate",
-   "ago": "17시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "아르헨, 밀레이 대통령 리브라 밈코인 수사 종결",
-   "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-   "source": "CoinDesk",
-   "ago": "17시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "악재",
-   "title": "웰스파고·시스코 등, 주식 토큰화 계획에 반대 표명",
-   "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-   "source": "CoinDesk",
-   "ago": "18시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "비트코인 고액 투자자, 대출·수익형 상품으로 이동",
-   "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-   "source": "CoinDesk",
-   "ago": "18시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "호재",
-   "title": "AI 열풍에 테마형 ETF 붐 가속화",
-   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=c2646188-9e32-4b72-bd7a-f00bf6b670fc&mod=mw_rss_bulletins",
-   "source": "MarketWatch",
-   "ago": "18시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "모호",
-   "title": "이란, 핵합의 무산 미 책임 돌리며 재협상 촉구",
-   "url": "https://www.investing.com/news/commodities-news/irans-pezeshkian-blames-us-for-interim-deal-failure-urges-new-try-4970834",
-   "source": "Investing 원자재",
-   "ago": "18시간 전",
-   "group": "metal"
-  },
-  {
-   "tone": "모호",
-   "title": "이더리움 거래소 유출 급증 속 ETF 손실 확대",
-   "url": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
-   "source": "CryptoSlate",
-   "ago": "18시간 전",
-   "group": "crypto"
-  },
-  {
-   "tone": "모호",
-   "title": "투자자들이 미 연준에 정말 바라는 명확한 답변",
-   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb0d14-3084-40cf-b20e-075bd0b29ed3&mod=mw_rss_bulletins",
-   "source": "MarketWatch",
-   "ago": "18시간 전",
-   "group": "macro"
-  },
-  {
-   "tone": "호재",
-   "title": "홍콩 최대 은행, 300만 개 지갑에 스테이블코인 도입",
-   "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-   "source": "Decrypt",
    "ago": "19시간 전",
    "group": "crypto"
   },
   {
    "tone": "호재",
-   "title": "월가 환매조건부채권 시장, 블록체인 기술 채택",
-   "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/",
+   "title": "뉴욕증권거래소 모기업, 24시간 주식 토큰화 지원",
+   "url": "https://cryptoslate.com/nyses-owner-is-backing-24-7-stock-tokens-without-wall-streets-usual-price-rules/",
    "source": "CryptoSlate",
    "ago": "20시간 전",
    "group": "crypto"
   },
   {
+   "tone": "호재",
+   "title": "아르헨티나 법원, 밀레이 대통령 LIBRA 사건 무혐의 처분",
+   "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+   "source": "The Block",
+   "ago": "21시간 전",
+   "group": "crypto"
+  },
+  {
    "tone": "모호",
-   "title": "미 규제 불확실성에 아시아·중동 블록체인 경쟁력 부각",
-   "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+   "title": "비트코인 매수 기업들, 매수와 우선주 배당 사이서 균형 고심",
+   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
    "source": "CoinDesk",
-   "ago": "20시간 전",
+   "ago": "21시간 전",
    "group": "crypto"
   },
   {
    "tone": "악재",
-   "title": "텍사스주, 17개 데이터센터 건설 허가 전격 중단",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
-   "source": "Tom's Hardware",
-   "ago": "20시간 전",
-   "group": "semi"
+   "title": "서클 주주, 트럼프 상대로 UAE 코인 거래 관련 소송 제기",
+   "url": "https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue/",
+   "source": "CryptoSlate",
+   "ago": "21시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "중동 지정학 불안에 비트코인 8만 달러 하회…암호화폐 약세",
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+   "source": "CoinDesk",
+   "ago": "22시간 전",
+   "group": "crypto"
   },
   {
    "tone": "모호",
-   "title": "중국 공장, AI 서버용으로 RTX 5090 대량 분해",
-   "url": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
-   "source": "Tom's Hardware",
-   "ago": "20시간 전",
-   "group": "semi"
+   "title": "빅테크의 토큰화 주식 거절이 시장 실패가 아닌 이유",
+   "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+   "source": "CoinDesk",
+   "ago": "22시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 코어, 미지원 노드 확산에 보안 패치 가속",
+   "url": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
+   "source": "CryptoSlate",
+   "ago": "22시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "아르헨티나, 밀레이 대통령 밈코인 형사 수사 종결",
+   "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+   "source": "CoinDesk",
+   "ago": "22시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "악재",
+   "title": "웰스파고·시스코, OKXICE 토큰화 주식 사업에 반대",
+   "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+   "source": "CoinDesk",
+   "ago": "23시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "모호",
+   "title": "비트코인 고액 투자자, 대출·수익형 투자로 선회",
+   "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+   "source": "CoinDesk",
+   "ago": "23시간 전",
+   "group": "crypto"
+  },
+  {
+   "tone": "호재",
+   "title": "AI 열풍에 테마형 ETF 폭발적 성장… 자금 유입",
+   "url": "https://www.marketwatch.com/bulletins/redirect/go?g=c2646188-9e32-4b72-bd7a-f00bf6b670fc&mod=mw_rss_bulletins",
+   "source": "MarketWatch",
+   "ago": "23시간 전",
+   "group": "macro"
   }
  ],
  "digests": [
   {
    "key": "crypto",
    "title": "Crypto Summary",
-   "date": "2026-10-25 17:30",
+   "date": "2026-10-25 22:37",
    "sections": [
     {
-     "h": "비트코인 약세 및 대규모 청산",
+     "h": "비트코인 및 시장 동향",
      "items": [
-      "중동 불안에 비트코인 8만 달러선 하락",
-      "4억 달러 이상 대규모 롱 포지션 청산 발생",
-      "하이퍼리퀴드 고래 포지션 숏 비중 53% 기록",
-      "ONDO 국내 거래량 해외 대비 25배 폭증"
+      "중동 불안으로 비트코인 8만 달러 하회 및 4억 달러 청산",
+      "Ahr999 지표 저평가 구간 진입 속 향후 방향성 공방",
+      "고액 투자자의 수익형 상품 선회 및 기업 보유 부담 가중"
      ]
     },
     {
-     "h": "전통 금융권 RWA 및 블록체인 도입",
+     "h": "주요 알트코인 동향",
      "items": [
-      "NYSE 모회사의 24시간 주식 토큰 거래 추진",
-      "홍콩 대형 은행의 스테이블코인 도입 확대",
-      "월가 레포 시장 블록체인 기술 채택 확산",
-      "리플 기반 초고가 부동산 암호화폐 거래 지원"
+      "XRP ETF 유입에도 고래 이탈 및 지지선 위협 지속",
+      "이더리움 고래 대규모 매수 및 아서 헤이즈 포지션 종료"
      ]
     },
     {
-     "h": "규제 환경 및 글로벌 제도권 동향",
+     "h": "제도권 및 산업 이슈",
      "items": [
-      "가상자산 과세 정보교환 2년 유예 법안 발의",
-      "크라켄 은행업 진출 따른 고객 자금 우려 제기",
-      "아르헨티나 밀레이 대통령 코인 의혹 무죄 판결",
-      "美 규제 불확실성 속 아시아·중동 경쟁력 부각"
+      "NYSE 모기업의 주식 토큰화 추진 및 금융권 반발",
+      "크라켄 은행업 진출 추진과 코인베이스 주가 폭락",
+      "서클의 기관 수수료 경매 도입 및 주주 소송 발생"
      ]
     }
    ],
-   "oneLine": "비트코인이 8만 달러선에서 대규모 청산과 함께 흔들리는 반면, 전통 금융의 자산 토큰화와 블록체인 채택은 꾸준히 확장되는 양상임.",
+   "oneLine": "지정학적 리스크로 비트코인이 8만 달러를 하회하며 시장 전반이 약세를 보이나 전통 금융의 토큰화 및 사업 확장 시도는 지속되는 양상임.",
    "sources": [
     "CoinDesk",
+    "Cointelegraph",
     "CryptoSlate",
-    "Decrypt",
     "The Block",
     "블록미디어",
     "토큰포스트"
@@ -440,51 +516,28 @@
   {
    "key": "macro",
    "title": "경제 · 거시",
-   "date": "2026-10-25 17:30",
+   "date": "2026-10-25 22:37",
    "sections": [
     {
-     "h": "중동 지정학적 리스크 고조",
+     "h": "지정학적 리스크 및 원자재",
      "items": [
-      "이란의 미군 위협 경고로 긴장 재차 고조",
-      "핵합의 무산 관련 미 책임론 및 재협상 촉구"
+      "우크라이나의 러시아 에너지 타격에 따른 지정학적 갈등 지속",
+      "사우디의 예멘 후티 반군 드론 요격 등 중동 리스크 잔존",
+      "급락한 은 가격의 회복 가능성에 대한 UBS 전망 발표"
      ]
     },
     {
-     "h": "글로벌 시장 및 자산 동향",
+     "h": "증시 환경 및 투자 유입",
      "items": [
-      "미 연준의 통화정책 향방에 시장 관심 집중",
-      "급락했던 은 가격의 반등 가능성 주목",
-      "AI 투자 열풍에 따른 테마형 ETF 붐 가속화"
+      "미 중간선거 이후 증시 안도감 형성 기대감 확산",
+      "AI 열풍에 힘입은 테마형 ETF로의 폭발적 자금 유입"
      ]
     }
    ],
-   "oneLine": "중동 지정학적 불안이 지속되는 가운데 미 연준 정책과 AI ETF 등 시장 변수에 투자자 관심이 집중됨.",
+   "oneLine": "지정학적 리스크 지속에도 불구하고 미 중간선거 이슈와 AI 열풍에 힘입은 증시 안도감 및 자금 유입 기대됨.",
    "sources": [
     "Investing 원자재",
     "MarketWatch"
-   ]
-  },
-  {
-   "key": "semi",
-   "title": "반도체 · 산업",
-   "date": "2026-10-25 17:32",
-   "sections": [
-    {
-     "h": "AI 인프라 및 전력망 이슈",
-     "items": [
-      "텍사스주, 전력망 우려에 17개 데이터센터 인허가 전격 중단"
-     ]
-    },
-    {
-     "h": "글로벌 AI 칩 및 규제 우회 동향",
-     "items": [
-      "중국 공장, AI 서버 전용 목적으로 RTX 5090 분해 및 개조 포착"
-     ]
-    }
-   ],
-   "oneLine": "전력난으로 인한 美 데이터센터 증설 제동과 중국의 규제 우회용 고성능 GPU 개조 정황이 동시 부각됨.",
-   "sources": [
-    "Tom's Hardware"
    ]
   }
  ]
