@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 18:19:35 KST",
+ "updated": "2026-11-01 03:13:37 KST",
  "channels": [
   {
    "name": "Tree News",
@@ -29,28 +29,180 @@
  ],
  "items": [
   {
+   "text": "Chainalysis: Ethereum Reorg Triggers THORChain Emergency Pause, Delaying Laundering of Binance Hack Funds\n\nBlockchain analytics firm Chainalysis said an Ethereum chain reorganization on the morning of October 31 (EDT) caused THORChain to mistakenly issue a double refund to a user who had deposited 10 ETH, triggering an emergency pause. The pause blocked cross-chain swaps through most of THORChain’s bridges for all users, including North Korean money launderers, inadvertently delaying the laundering of a significant amount of funds stolen from Binance. — link",
+   "dt": "2026-10-31T17:58:19+00:00",
+   "url": "https://t.me/wublockchainenglish/26635",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "15분 전"
+  },
+  {
+   "text": "Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies|FJ",
+   "dt": "2026-10-31T17:35:45+00:00",
+   "url": "https://t.me/FinancialJuice/144213",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "37분 전"
+  },
+  {
+   "text": "Iran's navy: oil tanker 'operated in limited zone' - state media|FJ",
+   "dt": "2026-10-31T16:57:11+00:00",
+   "url": "https://t.me/FinancialJuice/144212",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media|FJ",
+   "dt": "2026-10-31T16:56:17+00:00",
+   "url": "https://t.me/FinancialJuice/144211",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: anticipate Trump, China's Xi to convene at G20 and APEC gatherings|FJ",
+   "dt": "2026-10-31T16:53:35+00:00",
+   "url": "https://t.me/FinancialJuice/144210",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month|FJ",
+   "dt": "2026-10-31T16:46:39+00:00",
+   "url": "https://t.me/FinancialJuice/144209",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Indian govt releases tax devolution of 1.09 trillion rupees to states as advance instalment|FJ",
+   "dt": "2026-10-31T16:41:48+00:00",
+   "url": "https://t.me/FinancialJuice/144208",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit|FJ",
+   "dt": "2026-10-31T16:39:59+00:00",
+   "url": "https://t.me/FinancialJuice/144207",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: might consider inviting Zelenskiy to G20 leaders summit in December, but decision rests with President Trump|FJ",
+   "dt": "2026-10-31T16:39:10+00:00",
+   "url": "https://t.me/FinancialJuice/144206",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: Trump yet to decide on military action against Iran|FJ",
+   "dt": "2026-10-31T16:37:36+00:00",
+   "url": "https://t.me/FinancialJuice/144205",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: hopes quad leaders can unveil more initiatives at November meeting|FJ",
+   "dt": "2026-10-31T16:36:39+00:00",
+   "url": "https://t.me/FinancialJuice/144204",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "OPEC+ agrees in principle to maintain production targets in December, source says|FJ",
+   "dt": "2026-10-31T16:34:53+00:00",
+   "url": "https://t.me/FinancialJuice/144203",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "US Secretary of State Rubio: international community shows rising interest in limited Black Sea ceasefire|FJ",
+   "dt": "2026-10-31T16:34:04+00:00",
+   "url": "https://t.me/FinancialJuice/144202",
+   "source": "FinancialJuice",
+   "note": "거시 지표 속보",
+   "ago": "1시간 전"
+  },
+  {
+   "text": "Binance: 90% of Stolen Assets Replenished; Withdrawals Set to Resume on Nov. 1\n\nBinance announced that it has now replenished 90% of the stolen asset shortfall. The top ten major tokens—including BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC—are now 100% fully backed by reserves. The funding sources for this replenishment include: a partial deployment of the SAFU, reallocated balances from the Futures Insurance Fund exceeding regulatory and risk-management requirements, and Binance’s own corporate treasury. Binance committed to subsequently replenishing SAFU back to approximately U",
+   "dt": "2026-10-31T15:05:20+00:00",
+   "url": "https://t.me/wublockchainenglish/26634",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "바이낸스, 해킹 손실 90% 보전…11월1일 출금 재개–세번째 공식 발표\n\n바이낸스가 대규모 해킹 사고로 발생한 자산 부족분의 90%를 충당했다고 31일 공식 발표했다. 비트코인과 이더리움 등 주요 10종 디지털자산은 100% 확보했다. 회사는…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159559?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-31T14:39:03+00:00",
+   "url": "https://t.me/blockmedia/116997",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "3시간 전"
+  },
+  {
+   "text": "ICE Reposts Trade[XYZ] Partnership Announcement, Emphasizing \"Plans to Bring\" and \"Subject to Regulatory Approvals\"\n\nFollowing the deletion of its earlier post, Intercontinental Exchange (ICE) reposted its partnership announcement with Trade[XYZ]. In the updated post, ICE amended its phrasing to emphasize that the two parties \"plan to bring Hyperliquid-based perps to the U.S.\" and that operating \"U.S. regulated versions\" remains strictly \"subject to regulatory approvals,\" with both parties seeking approvals to launch a new market built on Hyperliquid to operate KYC-compliant perp markets, incl",
+   "dt": "2026-10-31T12:32:07+00:00",
+   "url": "https://t.me/wublockchainenglish/26633",
+   "source": "Wu Blockchain",
+   "note": "아시아 크립토",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "바이낸스 해킹의 역설… “중앙화 돈은 되찾고, 탈중앙 돈은 털린다”\n\n바이낸스 63억달러 해킹 사건은 강력한 역설을 보여준다. 해커는 중앙화 거래소를 공격함으로써 사상 최대 규모의 돈을 훔쳐갔다.그러나 중앙화된 통제 시스템 덕분에 약…\n\n#BTC #ETH\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159541?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-31T12:19:42+00:00",
+   "url": "https://t.me/blockmedia/116996",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "5시간 전"
+  },
+  {
+   "text": "Tree News: ICE REPOSTS TRADE[XYZ] PARTNERSHIP ANNOUNCEMENT, CHANGES LANGUAGE TO INCLUDE \"PLAN TO BRING\" AND \"SUBJECT TO REGULATORY APPROVALS\"\n\nTree News: ICE 重新发布 TRADE[XYZ] 合作公告，修改措辞以包含“计划引入”及“尚待监管批准”\n\n————————————\n2026-10-31 19:42:08",
+   "dt": "2026-10-31T11:42:10+00:00",
+   "url": "https://t.me/BWEnews/16593",
+   "source": "BWEnews",
+   "note": "거래소 상장 공지",
+   "ago": "6시간 전"
+  },
+  {
+   "text": "바이낸스가 도둑맞은 비트코인은 왜 동결하지 못하나?\n\n역대 최대 피해를 입힌 바이낸스 해킹 사건은 비트코인, 이더리움 등 탈중앙 코인의 강점과 약점을 드러낸 대표적인 사례다.\n\n바이낸스는 사고 직후 테더,…\n\n#BTC #ETH #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159533?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-31T11:02:18+00:00",
+   "url": "https://t.me/blockmedia/116995",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "7시간 전"
+  },
+  {
+   "text": "[코생지] 해킹 공포에 알트코인 휘청⋯투매 대신 지표 살필 때\n\n코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다. 온체인 활동과 시장 참여, 소셜 신호를 종합한 코인 생명력 지표(Coin…\n\n#ATOM #BTC #CC #DOT #ETH #PEPE #SHIB #SOL #Stable #TRUMP #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1158833?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-31T09:33:05+00:00",
+   "url": "https://t.me/blockmedia/116994",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "8시간 전"
+  },
+  {
+   "text": "비트코인 백서 18주년…탈중앙화 가치 재조명\n\n비트코인 백서가 공개된 지 18년을 맞았다. 중앙기관 없이 개인 간 직접 거래를 구현하려던 비트코인의 초기 철학이 다시 주목받고 있다.\n\n비트코인 창시자…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159525?utm_source=telegram&utm_medium=social",
+   "dt": "2026-10-31T09:29:25+00:00",
+   "url": "https://t.me/blockmedia/116993",
+   "source": "블록미디어",
+   "note": "국내 크립토",
+   "ago": "8시간 전"
+  },
+  {
    "text": "보안업체도 당했다…체이널리시스 “고객정보 노출, 조사자료는 안전”\n\n블록체인 보안 분석업체 체이널리시스가 30일(현지시각) 외부 공격자의 사이버 공격으로 내부 시스템을 침해당했다고 밝혔다. 고객 이름과 이메일 주소 등 일부 정보가 유출됐다.…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159523?utm_source=telegram&utm_medium=social",
    "dt": "2026-10-31T09:16:08+00:00",
    "url": "https://t.me/blockmedia/116992",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "3분 전"
-  },
-  {
-   "text": "Danger has passed in Najran: Saudi civil defense|FJ",
-   "dt": "2026-10-31T09:09:48+00:00",
-   "url": "https://t.me/FinancialJuice/144161",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "9분 전"
-  },
-  {
-   "text": "Saudi civil defense warns of potential hazard in Najran|FJ",
-   "dt": "2026-10-31T09:07:25+00:00",
-   "url": "https://t.me/FinancialJuice/144160",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "12분 전"
+   "ago": "8시간 전"
   },
   {
    "text": "Chainalysis Hit by Cyberattack, Accessing User Names, Emails, and Organization Roles\n\nBlockchain data analytics and tracking firm Chainalysis disclosed that an external hacker used \"offensive agentic techniques\" to gain unauthorized access to its internal systems and tools, leading to the compromise of some non-sensitive customer data, including user IDs, full names, email addresses, and organization role labels. Chainalysis emphasized in an email that the security incident is unrelated to the recent crypto theft involving Binance. The current investigation has found no indication that investi",
@@ -58,7 +210,7 @@
    "url": "https://t.me/wublockchainenglish/26632",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "17분 전"
+   "ago": "9시간 전"
   },
   {
    "text": "바이낸스 해커는 똑똑한 바보인가? “자동화 자금세탁” vs “이동경로 다 보인다”\n\n바이낸스 해커에 대한 ‘평가’가 엇갈린다. 범인의 자금 세탁 방식을 놓고 정교한 자동화 시스템이라는 평과 이동경로가 다 보일 만큼 어설프다는 평이…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159507?utm_source=telegram&utm_medium=social",
@@ -66,15 +218,7 @@
    "url": "https://t.me/blockmedia/116991",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "Three planes carrying evacuated residents from Russian-controlled Oleshky in Ukraine reach Belarus, Belta news agency reports|FJ",
-   "dt": "2026-10-31T07:59:46+00:00",
-   "url": "https://t.me/FinancialJuice/144159",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "1시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "Highlight Clip: Trump on Binance Hack: Says He Has Long Been Wary of Digital Money Risks\n\nTrump on Binance Hack: Says He Has Long Been Wary of Digital Money Risks\n\nOn October 30, President Donald Trump addressed Binance’s reported $6.3 billion crypto theft during a press exchange in the White House Oval Office. Asked whether North Korea was responsible, Trump said the U.S. was still investigating. He added that Binance claimed it would recover the stolen funds and had the situation largely under control, but cautioned, “We’ll see.” Comparing digital transactions with traditional paper checks, ",
@@ -82,15 +226,7 @@
    "url": "https://t.me/wublockchainenglish/26631",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "Manama - Egyptian foreign minister: extremely concerned new escalation round will be more devastating and significantly impactful|FJ",
-   "dt": "2026-10-31T07:45:05+00:00",
-   "url": "https://t.me/FinancialJuice/144158",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "1시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "비트코인 ETF 6억4300만달러 순유출, ETF 상품 전반 자금 빠졌다\n\n미국 비트코인 현물 ETF(상장지수펀드)에서 30일(동부시간) 하루 동안 총 6억4300만달러 자금이 빠져나갔다. 블랙록(BlackRock)의 IBIT가 단일 상품 기준으로 가장 큰 순유출 규모인 2억3400만달러를…\n\n#BNB #BTC #ETH #SOL #XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159495?utm_source=telegram&utm_medium=social",
@@ -98,7 +234,7 @@
    "url": "https://t.me/blockmedia/116990",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "엑스알피 1.20달러 지지선 시험⋯기술적 분석\n\n엑스알피(XRP)가 단기 하락 채널을 벗어나지 못하면서 추가 하락 위험에 직면했다. 1.25달러 부근에서 매수세가 유입되고 있지만, 본격적인 추세 반전을 위해서는 1.40달러 저항선…\n\n#XRP\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159493?utm_source=telegram&utm_medium=social",
@@ -106,23 +242,7 @@
    "url": "https://t.me/blockmedia/116989",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "1시간 전"
-  },
-  {
-   "text": "Saudi civil defense: danger has passed in Jizan city|FJ",
-   "dt": "2026-10-31T07:11:04+00:00",
-   "url": "https://t.me/FinancialJuice/144157",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "Saudi civil defense warns of potential threat in Jizan city|FJ",
-   "dt": "2026-10-31T07:09:06+00:00",
-   "url": "https://t.me/FinancialJuice/144156",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "2시간 전"
+   "ago": "10시간 전"
   },
   {
    "text": "바이낸스 허이, 내부자 해킹 의혹 반박… “공개 데이터 살펴보라”\n\n바이낸스 해킹 사건을 둘러싸고 내부자 소행 의혹과 지급 능력에 대한 논쟁이 이어지고 있다.\n\n일부 이용자들은 대형 거래소가 직접 자산을 탈취할 이유가…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159500?utm_source=telegram&utm_medium=social",
@@ -130,15 +250,7 @@
    "url": "https://t.me/blockmedia/116988",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "2시간 전"
-  },
-  {
-   "text": "Two killed, five hurt in Ukrainian drone strike on Russia's Bryansk region, governor says|FJ",
-   "dt": "2026-10-31T06:57:45+00:00",
-   "url": "https://t.me/FinancialJuice/144155",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "2시간 전"
+   "ago": "11시간 전"
   },
   {
    "text": "Ethereum Block Builder Titan Builder Briefly Tops 24-Hour Protocol Revenue Rankings With $22.83M, Surpassing Tether\n\nAccording to DeFiLlama, Ethereum block builder Titan Builder briefly ranked first in 24-hour protocol revenue with $22.83 million, surpassing Tether. DeFiLlama co-founder 0xngmi said Titan Builder generated approximately $24.7 million in fees over the same period, an unusually high figure that DeFiLlama’s systems initially flagged and blocked as a data error. He attributed the surge in MEV activity to arbitrage opportunities created by hacker-related market disruptions and wides",
@@ -146,7 +258,7 @@
    "url": "https://t.me/wublockchainenglish/26630",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "2시간 전"
+   "ago": "11시간 전"
   },
   {
    "text": "암호화폐 신탁 산업, 1년 뒤 가장 중요한 대목이 될 것 – 타이거리서치\n\n- 디지털자산 수탁 시장은 1년 새 급성장해, 유럽 MiCA 수탁 인가 사업자가 50곳에서 230곳으로 4배 넘게 증가함\n- 수탁은 맡은 자산의 가치에 비례해 보관료를…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159003?utm_source=telegram&utm_medium=social",
@@ -154,7 +266,7 @@
    "url": "https://t.me/blockmedia/116987",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "3시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "Spot Bitcoin ETFs See $643M in Net Outflows, Ethereum ETFs Lose $156M\n\nAccording to SoSoValue data, U.S. spot Bitcoin ETFs recorded total net outflows of $643 million on October 30 (ET). BlackRock's IBIT saw the largest daily net outflow among spot Bitcoin ETFs at $234 million. Spot Ethereum ETFs recorded total net outflows of $156 million, marking their fifth consecutive day of net outflows. BlackRock’s ETHA saw the largest daily net outflow among spot Ethereum ETFs at $76.64 million. — link",
@@ -162,15 +274,7 @@
    "url": "https://t.me/wublockchainenglish/26629",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "3시간 전"
-  },
-  {
-   "text": "Saudi-led coalition: air defences intercepted and destroyed drone in Riyadh region|FJ",
-   "dt": "2026-10-31T05:40:14+00:00",
-   "url": "https://t.me/FinancialJuice/144154",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "3시간 전"
+   "ago": "12시간 전"
   },
   {
    "text": "Blockaid: 12 Crypto Project Websites Linked to Frontend Attacks; Flap and Kintsu Confirm DNS Hijacks\n\nSecurity firm Blockaid initially flagged potential frontend attacks targeting Flap and Kintsu. It later identified 10 additional websites serving the Step Drainer wallet-draining tool, including pickle[.]finance, origami[.]finance, and fluxbeam[.]xyz. The investigation is ongoing.\n\nFlap and Kintsu have confirmed DNS hijacks affecting their websites, warning users against visiting, connecting wallets, or signing transactions. Flap founder Cedric said users who had previously connected to the le",
@@ -178,7 +282,7 @@
    "url": "https://t.me/wublockchainenglish/26628",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "5시간 전"
+   "ago": "13시간 전"
   },
   {
    "text": "바이낸스, 63억달러 규모 해킹에 ‘자체 핫월렛 유출’ 인정\n\n리처드 텅 바이낸스 공동 최고경영자(CEO)는 사상 최대 규모인 약 63억달러의 디지털자산(가상자산) 해킹과 관련해 공격받은 것은 바이낸스 자체 핫월렛(온라인 지갑)이며 고객 자금은…\n\n#BTC #ETH #USDC #USDT\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159468?utm_source=telegram&utm_medium=social",
@@ -186,7 +290,7 @@
    "url": "https://t.me/blockmedia/116986",
    "source": "블록미디어",
    "note": "국내 크립토",
-   "ago": "5시간 전"
+   "ago": "14시간 전"
   },
   {
    "text": "Highlight Clip: Binance Co-CEO: Binance's Own Hot Wallet Was Compromised, Customer Funds Were Unaffected\n\nBinance Co-CEO: Binance's Own Hot Wallet Was Compromised, Customer Funds Were Unaffected\n\nBinance Co-CEO Richard Teng addressed users on October 30 following a roughly $6.3 billion hack, stating that Binance's own hot wallet was compromised while customer funds remained unaffected. He explained that most user assets are stored in cold wallets and only moved to hot wallets for withdrawals. Teng said Binance would cover all losses using company funds, with over $6.34 billion reserved, includ",
@@ -194,79 +298,7 @@
    "url": "https://t.me/wublockchainenglish/26627",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "오픈AI, 자금조달 200억달러로 축소…AI 투심 냉각\n\n오픈AI가 최근 인공지능(AI) 관련 주식 급락의 여파로 신규 자금조달 목표액과 기업가치 눈높이를 함께 낮췄다.\n\n파이낸셜타임스(FT)는 30일(현지시각) 밤 오픈AI가 기업가치 1조4000억달러에 300억달러를…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159464?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-31T03:27:23+00:00",
-   "url": "https://t.me/blockmedia/116985",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "5시간 전"
-  },
-  {
-   "text": "시장 급락 속 버틴 알트코인 3종…주말 신고가 넘본다\n\n세계 최대 디지털자산(가상자산) 거래소 바이낸스의 대규모 해킹 여파로 시장 전반에 매도세가 번진 가운데, 일부 알트코인은 사상 최고가 부근에서 버티고 있다. 하이퍼리퀴드(Hyperliquid·HYPE),…\n\n#HYPE #LEO #WBT\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159455?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-31T02:30:22+00:00",
-   "url": "https://t.me/blockmedia/116984",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "6시간 전"
-  },
-  {
-   "text": "킬라 “항복 매도 신호, 상승장 끝나지 않았다” …비트코인 50주 이동평균선 이탈\n\n비트코인(BTC)이 주봉 기준 50주 이동평균선 아래로 내려간 가운데, 디지털자산 분석가 킬라(Killa)가 비트코인 추가 매수에 나섰다. 과거 강세장에서도 일시적인 이동평균선 이탈…\n\n#BTC\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159449?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-31T01:49:08+00:00",
-   "url": "https://t.me/blockmedia/116983",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "[주간파생] 바이낸스 해킹에 롱 13억달러 증발…옵션은 비트코인 74K 대비\n\n바이낸스 해킹 충격이 디지털자산 파생시장을 덮쳤다. 비트코인은 8만1000달러대에서 7만6000달러대까지 급락했고, 하루 만에 15억달러가 넘는 레버리지 포지션이 청산됐다. 가격은 이후 7만8000달러대로 반등했지만…\n\n#BTC #바이낸스 #비트코인\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159100?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-31T01:33:12+00:00",
-   "url": "https://t.me/blockmedia/116982",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "CHINESE COMPOSITE PMI ACTUAL 49.7 (FORECAST -, PREVIOUS 50.7) $MACRO|FJ",
-   "dt": "2026-10-31T01:32:51+00:00",
-   "url": "https://t.me/FinancialJuice/144153",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "바이낸스 63억달러 해킹에…CFTC ‘연방 옵션’ 재조명\n\n바이낸스에서 사상 최대 규모의 해킹이 발생하면서 마이클 셀리그 미국 상품선물거래위원회(CFTC) 위원장이 내놓은 거래소 대상 자발적 ‘연방 옵션’이 다시 주목받고 있다. 블록체인…\n\n기사 보기 👉 https://www.blockmedia.co.kr/archives/1159441?utm_source=telegram&utm_medium=social",
-   "dt": "2026-10-31T01:31:29+00:00",
-   "url": "https://t.me/blockmedia/116981",
-   "source": "블록미디어",
-   "note": "국내 크립토",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "CHINESE NBS NON-MANUFACTURING PMI ACTUAL 49.7 (FORECAST 50, PREVIOUS 50.2) $MACRO|FJ",
-   "dt": "2026-10-31T01:31:00+00:00",
-   "url": "https://t.me/FinancialJuice/144150",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "China October official composite PMI at 49.7|FJ",
-   "dt": "2026-10-31T01:31:00+00:00",
-   "url": "https://t.me/FinancialJuice/144151",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "7시간 전"
-  },
-  {
-   "text": "China October official non-manufacturing PMI drops to 49.7 from September's 50.2|FJ",
-   "dt": "2026-10-31T01:31:00+00:00",
-   "url": "https://t.me/FinancialJuice/144152",
-   "source": "FinancialJuice",
-   "note": "거시 지표 속보",
-   "ago": "7시간 전"
+   "ago": "14시간 전"
   },
   {
    "text": "*TRUMP: LOOKING AT BINANCE HACK: BBG",
@@ -274,7 +306,7 @@
    "url": "https://t.me/TreeNewsFeed/8184",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "13시간 전"
+   "ago": "22시간 전"
   },
   {
    "text": "Grayscale: Hyperliquid Generates $105M in September Revenue as Income Sources Diversify\n\nAccording to an October 30 report by Grayscale, Hyperliquid generated approximately $105 million in revenue in September 2026, roughly flat year-over-year. Core trading fees accounted for about 64% of revenue, down from over 90% in mid-2025, as income from third-party markets, distribution partners, and USDC reserve yield expanded. Non-core revenue doubled year-over-year to $38 million. Grayscale identified regulated U.S. market access as a potential growth driver, citing Kraken parent Payward’s plans to b",
@@ -282,7 +314,7 @@
    "url": "https://t.me/wublockchainenglish/26626",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "15시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Tether Reports $1.5B in Q3 Operating Profit as Excess Reserves Nearly Double to $7.95B\n\nTether released its Q3 2026 reserve attestation prepared by BDO, reporting $1.5 billion in net operating profit for the quarter, roughly flat quarter-over-quarter, and $4.5 billion for the first nine months, primarily driven by U.S. Treasury bills and reverse repos. As of September 30, USDT issuance stood at approximately $184 billion, with total reserve assets of $191.5 billion and liabilities of $183.5 billion. Excess reserves nearly doubled from $4.1 billion at the end of Q2 to $7.95 billion, while direc",
@@ -290,7 +322,7 @@
    "url": "https://t.me/wublockchainenglish/26625",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "15시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "AggrNews: CFTC CHAIRMAN MICHAEL SELIG ON BINANCE HACK: WE WANT TO OFFER A FEDERAL OPTION TO THESE EXCHANGES TO COME AND REGISTER WITH THE CFTC CAN GET THIS FIRST - CNBC INTERVIEW\n\nAggrNews: 美国商品期货交易委员会（CFTC）主席迈克尔·塞利格谈币安黑客事件：我们希望为这些交易所提供一个联邦层面的选择，使其能够前来并在CFTC注册并率先获得合规——CNBC访谈\n\n————————————\n2026-10-30 23:41:15",
@@ -298,7 +330,7 @@
    "url": "https://t.me/BWEnews/16592",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "17시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Coinbase Executives Plan Potential Sale of Up to 13.6M COIN Shares Worth $2.2B\n\nAccording to Coinbase's Q3 SEC filing, CEO Brian Armstrong, co-founder Fred Ehrsam, and President Emilie Choi adopted Rule 10b5-1 trading plans allowing potential sales of up to 13.6 million COIN shares, worth approximately $2.2 billion based on the October 29 closing price. Armstrong's plan covers up to 8.17 million shares between November 16, 2026, and October 2027, subject to predetermined price thresholds. These are planned transactions, not completed sales. — link",
@@ -306,15 +338,7 @@
    "url": "https://t.me/wublockchainenglish/26624",
    "source": "Wu Blockchain",
    "note": "아시아 크립토",
-   "ago": "20시간 전"
-  },
-  {
-   "text": "Binance Reserves Over $6.34B in Company Funds to Cover Hack Losses, Including $5B in Affected Tokens\n\nBinance said it has reserved over $6.34 billion in company funds to cover losses from the hack, including $5 billion already held in the affected tokens. It is purchasing the remaining tokens through market and OTC channels, a process that may take longer due to limited liquidity. The reserved funds are separate from approximately $3 billion in frozen assets. Binance will publicly verify user assets through its Proof of Reserves. — link",
-   "dt": "2026-10-30T11:08:09+00:00",
-   "url": "https://t.me/wublockchainenglish/26623",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "22시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "Tree News: BINANCE IS WORKING WITH FBI AND US SECRET SERVICE AFTER $6.3 BILLION CRYPTO HEIST, SOURCE SAYS - RTRS\n\nTree News: 知情人士称，在发生63亿美元加密货币盗窃案后，币安正与联邦调查局及美国特勤局合作 —— 路透社\n\n————————————\n2026-10-30 18:53:49",
@@ -322,7 +346,7 @@
    "url": "https://t.me/BWEnews/16591",
    "source": "BWEnews",
    "note": "거래소 상장 공지",
-   "ago": "22시간 전"
+   "ago": "1일 전"
   },
   {
    "text": "BINANCE IS WORKING WITH FBI AND US SECRET SERVICE AFTER $6.3 BILLION CRYPTO HEIST, SOURCE SAYS - RTRS",
@@ -330,22 +354,6 @@
    "url": "https://t.me/TreeNewsFeed/8183",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "22시간 전"
-  },
-  {
-   "text": "Coinbase Q3 Revenue Falls 35% to $1.22B, Net Profit Rebounds to $719M; Prediction Markets Top $200M Annualized\n\nCoinbase reported Q3 2026 revenue of $1.22 billion, down 35% year over year, while net income rose 66% to $719 million, ending three consecutive quarters of losses. Earnings per share reached $2.51, with profits largely driven by unrealized crypto gains. Adjusted net income was $78 million. Meanwhile, prediction markets surpassed $200 million in annualized revenue, with 82% quarterly compound growth since launch. Coinbase's crypto trading market share reached 10.7%, while average USD",
-   "dt": "2026-10-30T09:56:19+00:00",
-   "url": "https://t.me/wublockchainenglish/26622",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
-   "ago": "23시간 전"
-  },
-  {
-   "text": "World’s Second-Largest Hardware Wallet Maker Trezor Warns of Suspected Hardware Implant in Device Sold by Reseller\n\nTrezor said it received a credible report of a suspected hardware implant in a Trezor Safe 5 device purchased from reseller CryptoBilis in August 2026. The company has not yet received the device for verification, and no CryptoBilis customer has reported losing funds.\n\nTrezor urged customers who purchased devices from CryptoBilis since March 2026 to move their funds to newly created wallets with new recovery seeds as soon as possible. The company removed CryptoBilis as a reseller",
-   "dt": "2026-10-30T07:31:24+00:00",
-   "url": "https://t.me/wublockchainenglish/26621",
-   "source": "Wu Blockchain",
-   "note": "아시아 크립토",
    "ago": "1일 전"
   },
   {
@@ -437,14 +445,6 @@
    "ago": "1일 전"
   },
   {
-   "text": "BWENEWS: TETHER FREEZES $971M USDT IN LIKELY BINANCE HACK, WITH NO UPDATE FROM BINANCE STILL, THERE ARE ALSO $820M UNFREEZE USDC IN HACKER WALLET. @Circle do something?  方程式新闻: Tether 冻结与疑似 Binance 黑客攻击相关的 9.71 亿美元 USDT，Binance 仍未更新进展，黑客钱包中另有 8.28 亿美元 USDC…",
-   "dt": "2026-10-29T21:11:18+00:00",
-   "url": "https://t.me/BWEnews/16579",
-   "source": "BWEnews",
-   "note": "거래소 상장 공지",
-   "ago": "1일 전"
-  },
-  {
    "text": "TETHER FREEZES $971M USDT IN LIKELY BINANCE HACK, WITH NO UPDATE FROM BINANCE STILL",
    "dt": "2026-10-29T21:05:27+00:00",
    "url": "https://t.me/TreeNewsFeed/8180",
@@ -466,7 +466,7 @@
    "url": "https://t.me/TreeNewsFeed/8178",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "2일 전"
+   "ago": "3일 전"
   },
   {
    "text": "U.S. CPI: +3.7% YEAR-OVER-YEAR (EST. +3.6%)\nU.S. CORE CPI: +2.6% YEAR-OVER-YEAR (EST. +2.5%)",
@@ -474,7 +474,7 @@
    "url": "https://t.me/TreeNewsFeed/8177",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "16일 전"
+   "ago": "17일 전"
   },
   {
    "text": "Citi Partners With Coinbase to Enable Stablecoin Payments for Institutional Clients -- WSJ",
@@ -482,7 +482,7 @@
    "url": "https://t.me/TreeNewsFeed/8176",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "32일 전"
+   "ago": "33일 전"
   },
   {
    "text": "BITGET CONFIRMS HACK WITH LOSSES APPROX. $350M, CLAIMS USER FUNDS ARE SAFE: BITGET CEO",
@@ -506,7 +506,7 @@
    "url": "https://t.me/TreeNewsFeed/8173",
    "source": "Tree News",
    "note": "초속보 헤드라인",
-   "ago": "38일 전"
+   "ago": "39일 전"
   }
  ]
 }
