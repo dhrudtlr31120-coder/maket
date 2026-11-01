@@ -1,4 +1,13 @@
 {
- "updated": "2026-11-01 09:43:32 KST",
- "items": []
+ "updated": "2026-11-01 19:07:47 KST",
+ "items": [
+  {
+   "name": "S&P 500",
+   "icon": "🇺🇸",
+   "price": 7580.0,
+   "changePct": -0.57,
+   "display": "7,580",
+   "src": "yahoo"
+  }
+ ]
 }
